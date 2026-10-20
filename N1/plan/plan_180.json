@@ -25,6 +25,19 @@
       "reading": "しめきりが あしたなので、こんやは てつや せざるをえない。",
       "vi": "Hạn chót là ngày mai, nên tối nay đành phải thức trắng đêm."
      }
+    ],
+    "grammar_detail": "〜ざるを得ない diễn tả sự bắt buộc do hoàn cảnh dồn ép: người nói không hề muốn nhưng không còn lựa chọn nào khác, nên sắc thái luôn kèm theo sự miễn cưỡng, tiếc nuối. Đây là mẫu văn viết trang trọng, thường gặp trong báo cáo, luận văn, tin tức — trong hội thoại thường ngày người ta sẽ nói 〜なければならない hoặc 〜ないといけない thay thế. Khác với 〜なければならない (nghĩa vụ khách quan, có thể tự nguyện chấp nhận) và 〜ないわけにはいかない (bị ràng buộc bởi lẽ thường hay tình nghĩa, sắc thái nhẹ hơn), 〜ざるを得ない nhấn mạnh 'đường cùng'. Lỗi hay gặp: dùng mẫu này cho nghĩa vụ đơn thuần trong đời sống như 歯を磨かざるを得ない — nghe rất gượng gạo, phải dùng 歯を磨かなければならない.",
+    "extra_examples": [
+     {
+      "ja": "財布を忘れたので、今日のランチは同僚におごってもらわざるを得なかった。",
+      "reading": "さいふをわすれたので、きょうのランチはどうりょうにおごってもらわざるをえなかった。",
+      "vi": "Quên ví nên bữa trưa hôm nay đành phải để đồng nghiệp khao."
+     },
+     {
+      "ja": "上司の無茶な命令だが、逆らえばクビになるので従わざるを得ない。",
+      "reading": "じょうしのむちゃなめいれいだが、さからえばクビになるのでしたがわざるをえない。",
+      "vi": "Dù là mệnh lệnh vô lý của sếp, nhưng chống lại thì mất việc nên đành phải tuân theo."
+     }
     ]
    },
    "kanji": [
@@ -142,6 +155,19 @@
       "ja": "母の手料理を食べて、故郷を思わずにはいられなかった。",
       "reading": "ははの てりょうりを たべて、こきょうを おもわずには いられなかった。",
       "vi": "Ăn món mẹ nấu, tôi không khỏi nhớ về quê hương."
+     }
+    ],
+    "grammar_detail": "Mẫu này diễn tả cảm xúc, xung động mạnh đến mức không thể kìm nén — chủ thể 'không nhịn được mà phải' bộc lộ ra ngoài; điểm mấu chốt là tính không tự chủ của cảm xúc. Dùng được cả văn nói lẫn văn viết, thiên về miêu tả tâm trạng. Cần phân biệt với 〜てたまらない (mức độ cảm xúc 'không chịu nổi', thường đi với tính từ hoặc động từ trạng thái như 暑くてたまらない) và 〜てならない (cảm xúc tự nhiên nảy sinh như 心配でならない, không mang xung động hành động). Lỗi phổ biến: sai cấu tạo — phải là Vない bỏ ない rồi thêm ず (笑わずに), nhiều người viết nhầm thành 笑わないにはいられない; ngoài ra không dùng cho hành động có chủ ý đơn thuần, không liên quan đến cảm xúc.",
+    "extra_examples": [
+     {
+      "ja": "隣の人がスマホをいじりながら鼻歌を歌い続けるので、注意せずにはいられなかった。",
+      "reading": "となりのひとがスマホをいじりながらはなうたをうたいつづけるので、ちゅういせずにはいられなかった。",
+      "vi": "Người ngồi cạnh vừa nghịch điện thoại vừa hát nghêu ngao mãi, tôi không nhịn được phải nhắc."
+     },
+     {
+      "ja": "飼い犬の最期を看取って、泣かずにはいられなかった。",
+      "reading": "かいいぬのさいごをみとって、なかずにはいられなかった。",
+      "vi": "Tiễn chú chó cưng trong những giây phút cuối đời, tôi đã không kìm được nước mắt."
      }
     ]
    },
@@ -261,6 +287,19 @@
       "reading": "かれの せいこうを ねがってやまない。",
       "vi": "Tôi luôn mong anh ấy thành công."
      }
+    ],
+    "grammar_detail": "〜てやまない gắn với động từ chỉ mong ước, cầu nguyện, tin tưởng (祈る・願う・信じる・愛する) để diễn tả tình cảm mãnh liệt không bao giờ ngừng — sắc thái tha thiết, trang trọng. Đây gần như chỉ xuất hiện trong văn viết trang trọng: thư từ, diễn văn, lời chúc, bài báo; trong hội thoại thường ngày nghe rất cứng nhắc. Khác với 〜続ける hay 〜てばかりいる (chỉ sự tiếp diễn trung tính của hành động), やまない nhấn mạnh cảm xúc không dứt. Lỗi hay mắc: dùng trong văn nói suồng sã như ご飯を食べてやまない, hoặc ghép với động từ thường không mang nghĩa mong ước — mẫu này có tập động từ đi kèm rất hạn chế, không phải động từ nào cũng dùng được.",
+    "extra_examples": [
+     {
+      "ja": "宝くじで一等が当たりますようにと願ってやまない毎日だ。",
+      "reading": "たからくじでいっとうがあたりますようにとねがってやまないまいにちだ。",
+      "vi": "Ngày nào tôi cũng không ngừng khấn cho trúng giải nhất xổ số."
+     },
+     {
+      "ja": "彼の無実が証明される日を信じてやまない。",
+      "reading": "かれのむじつがしょうめいされるひをしんじてやまない。",
+      "vi": "Tôi luôn tin tưởng không lay chuyển vào ngày sự trong sạch của anh ấy được chứng minh."
+     }
     ]
    },
    "kanji": [
@@ -378,6 +417,19 @@
       "ja": "彼女に謝る機会を逃し、謝らずじまいに終わった。",
       "reading": "かのじょに あやまる きかいを のがし、あやまらずじまいに おわった。",
       "vi": "Bỏ lỡ cơ hội xin lỗi cô ấy, cuối cùng đã kết thúc mà chưa xin lỗi."
+     }
+    ],
+    "grammar_detail": "Mẫu này diễn tả sự tiếc nuối: việc đã định làm, đáng lẽ phải làm, nhưng rốt cuộc đã 'không làm mà kết thúc' — cơ hội trôi qua không trở lại. Dùng được trong cả văn nói và văn viết, sắc thái hơi trang trọng, thường đi kèm với 結局 hay ついに. Khác với 〜ないまま (trạng thái 'cứ để nguyên như vậy', chưa hẳn đã kết thúc, ví dụ 食べないまま出かけた) và 〜ずに終わった (cách nói suồng sã hơn), ずじまい nhấn mạnh kết cục đáng tiếc của cả một quá trình. Lỗi thường gặp: dùng cho việc ngay từ đầu đã không định làm, hoặc cấu tạo sai với する — phải là せずじまい chứ không phải しないじまい.",
+    "extra_examples": [
+     {
+      "ja": "ダイエットすると宣言したのに、ケーキの誘惑に負けて始めずじまいだった。",
+      "reading": "ダイエットするとせんげんしたのに、ケーキのゆうわくにまけてはじめずじまいだった。",
+      "vi": "Đã tuyên bố ăn kiêng mà thua trước cám dỗ của bánh kem, cuối cùng chẳng bắt đầu được."
+     },
+     {
+      "ja": "彼女に告白するつもりで呼び出したのに、緊張して言えずじまいだった。",
+      "reading": "かのじょにこくはくするつもりでよびだしたのに、きんちょうしていえずじまいだった。",
+      "vi": "Đã hẹn cô ấy ra định tỏ tình mà hồi hộp quá, cuối cùng chẳng thốt nên lời."
      }
     ]
    },
@@ -497,6 +549,19 @@
       "reading": "しんきょは しろを きちょうに した しろずくめの インテリアだ。",
       "vi": "Nhà mới có nội thất toàn màu trắng làm chủ đạo."
      }
+    ],
+    "grammar_detail": "〜ずくめ gắn sau danh từ để diễn tả toàn bộ bị bao phủ, nhuộm bởi một màu hay một thuộc tính duy nhất — sắc thái 'đồng nhất, ngập tràn', có thể tích cực (いいことずくめ) hoặc trung tính (黒ずくめ). Dùng trong cả văn nói và văn viết. Cần phân biệt với 〜だらけ (toàn những thứ tiêu cực, đáng chê như 間違いだらけ) và 〜まみれ (bị dính bẩn khắp người như 泥まみれ): ずくめ không mang nghĩa xấu, chỉ nhấn mạnh tính bao trùm. Lỗi hay mắc: dùng với nhiều thứ lẫn lộn — mẫu này yêu cầu MỘT danh từ duy nhất bao phủ toàn bộ; hoặc gán sắc thái tiêu cực kiểu 借金ずくめ, nghe không tự nhiên.",
+    "extra_examples": [
+     {
+      "ja": "彼女の部屋はピンクずくめで、まるでお菓子の家のようだ。",
+      "reading": "かのじょのへやはピンクずくめで、まるでおかしのいえのようだ。",
+      "vi": "Phòng cô ấy toàn màu hồng, cứ như nhà bánh kẹo vậy."
+     },
+     {
+      "ja": "息子はサッカーの試合から泥ずくめで帰ってきた。",
+      "reading": "むすこはサッカーのしあいからどろずくめでかえってきた。",
+      "vi": "Con trai đi đá bóng về người lấm lem toàn bùn đất."
+     }
     ]
    },
    "kanji": [
@@ -614,6 +679,19 @@
       "ja": "夢だに思わなかった再会だった。",
       "reading": "ゆめだに おもわなかった さいかい だった。",
       "vi": "Đó là cuộc tái ngộ mà ngay cả trong mơ cũng không dám nghĩ tới."
+     }
+    ],
+    "grammar_detail": "〜だに là mẫu văn viết cổ điển, trang trọng, dùng để nhấn mạnh phủ định: 'ngay cả X cũng không' — sắc thái tu từ mạnh, văn chương. Cấu tạo: danh từ + だに + động từ phủ định, hoặc Vる + ことだに + phủ định. Khác với 〜さえ (dùng được cả câu khẳng định, trung tính) và 〜すら (nhấn mạnh tương tự nhưng phổ biến hơn trong văn nói), だに CHỈ xuất hiện trong câu phủ định và gần như chỉ trong văn chương, diễn văn. Lỗi điển hình: dùng trong câu khẳng định, hoặc dùng trong hội thoại thường ngày sẽ nghe như đang đọc văn bia — muốn tự nhiên trong giao tiếp hãy dùng 〜さえ.",
+    "extra_examples": [
+     {
+      "ja": "彼の口から「ごめん」の一言だに聞いたことがない。",
+      "reading": "かれのくちから「ごめん」のひとことだにきいたことがない。",
+      "vi": "Chưa bao giờ nghe được dù chỉ một lời 'xin lỗi' từ miệng anh ta."
+     },
+     {
+      "ja": "その光景を思い出すだに、胸が痛む。",
+      "reading": "そのこうけいをおもいだすだに、むねがいたむ。",
+      "vi": "Chỉ cần nhớ lại cảnh tượng đó thôi, tim đã quặn đau."
      }
     ]
    },
@@ -733,6 +811,19 @@
       "reading": "かれの にほんごは じょうたつしつつある。",
       "vi": "Tiếng Nhật của anh ấy đang dần tiến bộ."
      }
+    ],
+    "grammar_detail": "〜つつある diễn tả sự thay đổi đang diễn ra dần dần theo một hướng xác định — trọng tâm là QUÁ TRÌNH biến đổi, không phải trạng thái tĩnh. Đây là mẫu văn viết trang trọng, 'đặc sản' của bản tin, báo cáo, luận văn; văn nói thường ngày dùng 〜てきている hoặc 〜ている. Phân biệt: 〜ている chỉ trạng thái đang tiếp diễn trung tính (住んでいる), còn 〜つつある nhất thiết phải đi với động từ chỉ biến đổi (増える・減る・進む・高まる). Lỗi phổ biến: ghép với động từ tức thời không có quá trình như 結婚しつつある — phải nói 結婚するところだ; và lạm dụng trong văn nói khiến câu nghe như đang đọc báo.",
+    "extra_examples": [
+     {
+      "ja": "スマホの普及で、若者のテレビ離れが進みつつある。",
+      "reading": "スマホのふきゅうで、わかもののテレビばなれがすすみつつある。",
+      "vi": "Với sự phổ biến của smartphone, giới trẻ đang ngày càng xa rời TV."
+     },
+     {
+      "ja": "長年の努力が実り、彼の店はようやく軌道に乗りつつある。",
+      "reading": "ながねんのどりょくがみのり、かれのみせはようやくきどうにのりつつある。",
+      "vi": "Nỗ lực nhiều năm đơm hoa kết trái, cửa hàng của anh ấy cuối cùng cũng đang dần đi vào quỹ đạo."
+     }
     ]
    },
    "kanji": [
@@ -850,6 +941,19 @@
       "ja": "会えるものなら、もう一度会いたい。",
       "reading": "あえるものなら、もういちど あいたい。",
       "vi": "Nếu mà gặp được, tôi muốn gặp lại một lần nữa."
+     }
+    ],
+    "grammar_detail": "〜ものなら đặt ra giả định mà người nói cho là KHÓ hoặc KHÔNG THỂ thành hiện thực, thường kèm theo ước muốn, tiếc nuối (〜たい・〜ほしい) — sắc thái 'giá mà được thì...'. Khác hẳn 〜ば・〜たら・〜なら (giả định trung tính cho tình huống có thể xảy ra), ものなら ngay từ đầu đã báo hiệu điều kiện phi thực tế. Thường đi với thể khả năng (行けるものなら). Lỗi hay gặp: dùng cho điều kiện hoàn toàn có thật như 明日雨が降るものなら — phải dùng 降ったら; và quên rằng vế sau thường là mong muốn chứ không phải kết quả logic của điều kiện.",
+    "extra_examples": [
+     {
+      "ja": "戻れるものなら、あの日の自分に「株を買え」と教えてやりたい。",
+      "reading": "もどれるものなら、あのひのじぶんに「かぶをかえ」とおしえてやりたい。",
+      "vi": "Nếu mà quay lại được, tôi muốn mách cho chính mình ngày hôm đó rằng 'mua cổ phiếu đi'."
+     },
+     {
+      "ja": "許せるものなら許したいが、彼の裏切りは忘れられない。",
+      "reading": "ゆるせるものならゆるしたいが、かれのうらぎりはわすれられない。",
+      "vi": "Nếu tha thứ được thì cũng muốn tha thứ lắm, nhưng sự phản bội của anh ta thì không thể nào quên."
      }
     ]
    },
@@ -969,6 +1073,19 @@
       "reading": "ふゆともなると、このあたりは ゆきが つもる。",
       "vi": "Cứ đến mùa đông, vùng này tuyết lại phủ."
      }
+    ],
+    "grammar_detail": "〜ともなると diễn tả: một khi đã đạt đến một vị thế, độ tuổi, mùa vụ nào đó thì kéo theo hệ quả tất yếu — sắc thái 'đã ở tầm ấy thì đương nhiên...'. Dùng trong cả văn nói và văn viết, hơi trang trọng. Khác với 〜たら・〜ば (điều kiện đơn thuần) và 〜となると (khi bàn đến chủ đề X), ともなると nhấn mạnh SỰ THĂNG CẤP lên một nấc mới: làm cha mẹ, làm giám đốc, sang tuổi 30, vào mùa đông. Lỗi thường gặp: dùng cho điều kiện nhất thời, cụ thể một lần như 雨が降るともなると — sai, phải dùng 降ると; mẫu này chỉ dùng cho trạng thái mang tính giai đoạn, địa vị, thời kỳ.",
+    "extra_examples": [
+     {
+      "ja": "三十代ともなると、健康診断の結果が気になり始める。",
+      "reading": "さんじゅうだいともなると、けんこうしんだんのけっかがきになりはじめる。",
+      "vi": "Một khi đã bước sang tuổi ba mươi, ai cũng bắt đầu để ý kết quả khám sức khỏe."
+     },
+     {
+      "ja": "受験生ともなると、年末年始も休めない。",
+      "reading": "じゅけんせいともなると、ねんまつねんしもやすめない。",
+      "vi": "Đã là sĩ tử mùa thi thì đến Tết cũng chẳng được nghỉ."
+     }
     ]
    },
    "kanji": [
@@ -1086,6 +1203,19 @@
       "ja": "金メダルではないまでも、入賞できたのは立派だ。",
       "reading": "きんメダルでは ないまでも、にゅうしょうできたのは りっぱだ。",
       "vi": "Dù không phải huy chương vàng, nhưng lọt vào top đã là đáng nể."
+     }
+    ],
+    "grammar_detail": "〜ないまでも là cách 'hạ chuẩn' đầy tinh tế: thừa nhận chưa đạt mức cao (vế ない), nhưng khẳng định vẫn đạt được mức thấp hơn đáng kể — sắc thái nhượng bộ, tự an ủi. Dùng trong cả văn nói và văn viết. Khác với 〜なくても (chỉ điều kiện 'dù không... cũng', trung tính) và 〜にしても (đưa ra ví dụ đại diện), ないまでも cấu trúc thành cặp đối lập 'chuẩn cao chưa tới — chuẩn thấp đã đạt'. Lỗi điển hình: đảo ngược trật tự — vế ないまでも phải là MỨC CAO chưa đạt được, vế sau là thành quả thực tế; viết ngược lại câu sẽ thành vô nghĩa hoặc buồn cười.",
+    "extra_examples": [
+     {
+      "ja": "プロにはなれないまでも、趣味としてピアノを続けたい。",
+      "reading": "プロにはなれないまでも、しゅみとしてピアノをつづけたい。",
+      "vi": "Dù không thành nghệ sĩ chuyên nghiệp được, tôi vẫn muốn tiếp tục chơi piano như một sở thích."
+     },
+     {
+      "ja": "全員が納得しないまでも、大多数の賛成は得られた。",
+      "reading": "ぜんいんがなっとくしないまでも、だいたすうのさんせいはえられた。",
+      "vi": "Dù chưa khiến tất cả hài lòng, nhưng cũng đã nhận được sự tán thành của đa số."
      }
     ]
    },
@@ -1205,6 +1335,19 @@
       "reading": "やりかたいかんでは、たんじかんで おわらせられる。",
       "vi": "Tùy cách làm mà có thể xong trong thời gian ngắn."
      }
+    ],
+    "grammar_detail": "〜いかんでは diễn tả kết quả phụ thuộc vào một yếu tố nào đó: tùy yếu tố đó thay đổi mà kết quả có thể tốt hoặc xấu, thành công hoặc thất bại. Đây là mẫu ngữ pháp trang trọng, thường dùng trong văn viết, báo cáo, bài thi N1, ít khi xuất hiện trong hội thoại thân mật hàng ngày. So với 〜によっては (phạm vi rộng, dùng cho mọi sự khác biệt chung chung) và 〜次第では (gần nghĩa nhất, nhưng 次第 nhấn mạnh 'hoàn cảnh/quyết định sẽ định đoạt'), 〜いかんでは tập trung vào việc kết quả có thể lật ngược theo mức độ/điều kiện của danh từ đi trước. Lỗi thường gặp: dùng いかんでは sau danh từ không quyết định được kết quả (ví dụ ×趣味いかんでは), hoặc nhầm sang によっては trong câu cần sắc thái nhấn mạnh sự phụ thuộc chặt chẽ.",
+    "extra_examples": [
+     {
+      "ja": "上司の機嫌いかんでは、この企画は即却下だ。",
+      "reading": "じょうしのきげんいかんでは、このきかくはそくきゃっかだ。",
+      "vi": "Tùy vào tâm trạng của sếp mà kế hoạch này có thể bị bác bỏ ngay lập tức."
+     },
+     {
+      "ja": "返事のタイミングいかんでは、彼女の怒りは爆発する。",
+      "reading": "へんじのタイミングいかんでは、かのじょのいかりはばくはつする。",
+      "vi": "Tùy vào thời điểm trả lời mà cơn giận của cô ấy có thể bùng nổ."
+     }
     ]
    },
    "kanji": [
@@ -1322,6 +1465,19 @@
       "ja": "子供たちは親の心配をよそに、元気に遊んでいる。",
       "reading": "こどもたちは おやの しんぱいを よそに、げんきに あそんでいる。",
       "vi": "Mặc kệ cha mẹ lo lắng, lũ trẻ vẫn chơi đùa vui vẻ."
+     }
+    ],
+    "grammar_detail": "〜をよそに mang sắc thái 'phớt lờ ánh mắt, ý kiến hay sự lo lắng của người khác để làm theo ý mình', có thể tích cực (quyết đoán, dám nghĩ dám làm) hoặc tiêu cực (ngang bướng, bất chấp) tùy ngữ cảnh. Mẫu này mang văn phong trang trọng, văn học, thường xuất hiện trong văn viết và bài thi, không dùng trong hội thoại suồng sã. So với 〜を無視して (trung tính, chỉ hành động phớt lờ một cách trực diện) và 〜にかまわず (khẩu ngữ hơn, nhấn mạnh 'bất chấp trở ngại'), をよそに đặc biệt nhấn mạnh đối tượng là 'cái nhìn/sự quan tâm của người khác' (世間の目、周囲の反対). Lỗi thường gặp: dùng をよそに với danh từ chỉ sự vật không phải ý kiến/cảm xúc của người khác, hoặc nhầm với よその (của người khác) trong cấu trúc sở hữu.",
+    "extra_examples": [
+     {
+      "ja": "彼女はダイエット宣言をよそに、深夜ラーメンをすすった。",
+      "reading": "かのじょはダイエットせんげんをよそに、しんやラーメンをすすった。",
+      "vi": "Mặc kệ lời tuyên bố ăn kiêng, cô ấy vẫn húp mì ramen lúc nửa đêm."
+     },
+     {
+      "ja": "飼い主の「散歩に行くよ」をよそに、犬はベッドから動こうとしない。",
+      "reading": "かいぬしの「さんぽにいくよ」をよそに、いぬはベッドからうごこうとしない。",
+      "vi": "Mặc kệ lời rủ đi dạo của chủ, con chó vẫn nhất quyết không rời khỏi giường."
      }
     ]
    },
@@ -1441,6 +1597,19 @@
       "reading": "ひはんを ものともせずに、じぶんの しんねんを つらぬいた。",
       "vi": "Bất chấp chỉ trích, anh ấy đã giữ vững niềm tin của mình."
      }
+    ],
+    "grammar_detail": "〜をものともせずに diễn tả thái độ không để khó khăn, nghịch cảnh làm chùn bước, toát lên khí phách dũng cảm và kiên cường. Đây là cách nói trang trọng, đậm chất văn học, hay xuất hiện trong văn viết, tin tức và bài thi N1. So với 〜にもかかわらず (trung tính, chỉ đơn thuần 'mặc dù') và 〜を顧みず (bỏ qua, không đoái hoài — thường dùng cho trách nhiệm, hậu quả), ものともせずに nhấn mạnh người hành động coi gian khổ 'như không có gì'. Lỗi thường gặp: gắn mẫu này với danh từ chỉ điều tích cực (×幸せをものともせずに) vì danh từ đi trước bắt buộc phải là nghịch cảnh; ngoài ra cần phân biệt với わずか (chỉ một chút) hay ものか (phản bác).",
+    "extra_examples": [
+     {
+      "ja": "彼は二日酔いをものともせずに、朝一番のプレゼンに臨んだ。",
+      "reading": "かれはふつかよいをものともせずに、あさいちばんのプレゼンにのぞんだ。",
+      "vi": "Bất chấp cơn say rượu hôm qua, anh ấy vẫn lao vào buổi thuyết trình đầu buổi sáng."
+     },
+     {
+      "ja": "台風をものともせずに、彼はゴルフに出かけた。",
+      "reading": "たいふうをものともせずに、かれはゴルフにでかけた。",
+      "vi": "Bất chấp bão, anh ấy vẫn đi đánh golf."
+     }
     ]
    },
    "kanji": [
@@ -1558,6 +1727,19 @@
       "ja": "努力した甲斐がなく、試合に負けてしまった。",
       "reading": "どりょくした かいがなく、しあいに まけてしまった。",
       "vi": "Công sức bỏ ra uổng phí, trận đấu đã thua."
+     }
+    ],
+    "grammar_detail": "〜甲斐がある khẳng định công sức, thời gian đã bỏ ra là xứng đáng khi gặt hái được kết quả, còn 〜甲斐がない diễn tả sự uổng phí công sức. Mẫu này dùng được cả trong văn viết lẫn hội thoại, mang sắc thái đời thường, gần gũi. So với 〜だけのことはある (kết quả tương xứng với nỗ lực) và 〜価値がある (bản thân sự vật có giá trị, không nhấn mạnh công sức), 甲斐がある tập trung vào 'sự đền đáp cho nỗ lực đã đầu tư'. Lỗi thường gặp: dùng nhầm Vる形 thay vì bắt buộc Vた形 (×頑張る甲斐がある), hoặc viết sai thành 〜甲斐で; cũng cần nhớ 甲斐がない không có nghĩa 'không đáng làm' mà là 'công sức đã bỏ ra trở thành uổng phí'.",
+    "extra_examples": [
+     {
+      "ja": "半年かけて育てた甲斐があって、盆栽が初めて花をつけた。",
+      "reading": "はんとしゅうかけてそだてたかいがあって、ぼんさいがはじめてはなをつけた。",
+      "vi": "Đáng công nửa năm chăm sóc, cây bonsai cuối cùng cũng ra hoa lần đầu."
+     },
+     {
+      "ja": "朝5時に起きた甲斐がなく、チケットはすでに売り切れていた。",
+      "reading": "あさ5じにおきたかいがなく、チケットはすでにうりきれていた。",
+      "vi": "Công dậy từ 5 giờ sáng uổng phí, vé đã bán hết sạch từ trước."
      }
     ]
    },
@@ -1677,6 +1859,19 @@
       "reading": "かれなり かのじょなりに じじょうが あるのだろう。",
       "vi": "Chắc anh ấy hay cô ấy đều có hoàn cảnh riêng."
      }
+    ],
+    "grammar_detail": "〜なり〜なり liệt kê hai (hoặc hơn) phương án và ngụ ý 'cái nào cũng được, tùy bạn chọn', thể hiện sự linh hoạt, không gò bó. Mẫu này hơi trang trọng, thường dùng trong lời đề nghị, lời khuyên, hướng dẫn trong văn viết và công việc. So với 〜か〜か (câu hỏi lựa chọn trung tính, khẩu ngữ) và 〜でも〜でも (khẩu ngữ, nhấn mạnh 'bất kỳ cái nào'), なり〜なり mang tính lịch sự, trang nhã hơn và hay dùng khi nêu cách thức liên lạc, thời gian. Một biến thể hay ra thi: 人なり人なり + 事情がある ('người này hay người kia đều có hoàn cảnh riêng'). Lỗi thường gặp: nhầm なり với なる (trở thành), hoặc viết thiếu なり thứ hai (×電話なりメールで), hoặc trộn với か (×電話なりかメールなり).",
+    "extra_examples": [
+     {
+      "ja": "暇なり余裕なりがあれば、実家に顔を出しなさい。",
+      "reading": "ひまなりよゆうなりがあれば、じっかにかおをだしなさい。",
+      "vi": "Nếu có lúc rảnh hay thời gian rỗi, hãy ghé thăm nhà bố mẹ."
+     },
+     {
+      "ja": "部長なり先輩なりに相談すれば、解決策が見つかるはずだ。",
+      "reading": "ぶちょうなりせんぱいなりにそうだんすれば、かいけつさくがみつかるはずだ。",
+      "vi": "Bàn với trưởng phòng hay đàn anh đều được, chắc chắn sẽ tìm ra cách giải quyết."
+     }
     ]
    },
    "kanji": [
@@ -1794,6 +1989,19 @@
       "ja": "給料をもらったそばから、使い果たしてしまった。",
       "reading": "きゅうりょうを もらった そばから、つかいはたしてしまった。",
       "vi": "Vừa nhận lương đã tiêu hết sạch."
+     }
+    ],
+    "grammar_detail": "〜そばから diễn tả việc B xảy ra gần như ngay lập tức sau khi A vừa hoàn thành, thường kèm sắc thái tiếc nuối, bất lực hoặc bực mình vì công sức trở nên vô ích. Mẫu này dùng được cả trong văn viết và hội thoại, rất đời thường. So với 〜たとたん (trung tính, chỉ sự tiếp nối bất ngờ, khẩu ngữ) và 〜が早いか (trang trọng, nhấn mạnh tính tức thời), そばから đặc trưng bởi cảm xúc 'vừa xong đã lại...' đầy chán nản. Lỗi thường gặp: dùng Vる形 thay vì bắt buộc Vた形 (×掃除するそばから), hoặc dùng cho kế hoạch tương lai chưa xảy ra; cũng không nên dùng khi hai sự việc không có quan hệ 'vừa xong — ngay sau đó'.",
+    "extra_examples": [
+     {
+      "ja": "ダイエットを決意したそばから、友達がケーキを差し入れてきた。",
+      "reading": "ダイエットをけついしたそばから、ともだちがケーキをさしいれてきた。",
+      "vi": "Vừa quyết tâm ăn kiêng xong, bạn đã mang bánh ngọt đến biếu."
+     },
+     {
+      "ja": "テスト勉強を始めたそばから、スマホの通知が鳴り続けた。",
+      "reading": "テストべんきょうをはじめたそばから、スマホのつうちがなりつづけた。",
+      "vi": "Vừa bắt đầu ôn thi, thông báo điện thoại đã kêu liên tục."
      }
     ]
    },
@@ -1913,6 +2121,19 @@
       "reading": "ドアが ひらくやいなや、いぬが とびかかってきた。",
       "vi": "Cửa vừa mở, con chó đã nhảy chồm tới."
      }
+    ],
+    "grammar_detail": "〜や否や diễn tả hai hành động xảy ra gần như đồng thời, với sắc thái kịch tính, dồn dập như trong truyện kể — 'ngay khoảnh khắc ấy'. Đây là mẫu văn viết trang trọng, đậm chất văn học, hiếm khi dùng trong hội thoại hàng ngày. So với 〜が早いか (trang trọng, tương đương về tính tức thời nhưng ít kịch tính hơn) và 〜たとたん (khẩu ngữ, thường mang sắc thái bất ngờ/tiêu cực), や否や là lựa chọn trang nhã nhất cho văn bản. Lỗi thường gặp: gắn sau Vている形 hay danh từ (chỉ dùng V辞書形), hoặc viết sai thành やいなや mà không biết や否や mới là chính tả đúng (やいなや chỉ là cách đọc); cũng tránh dùng cho sự việc không có tính 'ngay lập tức'.",
+    "extra_examples": [
+     {
+      "ja": "彼女はプロポーズされるや否や、「ちょっと考えさせて」と答えた。",
+      "reading": "かのじょはプロポーズされるやいなや、「ちょっとかんがえさせて」とこたえた。",
+      "vi": "Vừa được cầu hôn, cô ấy đã đáp ngay: 'Để em suy nghĩ một chút.'"
+     },
+     {
+      "ja": "冷蔵庫を開けるや否や、猫が足元にすり寄ってきた。",
+      "reading": "れいぞうこをあけるやいなや、ねこがあしもとにすりよってきた。",
+      "vi": "Tủ lạnh vừa mở, con mèo đã quấn quýt lấy chân ngay."
+     }
     ]
    },
    "kanji": [
@@ -2030,6 +2251,19 @@
       "ja": "好天と相まって、祭りは大成功だった。",
       "reading": "こうてんと あいまって、まつりは だいせいこう だった。",
       "vi": "Nhờ thời tiết đẹp cộng hưởng, lễ hội đã thành công rực rỡ."
+     }
+    ],
+    "grammar_detail": "〜と相まって diễn tả hai (hoặc nhiều) yếu tố cùng kết hợp, cộng hưởng với nhau để tạo ra một kết quả lớn hơn — không đơn thuần là cộng dồn mà là tương tác lẫn nhau. Đây là mẫu rất trang trọng, đặc thù của văn viết: báo chí, luận văn, phân tích kinh tế-xã hội. So với 〜に加えて (chỉ thêm một yếu tố nữa, đơn giản) và 〜とともに (cùng với, mang nghĩa song hành), 相まって nhấn mạnh hiệu ứng cộng hưởng (相乗効果). Lỗi thường gặp: dùng cho một nguyên nhân duy nhất, hoặc hai yếu tố không liên quan đến kết quả; cũng tránh dùng trong hội thoại thân mật vì sẽ nghe rất gượng gạo, lạc ngữ cảnh.",
+    "extra_examples": [
+     {
+      "ja": "少子化と相まって、地方の学校の統廃合が加速している。",
+      "reading": "しょうしかとあいまって、ちほうのがっこうのとうはいごうがかそくしている。",
+      "vi": "Cộng hưởng với tình trạng ít con, việc sáp nhập/giải thể trường học ở địa phương đang tăng tốc."
+     },
+     {
+      "ja": "記録的な猛暑と相まって、エアコンの売れ行きが好調だ。",
+      "reading": "きろくてきなもうしょとあいまって、エアコンのうれゆきがこうちょうだ。",
+      "vi": "Kết hợp với đợt nắng nóng kỷ lục, doanh số điều hòa đang bán rất chạy."
      }
     ]
    },
@@ -2149,6 +2383,19 @@
       "reading": "しゅっちょうがてら、きょうとを かんこうした。",
       "vi": "Nhân chuyến công tác, tôi đã tham quan Kyoto."
      }
+    ],
+    "grammar_detail": "〜がてら diễn tả việc 'nhân tiện' làm thêm một việc phụ nhỏ trong lúc thực hiện việc chính — việc phụ luôn ở vị thế thứ yếu, không phải mục đích chính. Mẫu này dùng được cả trong văn viết và hội thoại, mang sắc thái tự nhiên, đời thường. So với 〜かたがた (trang trọng, lịch sự, hai mục đích được trình bày ngang hàng, hay dùng trong thư từ, công việc) và 〜ついでに (khẩu ngữ, ngẫu hứng 'tiện thể thì làm luôn'), がてら nằm ở giữa: có chủ đích nhưng việc phụ vẫn nhỏ. Lỗi thường gặp: đảo ngược việc chính-phụ (việc phụ to hơn việc chính), hoặc sai cấu trúc (×散歩しがてら — phải là 散歩がてら vì gắn vào Vます形 bỏ ます hoặc danh từ).",
+    "extra_examples": [
+     {
+      "ja": "ジム帰りがてら、ドーナツを買って帰る自分が怖い。",
+      "reading": "ジムがえりがてら、ドーナツをかってかえるじぶんがこわい。",
+      "vi": "Nhân tiện từ phòng gym về, tôi lại mua donut mang về — tôi sợ chính mình mất."
+     },
+     {
+      "ja": "犬の散歩がてら、近所のパン屋を新規開拓した。",
+      "reading": "いぬのさんぽがてら、きんじょのパンやをしんきかいたくした。",
+      "vi": "Nhân tiện dắt chó đi dạo, tôi đã khám phá thêm một tiệm bánh mới trong khu phố."
+     }
     ]
    },
    "kanji": [
@@ -2266,6 +2513,19 @@
       "ja": "研究のかたわら、後輩の指導にも当たっている。",
       "reading": "けんきゅうの かたわら、こうはいの しどうにも あたっている。",
       "vi": "Bên cạnh nghiên cứu, anh ấy còn hướng dẫn đàn em."
+     }
+    ],
+    "grammar_detail": "〜かたわら diễn tả việc duy trì một vai trò, công việc thứ hai song song với công việc chính trong thời gian dài — 'bên cạnh việc... còn...'. Đây là mẫu trang trọng, thường dùng trong văn viết, hồ sơ, bài thi N1. So với 〜ながら (hai hành động diễn ra đồng thời trong cùng một khoảnh khắc, ví dụ 食べながら見る) và 〜つつ (trang trọng hơn của ながら), かたわら khác biệt ở chỗ nó chỉ 'song trùng vai trò' lâu dài chứ không phải hành động đồng thời tức thì. Lỗi thường gặp: dùng かたわら cho hai hành động cùng lúc ngắn hạn (×歩きかたわら音楽を聴く — phải dùng ながら), hoặc sai cấu trúc (danh từ phải có の: ×会社員かたわら), hoặc dùng Vた形 thay vì Vる形.",
+    "extra_examples": [
+     {
+      "ja": "彼女はYouTuberのかたわら、税理士としても働いている。",
+      "reading": "かのじょはユーチューバーのかたわら、ぜいりしとしてもはたらいている。",
+      "vi": "Bên cạnh việc làm YouTuber, cô ấy còn làm kế toán thuế."
+     },
+     {
+      "ja": "サラリーマンのかたわら、週末はプロ並みのシェフを目指している。",
+      "reading": "サラリーマンのかたわら、しゅうまつはプロなみのシェフをめざしている。",
+      "vi": "Bên cạnh việc làm nhân viên văn phòng, cuối tuần anh ấy hướng tới trình độ đầu bếp chuyên nghiệp."
      }
     ]
    },
@@ -2385,6 +2645,19 @@
       "reading": "ほうこくかたがた、そうだんがあって うかがいました。",
       "vi": "Tôi đến báo cáo nhân tiện cũng có việc muốn bàn."
      }
+    ],
+    "grammar_detail": "「〜かたがた」là mẫu câu trang trọng, dùng trong văn viết và giao tiếp lịch sự (thư từ, chào hỏi công việc), diễn tả việc nhân một mục đích chính mà tiện thể làm thêm một việc khác. Sắc thái: việc gắn với かたがた là việc phụ, còn mục đích thật sự (thường là việc đến thăm, đến gặp) mới là chính. So với 「〜ついでに」— mẫu câu thân mật dùng trong hội thoại, gắn sau động từ để chỉ \"tiện tay làm\" — thì かたがた gắn sau DANH TỪ và mang tính nghi thức, không dùng khi nói chuyện suồng sã với bạn bè. Lỗi sai phổ biến: dùng ついでに trong email trang trọng gửi khách hàng, hoặc nhầm thứ tự mục đích chính–phụ khiến câu nghe như việc phụ mới là lý do đến.",
+    "extra_examples": [
+     {
+      "ja": "散歩かたがた、コンビニで電気代を払ってきた。",
+      "reading": "さんぽかたがた、コンビニででんきだいをはらってきた。",
+      "vi": "Đi dạo tiện thể ghé cửa hàng tiện lợi đóng tiền điện luôn."
+     },
+     {
+      "ja": "お見舞いかたがた、病院の売店で限定プリンを買ってきた。",
+      "reading": "おみまいかたがた、びょういんのばいてんでげんていプリンをかってきた。",
+      "vi": "Đi thăm bệnh nhân tiện mua luôn bánh pudding bản giới hạn ở căng tin bệnh viện."
+     }
     ]
    },
    "kanji": [
@@ -2502,6 +2775,19 @@
       "ja": "新製品の発売を皮切りに、売上が伸び始めた。",
       "reading": "しんせいひんの はつばいを かわきりに、うりあげが のびはじめた。",
       "vi": "Mở đầu bằng việc ra mắt sản phẩm mới, doanh số bắt đầu tăng."
+     }
+    ],
+    "grammar_detail": "「〜を皮切りに」có nghĩa là \"mở màn bằng N\", điểm đặc trưng BẮT BUỘC là sau N phải có một CHUỖI sự kiện/sự việc tiếp nối nhau (tour diễn, đợt ra mắt sản phẩm, chuỗi chiến thắng...). Đây là mẫu văn viết trang trọng, hay gặp trong tin tức, báo cáo kinh doanh. Phân biệt với 「〜を機に」(ngày 23): を機に chỉ cần MỘT hành động thay đổi nhân cơ hội đó, không yêu cầu chuỗi tiếp nối — ví dụ \"結婚を機に引っ越した\" thì không thể dùng 皮切りに. Phân biệt với 「〜を契機に」(ngày 24): 契機に nhấn mạnh BƯỚC NGOẶT làm thay đổi bản chất sự việc, còn 皮切りに nhấn mạnh SỰ MỞ ĐẦU của một loạt diễn biến. Lỗi sai phổ biến: dùng 皮切りに cho một sự thay đổi đơn lẻ không có gì tiếp theo, hoặc dùng cho chuyện vặt trong đời sống hằng ngày.",
+    "extra_examples": [
+     {
+      "ja": "デビューシングルを皮切りに、アルバム発売、ドームツアーと怒涛の快進撃が続いた。",
+      "reading": "デビューシングルをかわきりに、アルバムはつばい、ドームツアーとどとうのかいしんげきがつづいた。",
+      "vi": "Mở màn bằng đĩa đơn đầu tay, tiếp đó là album rồi tour sân vận động mái vòm — chuỗi thắng lợi dồn dập cứ thế tiếp diễn."
+     },
+     {
+      "ja": "初日の大行列を皮切りに、このラーメン店は連日スープ切れの完売が続いている。",
+      "reading": "しょにちのだいぎょうれつをかわきりに、このラーメンてんはれんじつスープぎれのかんばいがつづいている。",
+      "vi": "Mở màn bằng hàng dài xếp hàng ngày khai trương, quán ramen này ngày nào cũng cháy hàng, hết sạch nước dùng."
      }
     ]
    },
@@ -2621,6 +2907,19 @@
       "reading": "この じけんを きに、しゃないの かんりたいせいを みなおした。",
       "vi": "Nhân sự việc này, công ty đã xem xét lại hệ thống quản lý nội bộ."
      }
+    ],
+    "grammar_detail": "「〜を機に」có nghĩa là \"nhân cơ hội N\", diễn tả việc lấy một sự kiện/dịp làm cớ để bắt đầu một hành động mới hoặc thay đổi cách làm. Sắc thái nhẹ và linh hoạt: dùng được cả trong văn viết trang trọng lẫn hội thoại thường ngày, và KHÔNG đòi hỏi chuỗi sự kiện tiếp nối. Phân biệt với 「〜を皮切りに」(ngày 22): 皮切りに bắt buộc có loạt diễn biến nối tiếp sau sự kiện mở màn, còn を機に chỉ cần một quyết định thay đổi duy nhất. Phân biệt với 「〜を契機に」(ngày 24): 契機に mang tầm vóc BƯỚC NGOẶT, dùng cho sự thay đổi lớn, sâu sắc và thường trong văn viết; を機に thì dùng được cho cả việc nhỏ như \"健康診断を機に運動を始めた\". Lỗi sai phổ biến: nhầm を機に với danh từ きっかけ (\"cái cớ, nguyên nhân\"), hoặc dùng 契機に cho chuyện đời thường khiến câu nghe quá nghiêm trọng.",
+    "extra_examples": [
+     {
+      "ja": "在宅勤務を機に、田舎に古民家を買ってしまった。",
+      "reading": "ざいたくきんむをきに、いなかにこみんかをかってしまった。",
+      "vi": "Nhân dịp làm việc từ xa, tôi đã lỡ mua luôn một căn nhà cổ ở quê."
+     },
+     {
+      "ja": "健康診断で再検査になったのを機に、ついにタバコをやめた。",
+      "reading": "けんこうしんだんでさいけんさになったのをきに、ついにタバコをやめた。",
+      "vi": "Nhân dịp khám sức khỏe bị yêu cầu tái khám, cuối cùng tôi đã bỏ thuốc lá."
+     }
     ]
    },
    "kanji": [
@@ -2738,6 +3037,19 @@
       "ja": "この出会いを契機に、新しい事業を始めた。",
       "reading": "この であいを けいきに、あたらしい じぎょうを はじめた。",
       "vi": "Từ cuộc gặp gỡ này làm bước ngoặt, tôi đã bắt đầu kinh doanh mới."
+     }
+    ],
+    "grammar_detail": "「〜を契機に」có nghĩa là \"lấy N làm bước ngoặt\", nhấn mạnh một sự kiện khiến sự việc rẽ sang hướng khác một cách SÂU SẮC, mang tính định mệnh. Đây là mẫu văn viết trang trọng, hay gặp trong báo chí, luận văn, diễn văn — sắc thái nặng và nghiêm túc hơn hẳn hai mẫu còn lại. Phân biệt với 「〜を機に」(ngày 23): を機に là \"nhân cơ hội\" để chủ động thay đổi hành động (kể cả việc nhỏ, dùng được trong hội thoại), còn 契機に là sự kiện khách quan TRỞ THÀNH bước ngoặt làm thay đổi bản chất vấn đề. Phân biệt với 「〜を皮切りに」(ngày 22): 皮切りに nhấn mạnh sự MỞ MÀN của chuỗi sự kiện tiếp nối, còn 契機に nhấn mạnh sự BIẾN ĐỔI về chất. Lỗi sai phổ biến: dùng 契機に cho chuyện vặt hằng ngày (\"ダイエットを契機に\" nghe rất kệch cỡm) hoặc nhầm với きっかけ trong văn nói.",
+    "extra_examples": [
+     {
+      "ja": "一匹の保護猫との出会いを契機に、彼女は動物愛護のボランティアを始めた。",
+      "reading": "いっぴきのほごねことのであいをけいきに、かのじょはどうぶつあいごのボランティアをはじめた。",
+      "vi": "Từ cuộc gặp gỡ định mệnh với một chú mèo hoang được cứu hộ, cô ấy đã bắt đầu hoạt động tình nguyện bảo vệ động vật."
+     },
+     {
+      "ja": "大停電を契機に、我が家は太陽光パネルを導入した。",
+      "reading": "だいていでんをけいきに、わがやはたいようこうパネルをどうにゅうした。",
+      "vi": "Từ trận mất điện diện rộng làm bước ngoặt, nhà tôi đã lắp đặt tấm pin năng lượng mặt trời."
      }
     ]
    },
@@ -2857,6 +3169,19 @@
       "reading": "ひっこしを さかいに、せいかつリズムが ととのった。",
       "vi": "Từ khi chuyển nhà trở đi, nhịp sống đã ổn định."
      }
+    ],
+    "grammar_detail": "「〜を境に」có nghĩa là \"từ mốc N trở đi\", xem N như một RANH GIỚI chia thời gian thành \"trước\" và \"sau\" với hai trạng thái đối lập rõ rệt. N thường là mốc thời gian, tuổi tác hoặc một sự kiện đáng nhớ. Mẫu này thiên về văn viết và lối kể chuyện trang trọng. So với 「〜を機に」(ngày 23): を機に nhấn mạnh NGUYÊN NHÂN/CƠ HỘI dẫn đến hành động mới, còn を境に nhấn mạnh SỰ TƯƠNG PHẢN trước–sau qua ranh giới thời gian. So với 「〜から」đơn thuần: を境に mang hàm ý \"như biến thành người khác\", thay đổi rõ rệt. Lỗi sai phổ biến: dùng を境に với hành động một lần trong tương lai (\"明日から\" thì chỉ cần から), hoặc dùng khi trước–sau không có sự đối lập đáng kể.",
+    "extra_examples": [
+     {
+      "ja": "結婚式を境に、彼は合コンに誘われても行かなくなった。",
+      "reading": "けっこんしきをさかいに、かれはごうコンにさそわれてもいかなくなった。",
+      "vi": "Từ sau đám cưới trở đi, dù được rủ đi tiệc ghép đôi anh ấy cũng không đi nữa."
+     },
+     {
+      "ja": "転職を境に、夜型だった生活がすっかり朝型になった。",
+      "reading": "てんしょくをさかいに、よるがただったせいかつがすっかりあさがたになった。",
+      "vi": "Từ khi đổi việc trở đi, lối sống cú đêm của tôi đã hoàn toàn chuyển thành dậy sớm."
+     }
     ]
    },
    "kanji": [
@@ -2974,6 +3299,19 @@
       "ja": "新製品は従来品にも増して売れている。",
       "reading": "しんせいひんは じゅうらいひんにも まして うれている。",
       "vi": "Sản phẩm mới bán chạy hơn cả sản phẩm cũ."
+     }
+    ],
+    "grammar_detail": "「〜にも増して」có nghĩa là \"hơn cả N\", dùng để nhấn mạnh mức độ hiện tại VƯỢT TRỘI so với một mốc so sánh trong quá khứ (去年, 以前, 従来...). Sắc thái trung tính, dùng được cả văn viết lẫn hội thoại. So với 「〜に比べて/〜より」: các mẫu kia so sánh hai đối tượng ngang hàng, còn にも増して so sánh \"hiện tại\" với \"trước đây\" và luôn hàm ý sự GIA TĂNG. So với 「ますます」: ますます chỉ diễn tả xu hướng tăng dần chung chung, còn にも増して gắn với một mốc cụ thể. Lỗi sai phổ biến: gắn にも増して sau sự việc tương lai chưa xảy ra, hoặc dùng khi hai vế không phải quan hệ \"trước–sau\" (ví dụ so sánh hai người khác nhau thì phải dùng より).",
+    "extra_examples": [
+     {
+      "ja": "今年の花粉は去年にも増してひどく、目が開けていられない。",
+      "reading": "ことしのかふんはきょねんにもましてひどく、めがあけていられない。",
+      "vi": "Phấn hoa năm nay dữ dội hơn cả năm ngoái, mắt mở không nổi."
+     },
+     {
+      "ja": "彼は定年退職後にも増して忙しく、ゴルフの予定で手帳が埋まっている。",
+      "reading": "かれはていねんたいしょくごにもましてせわしく、ゴルフのよていでてちょうがうまっている。",
+      "vi": "Ông ấy sau khi nghỉ hưu còn bận hơn cả lúc đi làm, lịch trình đánh golf kín cả sổ tay."
      }
     ]
    },
@@ -3093,6 +3431,19 @@
       "reading": "こくせきを とわず、おおくの りゅうがくせいが あつまった。",
       "vi": "Bất kể quốc tịch, nhiều du học sinh đã tụ họp."
      }
+    ],
+    "grammar_detail": "「〜を問わず」có nghĩa là \"bất kể N\", diễn tả việc không phân biệt, không xét đến N. Đây là mẫu văn viết trang trọng, rất hay gặp trong thông báo tuyển dụng, quảng cáo, quy định (\"年齢・性別を問わず\"). N luôn là DANH TỪ chỉ phạm trù có thể phân loại (tuổi tác, quốc tịch, ngày đêm, hình thức...). So với 「〜にかかわらず」: nghĩa gần như tương đương nhưng にかかわらず linh hoạt hơn — dùng được sau động từ ở dạng 「〜か否かにかかわらず\", còn を問わず CHỈ đi với danh từ. So với 「〜を除いて/〜以外」: các mẫu kia là \"ngoại trừ\", còn を問わず là \"bao gồm tất cả, không loại trừ gì\". Lỗi sai phổ biến: gắn を問わず sau động từ, hoặc dùng trong hội thoại suồng sã khiến câu nghe cứng nhắc.",
+    "extra_examples": [
+     {
+      "ja": "天候を問わず決行しますので、雨具の用意をお願いします。",
+      "reading": "てんこうをとわずけっこうしますので、あまぐのよういをおねがいします。",
+      "vi": "Chương trình vẫn tiến hành bất kể thời tiết, xin quý vị chuẩn bị đồ đi mưa."
+     },
+     {
+      "ja": "老若男女を問わず楽しめる、参加無料のカラオケ大会を開催します。",
+      "reading": "ろうにゃくなんにょをとわずたのしめる、さんかむりょうのカラオケたいかいをかいさいします。",
+      "vi": "Chúng tôi tổ chức cuộc thi karaoke miễn phí, già trẻ gái trai ai cũng vui được."
+     }
     ]
    },
    "kanji": [
@@ -3210,6 +3561,19 @@
       "ja": "冗談ならいざしらず、本気で言っているのなら問題だ。",
       "reading": "じょうだんなら いざしらず、ほんきで いっているのなら もんだいだ。",
       "vi": "Đùa thì còn được, chứ nếu nói nghiêm túc thì thành vấn đề."
+     }
+    ],
+    "grammar_detail": "「〜ならいざしらず」có cấu trúc \"N ならいざしらず, (thực tế là M nên) ...\", nghĩa là \"nếu là N thì còn châm chước được, chứ còn (M) thì không\". Sắc thái: N là trường hợp GIẢ ĐỊNH có thể chấp nhận, M là thực tế KHÔNG thể chấp nhận — vế sau thường là phán xét, trách móc, cấm đoán. Mẫu này dùng trong hội thoại và văn viết trung tính, mang giọng điệu hơi gay gắt. So với 「〜はともかく\": はともかく chỉ là \"tạm gác N sang một bên\" trung tính, còn ならいざしらず nhấn mạnh sự TƯƠNG PHẢN giữa \"được tha thứ\" và \"không thể tha thứ\". So với 「〜ならまだしも\": nghĩa gần giống nhưng ならまだしも nhẹ nhàng, lịch sự hơn. Lỗi sai phổ biến: quên mất vế tương phản phía sau khiến câu lửng lơ, hoặc dùng trong ngữ cảnh tích cực (mẫu này hầu như luôn đi với đánh giá tiêu cực).",
+    "extra_examples": [
+     {
+      "ja": "寝坊ならいざしらず、連絡なしの無断欠勤はさすがに許されない。",
+      "reading": "ねぼうならいざしらず、れんらくなしのむだんけっきんはさすがにゆるされない。",
+      "vi": "Ngủ quên thì còn châm chước được, chứ nghỉ không phép mà không báo một tiếng thì thật không thể tha thứ."
+     },
+     {
+      "ja": "学生ならいざしらず、社会人が親に仕送りをもらうのはどうかと思う。",
+      "reading": "がくせいならいざしらず、しゃかいじんがおやにしおくりをもらうのはどうかとおもう。",
+      "vi": "Sinh viên thì còn được, chứ người đi làm rồi mà còn nhận tiền chu cấp của bố mẹ thì thấy sao sao ấy."
      }
     ]
    },
@@ -3329,6 +3693,19 @@
       "reading": "いちど サボったがさいご、べんきょうが てにつかなくなった。",
       "vi": "Một khi đã lười một lần thì không thể tập trung học được nữa."
      }
+    ],
+    "grammar_detail": "「〜たが最後」có nghĩa là \"một khi đã V thì...\", diễn tả việc sau khi hành động (ở thể た) xảy ra thì hậu quả là KHÔNG THỂ TRÁNH, KHÔNG THỂ DỪNG, nằm ngoài kiểm soát. Sắc thái: vế kết quả hầu như luôn là điều TIÊU CỰC hoặc mất kiểm soát (nghiện, lan truyền, sa đà...). Dùng được cả văn viết lẫn hội thoại. So với 「〜たら\": たら là điều kiện trung tính (\"nếu... thì\"), còn たが最後 nhấn mạnh TÍNH KHÔNG THỂ ĐẢO NGƯỢC — đã làm là tới bến. So với 「〜てしまったら\": gần nghĩa nhưng てしまったら nhấn mạnh sự hối tiếc, còn たが最後 nhấn mạnh sự tất yếu của hậu quả. Lỗi sai phổ biến: dùng たが最後 với kết quả tích cực có thể kiểm soát được (\"勉強したか最後、成績が上がった\" là sai), hoặc nhầm が最後 với danh từ 最後 (\"cuối cùng\").",
+    "extra_examples": [
+     {
+      "ja": "ダイエット中にケーキを一口食べたが最後、ホールごと平らげてしまった。",
+      "reading": "ダイエットちゅうにケーキをひとくちたべたがさいご、ホールごとたいらげてしまった。",
+      "vi": "Đang ăn kiêng mà lỡ cắn một miếng bánh kem thì coi như xong — chén sạch cả cái bánh to."
+     },
+     {
+      "ja": "彼に愚痴をこぼしたが最後、三時間の説教が始まった。",
+      "reading": "かれにぐちをこぼしたがさいご、さんじかんのせっきょうがはじまった。",
+      "vi": "Một khi đã lỡ than thở với anh ta thì coi như xong — bài thuyết giáo ba tiếng đồng hồ bắt đầu."
+     }
     ]
    },
    "kanji": [
@@ -3446,6 +3823,19 @@
       "ja": "彼は飛び上がらんばかりに喜んだ。",
       "reading": "かれは とびあがらんばかりに よろこんだ。",
       "vi": "Anh ấy vui mừng như thể sắp nhảy cẫng lên."
+     }
+    ],
+    "grammar_detail": "「〜んばかりに」có nghĩa là \"như thể sắp V\", gắn sau thể ない bỏ ない (泣く→泣かん, 降る→降らん), diễn tả dáng vẻ, trạng thái trông như SẮP sửa xảy ra hành động đó. Sắc thái văn chương, giàu hình ảnh, dùng để miêu tả sinh động trong văn viết và kể chuyện. So với 「〜かのように/〜みたいに\": các mẫu kia so sánh trạng thái chung chung (\"như là\"), còn んばかりに nhấn mạnh tính SẮP XẢY RA, dồn nén đến cực điểm. So với 「〜そうだ」(様態): そうだ là dự đoán khách quan (\"trông có vẻ sắp mưa\"), còn んばかりに là lối nói khoa trương, cảm xúc hơn. Lỗi sai phổ biến: dùng んばかりに với sự việc đã hoàn thành (mẫu này chỉ diễn tả \"sắp\", không diễn tả \"đã\"), hoặc chia sai thể ない (ví dụ する→せんばかりに mới đúng, không phải しんばかりに).",
+    "extra_examples": [
+     {
+      "ja": "子犬はしっぽをちぎれんばかりに振って、私を出迎えた。",
+      "reading": "こいぬはしっぽをちぎれんばかりにふって、わたしをでむかえた。",
+      "vi": "Chú cún con vẫy đuôi như thể sắp đứt lìa ra để đón tôi về."
+     },
+     {
+      "ja": "彼は今にも倒れんばかりに疲れ切り、ソファに崩れ落ちた。",
+      "reading": "かれはいまにもたおれんばかりにつかれきり、ソファにくずれおちた。",
+      "vi": "Anh ấy mệt lả như thể sắp gục đến nơi, đổ sụp xuống ghế sofa."
      }
     ]
    },
@@ -3565,6 +3955,19 @@
       "reading": "かれはじびょうのあっかで、いんたいをよぎなくされた。",
       "vi": "Vì bệnh mãn tính trở nặng, anh ấy buộc phải giải nghệ."
      }
+    ],
+    "grammar_detail": "〜を余儀なくされる là dạng bị động, diễn tả việc bị hoàn cảnh khách quan ép buộc phải làm điều không mong muốn — sắc thái hoàn toàn bị động, không có yếu tố tự nguyện. Mẫu này rất hay gặp trong tin tức, báo chí khi nói về phá sản, hủy bỏ, từ chức, sơ tán. So với 〜ざるを得ない (người nói tự quyết định dù miễn cưỡng, dùng được cả trong hội thoại), を余儀なくされる nhấn mạnh tính bị ép từ bên ngoài và trang trọng hơn hẳn. Lỗi hay gặp: dùng mẫu này cho hành động xuất phát từ ý chí bản thân — như vậy là sai, vì mẫu này luôn hàm ý không tự nguyện.",
+    "extra_examples": [
+     {
+      "ja": "コロナ禍で、多くの店が休業を余儀なくされた。",
+      "reading": "ころなかで、おおくのみせが きゅうぎょうを よぎなくされた。",
+      "vi": "Vì đại dịch corona, nhiều cửa hàng đã buộc phải tạm đóng cửa."
+     },
+     {
+      "ja": "円安の影響で、値上げを余儀なくされる企業が増えている。",
+      "reading": "えんやすの えいきょうで、ねあげを よぎなくされる きぎょうが ふえている。",
+      "vi": "Do đồng yên mất giá, ngày càng nhiều doanh nghiệp bị ép phải tăng giá."
+     }
     ]
    },
    "kanji": [
@@ -3683,6 +4086,19 @@
       "reading": "さいはつをふせぐべく、あたらしいたいさくがとられた。",
       "vi": "Nhằm ngăn tái diễn, các biện pháp mới đã được áp dụng."
      }
+    ],
+    "grammar_detail": "〜べく diễn tả mục đích cao đẹp, lớn lao với sắc thái trang trọng, thường thấy trong diễn văn, khẩu hiệu và văn bản chính thức. Về bản chất nó đồng nghĩa với 〜ために, nhưng ために trung tính và dùng được trong mọi ngữ cảnh, còn べく chỉ hợp với những mục đích xứng tầm như hòa bình, ước mơ, lý tưởng. Lỗi phổ biến của người học là dùng べく cho mục đích tầm thường hàng ngày — nghe rất buồn cười, như đang đọc diễn văn đi chợ. Ngoài ra べく chỉ đi với động từ thể hiện ý chí, không dùng với động từ vô ý chí hay tính từ.",
+    "extra_examples": [
+     {
+      "ja": "世界平和を実現すべく、各国首脳が集まった。",
+      "reading": "せかいへいわを じつげんすべく、かっこくしゅのうが あつまった。",
+      "vi": "Các nguyên thủ quốc gia đã tề tựu nhằm hiện thực hóa hòa bình thế giới."
+     },
+     {
+      "ja": "彼は家族を養うべく、朝から晩まで働いた。",
+      "reading": "かれは かぞくを やしなうべく、あさから ばんまで はたらいた。",
+      "vi": "Anh ấy làm việc từ sáng đến tối để nuôi sống gia đình."
+     }
     ]
    },
    "kanji": [
@@ -3799,6 +4215,19 @@
       "ja": "写真撮影をかねて、街を歩き回った。",
       "reading": "しゃしんさつえいを かねて、まちを あるきまわった。",
       "vi": "Nhân tiện chụp ảnh, tôi đã đi bộ lang thang khắp phố."
+     }
+    ],
+    "grammar_detail": "〜をかねて diễn tả việc một hành động phục vụ đồng thời hai mục đích — mục đích chính và mục đích kiêm thêm. Mẫu này tự nhiên trong cả hội thoại lẫn văn viết, rất tiện khi kể chuyện đời thường. Điểm dễ nhầm nhất là với 〜がてら: がてら nhấn mạnh hai việc diễn ra đồng thời (vừa đi dạo vừa mua sắm), còn をかねて nhấn mạnh một việc đạt hai mục đích, không nhất thiết phải cùng lúc. Lỗi hay gặp: đảo vị trí hai mục đích khiến câu khó hiểu — mục đích kiêm luôn đứng trước をかねて.",
+    "extra_examples": [
+     {
+      "ja": "親の見舞いをかねて、故郷に帰った。",
+      "reading": "おやの みまいを かねて、こきょうに かえった。",
+      "vi": "Nhân tiện về thăm bố mẹ đang ốm, tôi về quê luôn."
+     },
+     {
+      "ja": "歓迎会をかねて、新人の紹介を行った。",
+      "reading": "かんげいかいを かねて、しんじんの しょうかいを おこなった。",
+      "vi": "Kết hợp với buổi tiệc chào mừng, chúng tôi đã giới thiệu nhân viên mới."
      }
     ]
    },
@@ -3918,6 +4347,19 @@
       "reading": "けっこん 10しゅうねんを むかえて、ふたりで りょこうに でかけた。",
       "vi": "Nhân dịp 10 năm ngày cưới, hai vợ chồng đã cùng nhau đi du lịch."
      }
+    ],
+    "grammar_detail": "〜を迎えて mang nghĩa đón chào một thời kỳ, cột mốc mới — tốt nghiệp, năm mới, kỷ niệm thành lập — với sắc thái trang trọng, tích cực và hơi hướng lễ nghi. Khác với 〜に際して (nhân dịp một sự kiện cụ thể nào đó), を迎えて nhấn mạnh việc bước vào một giai đoạn mới của thời gian. Lỗi thường gặp: dùng を迎えて cho sự kiện tiêu cực hoặc quá nhỏ nhặt — mẫu này gần như luôn gắn với điều đáng mừng hoặc mang tính bước ngoặt.",
+    "extra_examples": [
+     {
+      "ja": "卒業を迎えて、恩師に感謝の手紙を書いた。",
+      "reading": "そつぎょうを むかえて、おんしに かんしゃの てがみを かいた。",
+      "vi": "Nhân dịp tốt nghiệp, tôi đã viết thư cảm ơn thầy cô."
+     },
+     {
+      "ja": "新社長を迎えて、会社は新たな一歩を踏み出した。",
+      "reading": "しんしゃちょうを むかえて、かいしゃは あらたな いっぽを ふみだした。",
+      "vi": "Đón chào vị tân giám đốc, công ty đã bước sang một trang mới."
+     }
     ]
    },
    "kanji": [
@@ -4035,6 +4477,19 @@
       "reading": "スマホを てにいれてからというもの、ほんを よむ じかんが へった。",
       "vi": "Kể từ khi có smartphone, thời gian đọc sách của tôi đã giảm hẳn."
      }
+    ],
+    "grammar_detail": "〜てからというもの nhấn mạnh rằng kể từ một thời điểm nào đó, một tình trạng mới đã bắt đầu và kéo dài cho đến hiện tại — trọng tâm là sự thay đổi trạng thái và tính liên tục của nó. So với 〜て以来 (chỉ đơn thuần đánh dấu mốc thời gian, trung tính), てからというもの mang cảm xúc rõ rệt của người nói, thường là ngạc nhiên, tiếc nuối hoặc châm biếm trước sự thay đổi. Lỗi hay gặp: dùng mẫu này cho sự việc đã kết thúc trong quá khứ — vì てからというもの mặc định tình trạng đó vẫn còn tiếp diễn đến bây giờ.",
+    "extra_examples": [
+     {
+      "ja": "子供が生まれてからというもの、夫婦の会話が減った。",
+      "reading": "こどもが うまれてからというもの、ふうふの かいわが へった。",
+      "vi": "Kể từ khi con ra đời đến giờ, vợ chồng ít trò chuyện hẳn."
+     },
+     {
+      "ja": "禁煙してからというもの、朝の目覚めがすっきりしている。",
+      "reading": "きんえんしてからというもの、あさの めざめが すっきりしている。",
+      "vi": "Từ khi bỏ thuốc lá đến nay, sáng nào thức dậy tôi cũng thấy sảng khoái."
+     }
     ]
    },
    "kanji": [
@@ -4150,6 +4605,19 @@
       "ja": "不安を抱えながらも、前へ進んだ。",
       "reading": "ふあんをかかえながらも、まえへすすんだ。",
       "vi": "Tuy mang nỗi bất an nhưng vẫn tiến về phía trước."
+     }
+    ],
+    "grammar_detail": "〜ながらも là cách nói nhượng bộ trang trọng: tuy đang trong trạng thái A nhưng vẫn B — vế trước thường là một trạng thái kéo dài như sốt cao, nghèo khó, lo âu. So với のに (dùng trong hội thoại, đôi khi mang sắc thái trách móc), ながらも khách quan, trang trọng và chỉ dùng trong văn viết hoặc phát biểu lịch sự. Lỗi phổ biến: dùng ながらも khi hai vế không thực sự đối lập nhau — là học sinh mà chăm học thì chẳng có gì để nhượng bộ cả.",
+    "extra_examples": [
+     {
+      "ja": "高熱がありながらも、彼女は舞台に立ち続けた。",
+      "reading": "こうねつが ありながらも、かのじょは ぶたいに たちつづけた。",
+      "vi": "Dù đang sốt cao, cô ấy vẫn tiếp tục đứng trên sân khấu."
+     },
+     {
+      "ja": "小さな島でありながらも、観光客が絶えない。",
+      "reading": "ちいさな しまでありながらも、かんこうきゃくが たえない。",
+      "vi": "Tuy chỉ là hòn đảo nhỏ nhưng khách du lịch đến không ngớt."
      }
     ]
    },
@@ -4269,6 +4737,19 @@
       "reading": "かのじょのはつげんはごかいをまねくきらいがある。",
       "vi": "Phát ngôn của cô ấy có khuynh hướng gây hiểu lầm."
      }
+    ],
+    "grammar_detail": "〜きらいがある diễn tả khuynh hướng, tật xấu của ai đó một cách nhẹ nhàng nhưng mang tính phê phán — sắc thái có vẻ hơi... và gần như luôn dùng cho mặt tiêu cực. Khác với 〜がちだ (chỉ khuynh hướng khách quan, trung tính), きらいがある hàm ý người nói đánh giá điều đó là chưa tốt. Lỗi nguy hiểm nhất: dùng きらいがある để khen — nghe như đang chê khéo! Muốn nói mặt tốt hãy dùng 〜傾向がある hoặc 〜ところがある.",
+    "extra_examples": [
+     {
+      "ja": "彼の話は自慢に聞こえるきらいがある。",
+      "reading": "かれの はなしは じまんに きこえるきらいがある。",
+      "vi": "Câu chuyện của anh ta nghe hơi có vẻ khoe khoang."
+     },
+     {
+      "ja": "最近の若者は打たれ弱いきらいがあるとよく言われる。",
+      "reading": "さいきんの わかものは うたれよわいきらいがあると よくいわれる。",
+      "vi": "Người ta thường nói giới trẻ ngày nay có phần hơi yếu đuối."
+     }
     ]
    },
    "kanji": [
@@ -4387,6 +4868,19 @@
       "reading": "もうすこし がんばれたものを、あきらめた ことを いまも こうかいしている。",
       "vi": "Đáng lẽ đã có thể cố thêm chút nữa, đến giờ tôi vẫn hối hận vì đã bỏ cuộc."
      }
+    ],
+    "grammar_detail": "〜ものを là mẫu than tiếc nuối: vế trước là điều kiện giả định trái với quá khứ (〜ば・たらよかった), vế sau là kết quả đáng tiếc đã xảy ra — cấu trúc giá mà... thì đã... đằng này.... So với 〜ばよかった đơn thuần (chỉ tiếc nuối), ものを mạnh hơn, thường hàm ý trách móc bản thân hoặc trách người khác. Lỗi hay gặp: dùng ものを với kết quả tốt đẹp — sai hoàn toàn, vì mẫu này chỉ đi với chuyện đáng tiếc.",
+    "extra_examples": [
+     {
+      "ja": "早く病院に行けばよかったものを、我慢して悪化させてしまった。",
+      "reading": "はやく びょういんに いけばよかったものを、がまんして あっかさせてしまった。",
+      "vi": "Giá mà đi bệnh viện sớm thì đã tốt, đằng này cứ cố chịu để bệnh nặng thêm."
+     },
+     {
+      "ja": "君が一言相談してくれればよかったものを、勝手に決めてしまったね。",
+      "reading": "きみが ひとこと そうだんしてくれればよかったものを、かってに きめてしまったね。",
+      "vi": "Giá mà cậu bàn với tôi một tiếng thì tốt, đằng này lại tự ý quyết định."
+     }
     ]
    },
    "kanji": [
@@ -4503,6 +4997,19 @@
       "ja": "故郷の話を聞いて、帰らずにはいられなくなった。",
       "reading": "こきょうのはなしをきいて、かえらずにはいられなくなった。",
       "vi": "Nghe chuyện quê hương, tôi không thể không muốn trở về."
+     }
+    ],
+    "grammar_detail": "〜ないではいられない diễn tả cảm xúc hoặc phản ứng tự nhiên trào dâng đến mức không thể không làm gì — không phải nghĩa vụ mà là sự thôi thúc từ bên trong. Dạng 〜ずにはいられない đồng nghĩa nhưng trang trọng hơn, hay gặp trong văn viết. Khác với 〜てたまらない (chỉ mức độ cảm xúc mãnh liệt, chưa chắc dẫn đến hành động), ないではいられない luôn kéo theo một hành động cụ thể như khóc, cười, bấm máy. Lỗi thường gặp: dùng cho hành động lạnh lùng có tính toán — mẫu này chỉ hợp với phản ứng tự phát, chân thật.",
+    "extra_examples": [
+     {
+      "ja": "彼の成長ぶりを見て、目頭が熱くならないではいられなかった。",
+      "reading": "かれの せいちょうぶりを みて、めがしらが あつくならないではいられなかった。",
+      "vi": "Chứng kiến sự trưởng thành của cậu ấy, tôi không kìm được mà rưng rưng nước mắt."
+     },
+     {
+      "ja": "あの絶景を前にしては、シャッターを切らずにはいられなかった。",
+      "reading": "あの ぜっけいを まえにしては、シャッターを きらずにはいられなかった。",
+      "vi": "Đứng trước cảnh đẹp tuyệt trần ấy, chẳng ai nỡ không bấm máy."
      }
     ]
    },
@@ -4622,6 +5129,19 @@
       "reading": "むりをすれば、からだをこわしかねない。",
       "vi": "Nếu cố quá sức, có thể sẽ hại sức khỏe."
      }
+    ],
+    "grammar_detail": "〜かねない là dự đoán về điều xấu có khả năng xảy ra, mang sắc thái lo ngại, cảnh báo. Đây là điểm khác biệt cốt lõi với 〜かもしれない (dự đoán trung tính cho mọi chuyện): かねない gần như luôn đi với kết quả tiêu cực như tai nạn, hiểu lầm, sụp đổ. Lỗi kinh điển: dùng かねない để nói về điều tốt đẹp — người Nhật sẽ hiểu ngược ý bạn, trừ khi cố ý nói mỉa. Trong văn viết trang trọng, かねない là cách cảnh báo rất tự nhiên.",
+    "extra_examples": [
+     {
+      "ja": "この秘密が漏れれば、会社が傾きかねない。",
+      "reading": "この ひみつが もれれば、かいしゃが かたむきかねない。",
+      "vi": "Nếu bí mật này bị lộ, công ty e rằng sẽ sụp đổ."
+     },
+     {
+      "ja": "感情的な発言は相手を傷つけかねないので、言葉には気をつけたい。",
+      "reading": "かんじょうてきな はつげんは あいてを きずつけかねないので、ことばには きをつけたい。",
+      "vi": "Lời nói trong lúc nóng giận có thể làm tổn thương đối phương, nên tôi muốn cẩn trọng lời ăn tiếng nói."
+     }
     ]
    },
    "kanji": [
@@ -4739,6 +5259,19 @@
       "ja": "日程の都合で、出席しかねる場合があります。",
       "reading": "にっていのつごうで、しゅっせきしかねるばあいがあります。",
       "vi": "Vì lịch trình, có trường hợp tôi khó mà tham dự được."
+     }
+    ],
+    "grammar_detail": "〜かねる là tấm khiên lịch sự trong giao tiếp công sở: thay vì nói thẳng できない, người Nhật dùng かねる để từ chối khéo mà vẫn giữ thể diện cho đối phương — khó mà... được. Mẫu này gắn chặt với kính ngữ (お答えしかねます, 賛成しかねます) và văn phong business. Lỗi về ngữ cảnh: dùng かねる với bạn bè thân thiết sẽ nghe xa cách, cứng nhắc một cách kỳ cục — với người thân cứ nói thẳng できない là được. Ngược lại, trong email công việc mà dùng できない thẳng thừng thì lại quá thô.",
+    "extra_examples": [
+     {
+      "ja": "社外秘の件ですので、詳細はお答えしかねます。",
+      "reading": "しゃがいひの けんですので、しょうさいは おこたえしかねます。",
+      "vi": "Vì đây là chuyện bí mật công ty nên tôi khó lòng trả lời chi tiết được."
+     },
+     {
+      "ja": "ご要望には添いかねますが、代替案をご用意いたしました。",
+      "reading": "ごようぼうには そいかねますが、だいたいあんを ごよういいたしました。",
+      "vi": "Yêu cầu của quý khách chúng tôi khó mà đáp ứng, nhưng chúng tôi đã chuẩn bị phương án thay thế."
      }
     ]
    },
@@ -4858,6 +5391,19 @@
       "reading": "ライバルを しりめに、トップで ゴールした。",
       "vi": "Bỏ lại đối thủ phía sau đuôi mắt, tôi đã cán đích đầu tiên."
      }
+    ],
+    "grammar_detail": "〜を尻目に vẽ ra hình ảnh rất sống động: liếc bằng đuôi mắt rồi bước tiếp — tức là biết rõ có sự phản đối, chỉ trích xung quanh nhưng vẫn kiên quyết làm theo ý mình, hơi ngạo nghễ. Khác với 〜をよそに (phớt lờ hoàn toàn, coi như không tồn tại), を尻目に thừa nhận sự phản đối có tồn tại nhưng chọn cách vượt qua nó. Lỗi hay gặp: dùng を尻目に cho việc được mọi người ủng hộ — mẫu này bắt buộc phải có phe phản đối thì mới có cái để mà liếc.",
+    "extra_examples": [
+     {
+      "ja": "親の反対を尻目に、彼女は留学を決意した。",
+      "reading": "おやの はんたいを しりめに、かのじょは りゅうがくを けついした。",
+      "vi": "Mặc kệ sự phản đối của bố mẹ, cô ấy đã quyết chí đi du học."
+     },
+     {
+      "ja": "批判の声を尻目に、新商品は記録的な売れ行きを見せた。",
+      "reading": "ひはんの こえを しりめに、しんしょうひんは きろくてきな うれゆきを みせた。",
+      "vi": "Phớt lờ mọi lời chỉ trích, sản phẩm mới đạt doanh số kỷ lục."
+     }
     ]
    },
    "kanji": [
@@ -4976,6 +5522,19 @@
       "reading": "しんねんのかどでにさいして、けついをあらたにした。",
       "vi": "Nhân dịp bước sang năm mới, tôi làm mới quyết tâm."
      }
+    ],
+    "grammar_detail": "〜に際して là mẫu văn viết trang trọng bậc nhất cho nghĩa nhân dịp — dùng trong lễ nghi, hợp đồng, thông báo chính thức, diễn văn. So với 〜にあたって (cũng trang trọng, nhưng nhấn mạnh đứng trước thời điểm phải làm gì đó), に際して tập trung vào bản thân sự kiện, dịp lễ. Lỗi về ngữ cảnh: tuyệt đối không dùng に際して trong hội thoại thường ngày — nghe như đang đọc diễn văn đi cà phê. Muốn nói tự nhiên hãy dùng 〜ときに hoặc 〜際に (ít trang trọng hơn).",
+    "extra_examples": [
+     {
+      "ja": "災害に際して、多くのボランティアが被災地に駆けつけた。",
+      "reading": "さいがいに さいして、おおくの ボランティアが ひさいちに かけつけた。",
+      "vi": "Khi thiên tai xảy ra, đông đảo tình nguyện viên đã đổ về vùng bị nạn."
+     },
+     {
+      "ja": "退任に際して、社長は社員への感謝の言葉を述べた。",
+      "reading": "たいにんに さいして、しゃちょうは しゃいんへの かんしゃの ことばを のべた。",
+      "vi": "Nhân dịp từ nhiệm, vị giám đốc đã bày tỏ lời cảm ơn tới toàn thể nhân viên."
+     }
     ]
    },
    "kanji": [
@@ -5092,6 +5651,19 @@
       "ja": "彼女の気持ちは、推測するにかたくない。",
       "reading": "かのじょのきもちは、すいそくするにかたくない。",
       "vi": "Tâm trạng của cô ấy không khó để suy đoán."
+     }
+    ],
+    "grammar_detail": "〜にかたくない diễn tả một suy luận hiển nhiên đến mức không khó để tưởng tượng — cấu trúc cố định với các danh từ như 想像・察し・推測 (想像にかたくない). Mẫu này thuộc văn viết, dùng khi muốn đưa ra kết luận một cách khéo léo, không quá quả quyết như 〜に違いない. Lỗi thường gặp: dùng にかたくない để nói về cảm xúc của chính mình — nghe rất gượng, vì cảm xúc của mình thì mình biết chứ cần gì phải tưởng tượng.",
+    "extra_examples": [
+     {
+      "ja": "彼の人柄を知れば、皆に好かれるのは想像にかたくない。",
+      "reading": "かれの ひとがらを しれば、みんなに すかれるのは そうぞうに かたくない。",
+      "vi": "Biết tính cách của anh ấy rồi thì việc được mọi người yêu mến chẳng có gì khó đoán."
+     },
+     {
+      "ja": "このまま円安が続けば、輸入品の値上がりは想像にかたくない。",
+      "reading": "このまま えんやすが つづけば、ゆにゅうひんの ねあがりは そうぞうに かたくない。",
+      "vi": "Đồng yên cứ mất giá thế này thì việc hàng nhập khẩu tăng giá là điều dễ dàng đoán được."
      }
     ]
    },
@@ -5211,6 +5783,19 @@
       "reading": "かれのこうせきは、かたるにたりないほどおおきい。",
       "vi": "Công lao của ông ấy lớn đến mức không kể xiết."
      }
+    ],
+    "grammar_detail": "〜に足りない nghĩa là không xứng đáng, chưa đủ tầm để... — sắc thái khiêm tốn khi nói về bản thân, hoặc đánh giá thấp một sự việc. Dạng khẳng định 〜に足る (xứng đáng) cũng là N1. Điểm văn hóa quan trọng: người Nhật hay dùng mẫu này để tự hạ mình một cách lịch sự, nhưng tuyệt đối không dùng để chê người khác trực diện — nói với ai đó rằng họ không xứng đáng là cực kỳ mất lịch sự. Lỗi ngữ pháp: nhầm với 〜に足りる (đủ, vừa đủ về lượng) — hai mẫu khác nhau hoàn toàn.",
+    "extra_examples": [
+     {
+      "ja": "新人の分際で口を出すに足りない立場だと、思い知らされた。",
+      "reading": "しんじんの ぶんざいで くちを だすにたりない たちばだと、おもいしらされた。",
+      "vi": "Tôi đã thấm thía rằng với phận sự của một nhân viên mới, mình chưa đủ tư cách lên tiếng."
+     },
+     {
+      "ja": "彼の説明は、聞く者を納得させるに足りない内容だった。",
+      "reading": "かれの せつめいは、きくものを なっとくさせるにたりない ないようだった。",
+      "vi": "Lời giải thích của anh ta có nội dung chưa đủ để thuyết phục người nghe."
+     }
     ]
    },
    "kanji": [
@@ -5327,6 +5912,19 @@
       "ja": "結果がどうなるにせよ、全力を尽くす。",
       "reading": "けっかがどうなるにせよ、ぜんりょくをつくす。",
       "vi": "Dù kết quả ra sao, tôi cũng sẽ dốc toàn lực."
+     }
+    ],
+    "grammar_detail": "〜にせよ dùng để đưa ra hai khả năng đối lập rồi chốt một kết luận chung: dù A hay B thì cũng.... Đây là phiên bản trang trọng của 〜にしても (dùng trong hội thoại). Cấu trúc chuẩn là AにせよBにせよ với hai vế đối nhau như 賛成にせよ反対にせよ. Lỗi phổ biến: chỉ nêu một vế rồi dừng khiến câu bị cụt. Trong văn viết N1, にせよ là lựa chọn an toàn và đẹp hơn 〜であれ・〜であろうと.",
+    "extra_examples": [
+     {
+      "ja": "賛成するにせよしないにせよ、まずは相手の話を聞こう。",
+      "reading": "さんせいするにせよ しないにせよ、まずは あいての はなしを きこう。",
+      "vi": "Dù đồng ý hay không đồng ý thì trước hết hãy lắng nghe đối phương đã."
+     },
+     {
+      "ja": "成功するにせよ失敗するにせよ、挑戦したこと自体に意味がある。",
+      "reading": "せいこうするにせよ しっぱいするにせよ、ちょうせんしたこと じたいに いみがある。",
+      "vi": "Dù thành công hay thất bại thì bản thân việc dám thử thách đã có ý nghĩa."
      }
     ]
    },
@@ -5446,6 +6044,19 @@
       "reading": "ねんれいに かかわらず、だれでも さんかできます。",
       "vi": "Bất kể tuổi tác, ai cũng có thể tham gia."
      }
+    ],
+    "grammar_detail": "〜にかかわらず nghĩa là bất kể, không phân biệt — một trong những mẫu N1 dùng nhiều nhất vì ứng dụng rộng: tuổi tác, giới tính, thời tiết, quốc tịch. Mẫu này trung tính, dùng được cả văn viết lẫn hội thoại lịch sự. Dạng 〜を問わず đồng nghĩa nhưng trang trọng hơn một bậc. Lỗi cần tránh: dùng にかかわらず với những thứ thể hiện ý chí, sở thích cá nhân — vì bất kể ở đây phải là yếu tố khách quan.",
+    "extra_examples": [
+     {
+      "ja": "国籍にかかわらず、誰でもこの試験を受けることができる。",
+      "reading": "こくせきに かかわらず、だれでも この しけんを うけることが できる。",
+      "vi": "Bất kể quốc tịch nào, ai cũng có thể dự kỳ thi này."
+     },
+     {
+      "ja": "昼夜にかかわらず、救急外来は二十四時間開いている。",
+      "reading": "ちゅうやに かかわらず、きゅうきゅうがいらいは にじゅうよじかん あいている。",
+      "vi": "Bất kể ngày hay đêm, khoa cấp cứu đều mở cửa 24 giờ."
+     }
     ]
    },
    "kanji": [
@@ -5563,6 +6174,19 @@
       "ja": "約束を破った以上、説明せずにはすまないだろう。",
       "reading": "やくそくをやぶったいじょう、せつめいせずにはすまないだろう。",
       "vi": "Đã phá vỡ lời hứa thì chắc không thể không giải thích."
+     }
+    ],
+    "grammar_detail": "〜ずにはすまない diễn tả nghĩa vụ đạo đức đến mức không làm thì không xong chuyện — mạnh hơn 〜なければならない ở chỗ nó xuất phát từ lương tâm và trách nhiệm cá nhân, không phải quy định bên ngoài. Thường dùng khi nói về xin lỗi, chịu trách nhiệm, giữ lời hứa. Lỗi hay gặp: dùng cho việc tầm thường hàng ngày — trừ khi đùa, còn không thì rất lố. Ghi nhớ: mẫu này luôn gắn với nghĩa vụ làm người.",
+    "extra_examples": [
+     {
+      "ja": "人に迷惑をかけた以上、心から詫びずにはすまない。",
+      "reading": "ひとに めいわくを かけた いじょう、こころから わびずにはすまない。",
+      "vi": "Đã gây phiền phức cho người khác thì phải xin lỗi bằng cả tấm lòng mới xong."
+     },
+     {
+      "ja": "チームを率いる立場にある以上、結果を出さずにはすまないだろう。",
+      "reading": "チームを ひきいる たちばに ある いじょう、けっかを ださずにはすまないだろう。",
+      "vi": "Đã ở vào vị trí dẫn dắt cả đội thì ắt phải tạo ra kết quả mới được."
      }
     ]
    },
@@ -5682,6 +6306,19 @@
       "reading": "おこらんばかりのぎょうそうでにらまれた。",
       "vi": "Bị lườm với vẻ mặt như sắp nổi giận."
      }
+    ],
+    "grammar_detail": "〜んばかり miêu tả trạng thái như sắp sửa đầy kịch tính, rất giàu hình ảnh văn chương: 泣き出さんばかり (như sắp òa khóc), 割れんばかり (như sắp vỡ tung). Cấu tạo: thể ない bỏ ない rồi cộng んばかり (する→せんばかり). Khác với 〜そうだ (dự đoán thông thường), んばかり là ngôn ngữ miêu tả của văn viết, tiểu thuyết. Lỗi: dùng んばかり trong hội thoại thường ngày sẽ nghe như đang đọc văn — và đừng dùng với động từ không thể sắp một cách hình ảnh được.",
+    "extra_examples": [
+     {
+      "ja": "彼女は今にも倒れんばかりの様子で、それでもゴールを目指した。",
+      "reading": "かのじょは いまにも たおれんばかりの ようすで、それでも ゴールを めざした。",
+      "vi": "Trông cô ấy như sắp ngã quỵ đến nơi, vậy mà vẫn hướng về đích."
+     },
+     {
+      "ja": "会場は熱気に溢れんばかりで、観客の興奮が伝わってきた。",
+      "reading": "かいじょうは ねっきに あふれんばかりで、かんきゃくの こうふんが つたわってきた。",
+      "vi": "Cả hội trường như muốn vỡ òa vì nhiệt huyết, sự phấn khích của khán giả lan tỏa khắp nơi."
+     }
     ]
    },
    "kanji": [
@@ -5799,6 +6436,19 @@
       "reading": "かんがえつつ、レポートを かきすすめた。",
       "vi": "Vừa suy nghĩ, tôi vừa viết tiếp bản báo cáo."
      }
+    ],
+    "grammar_detail": "〜つつ diễn tả hai hành động song song, trong đó vế つつ thường là hành động nền kéo dài, còn vế sau mới là trọng tâm — sắc thái hơi văn viết. Khác với 〜ながら (hai việc ngang nhau, dùng trong hội thoại hàng ngày), つつ trang trọng hơn và có thứ bậc: vừa (nền) vừa (chính). Ngoài ra つつ còn có nghĩa dần dần trong 〜つつある (đang diễn ra — cũng là N1). Lỗi: dùng つつ cho hai hành động mâu thuẫn không thể cùng lúc.",
+    "extra_examples": [
+     {
+      "ja": "涙をこらえつつ、彼女は笑顔で別れを告げた。",
+      "reading": "なみだを こらえつつ、かのじょは えがおで わかれを つげた。",
+      "vi": "Vừa cố nén nước mắt, cô ấy vừa mỉm cười nói lời chia tay."
+     },
+     {
+      "ja": "時代の移り変わりを感じつつ、古い町並みを歩いた。",
+      "reading": "じだいの うつりかわりを かんじつつ、ふるい まちなみを あるいた。",
+      "vi": "Vừa cảm nhận sự đổi thay của thời đại, tôi vừa dạo bước trên con phố cổ."
+     }
     ]
    },
    "kanji": [
@@ -5914,6 +6564,19 @@
       "ja": "聞くなりメモを取る癖をつけた。",
       "reading": "きく なり、メモを とる くせを つけた。",
       "vi": "Tôi đã tập thói quen vừa nghe đã ghi chép ngay."
+     }
+    ],
+    "grammar_detail": "〜なり diễn tả việc hành động sau xảy ra ngay lập tức sau hành động trước — vừa... đã..., nhấn mạnh tính liền mạch không khoảng trống. So với 〜や否や・〜が早いか (nhấn mạnh tốc độ đến mức kịch tính), なり nhẹ nhàng, tự nhiên hơn nhưng vẫn thuộc văn viết. Lỗi: dùng なり khi hai sự việc cách nhau một khoảng thời gian — mẫu này yêu cầu sự tiếp nối gần như tức thì.",
+    "extra_examples": [
+     {
+      "ja": "彼は家に着くなり、倒れるように眠ってしまった。",
+      "reading": "かれは いえに つくなり、たおれるように ねむってしまった。",
+      "vi": "Vừa về đến nhà là anh ấy ngủ gục như ngã quỵ."
+     },
+     {
+      "ja": "合格発表を見るなり、彼女はその場で泣き崩れた。",
+      "reading": "ごうかくはっぴょうを みるなり、かのじょは そのばで なきくずれた。",
+      "vi": "Vừa nhìn thấy thông báo đỗ, cô ấy đã òa khóc ngay tại chỗ."
      }
     ]
    },
@@ -6033,6 +6696,19 @@
       "reading": "いぬは「あそんで」とばかりに、しっぽをふった。",
       "vi": "Con chó vẫy đuôi như muốn nói 'chơi với em đi'."
      }
+    ],
+    "grammar_detail": "〜とばかりに là cách đọc vị thái độ người khác: diễn giải hành động, nét mặt của ai đó như thể họ đang tuyên bố điều gì — như muốn nói rằng.... Đây là ngôn ngữ miêu tả của văn viết, tiểu thuyết, báo chí. Điểm ngữ pháp quan trọng: mẫu này chỉ dùng để diễn đạt ý của người khác (hoặc vật), không bao giờ dùng cho chính mình. Nhầm lẫn hay gặp: 〜と言わんばかりに — thực ra hai mẫu này đồng nghĩa, dùng thay nhau được.",
+    "extra_examples": [
+     {
+      "ja": "上司は「話にならない」とばかりに、手で制した。",
+      "reading": "じょうしは 「はなしに ならない」とばかりに、てで せいした。",
+      "vi": "Sếp đưa tay ra hiệu như muốn nói khỏi cần bàn nữa."
+     },
+     {
+      "ja": "空は「もうすぐ雨だ」とばかりに、どんよりと曇っていた。",
+      "reading": "そらは 「もうすぐ あめだ」とばかりに、どんよりと くもっていた。",
+      "vi": "Bầu trời u ám nặng nề như muốn báo rằng sắp mưa rồi đấy."
+     }
     ]
    },
    "kanji": [
@@ -6150,6 +6826,19 @@
       "ja": "この景色は見るにたえないほど美しい。",
       "reading": "このけしきはみるにたえないほどうつくしい。",
       "vi": "Cảnh này đẹp đến mức không thể chịu nổi (quá đẹp)."
+     }
+    ],
+    "grammar_detail": "〜にたえる nghĩa là đáng để..., xứng đáng... — một lời khen trang trọng dành cho tác phẩm, cảnh đẹp, tài năng. Cấu trúc kinh điển: 一見・一聴・一読にたえる (đáng xem, đáng nghe, đáng đọc). Khác với 〜に足る (xứng đáng nói chung, phạm vi rộng), にたえる chuyên dùng cho việc trải nghiệm, thưởng thức. Lưu ý đặc biệt: 見るにたえない lại có nghĩa là xấu đến mức không đáng xem — đây là cách dùng phủ định cố định, cần nhớ riêng.",
+    "extra_examples": [
+     {
+      "ja": "この小説は何度読んでも、再読にたえる深みがある。",
+      "reading": "この しょうせつは なんど よんでも、さいどくに たえる ふかみが ある。",
+      "vi": "Cuốn tiểu thuyết này đọc bao nhiêu lần vẫn thấy có chiều sâu đáng để đọc lại."
+     },
+     {
+      "ja": "彼の演奏は、プロと肩を並べるにたえる実力の持ち主だ。",
+      "reading": "かれの えんそうは、プロと かたを ならべるにたえる じつりょくの もちぬしだ。",
+      "vi": "Tài diễn tấu của anh ấy xứng tầm sánh vai với các nghệ sĩ chuyên nghiệp."
      }
     ]
    },
@@ -6269,6 +6958,19 @@
       "reading": "きのうのせいてんにひきかえ、きょうはおおあめだ。",
       "vi": "Trái với trời quang hôm qua, hôm nay mưa to."
      }
+    ],
+    "grammar_detail": "〜にひきかえ diễn tả sự tương phản rõ rệt giữa hai đối tượng: trái lại với A thì B... — thường mang chút tiếc nuối hoặc châm biếm nhẹ. Khác với 〜とは違って (so sánh trung tính), にひきかえ luôn nhấn mạnh sự đối lập và thuộc văn viết. Lỗi logic: dùng にひきかえ khi hai thứ không cùng tiêu chí so sánh — muốn đối lập thì hai vế phải so được với nhau trên cùng một thước đo.",
+    "extra_examples": [
+     {
+      "ja": "姉の几帳面さにひきかえ、弟は部屋を散らかし放題だ。",
+      "reading": "あねの きちょうめんさに ひきかえ、おとうとは へやを ちらかしほうだいだ。",
+      "vi": "Trái ngược với chị gái tính ngăn nắp, cậu em trai thì bày bừa phòng ốc tung tóe."
+     },
+     {
+      "ja": "期待の新人にひきかえ、ベテランは黙々と結果を出して見せた。",
+      "reading": "きたいの しんじんに ひきかえ、ベテランは もくもくと けっかを だして みせた。",
+      "vi": "Trái với cậu tân binh được kỳ vọng, bậc lão làng lặng lẽ chứng minh bằng kết quả."
+     }
     ]
    },
    "kanji": [
@@ -6385,6 +7087,19 @@
       "ja": "簡単な仕事を手始めに、順番に片付けていった。",
       "reading": "かんたんな しごとを てはじめに、じゅんばんに かたづけていった。",
       "vi": "Bắt đầu từ việc đơn giản nhất, tôi lần lượt giải quyết từng việc."
+     }
+    ],
+    "grammar_detail": "〜を手始めに nghĩa là lấy... làm bước khởi đầu — hành động đầu tiên trong một chuỗi kế hoạch lớn hơn, mang tinh thần tích cực, tiến lên. Khác với 〜を皮切りに (mở màn cho chuỗi sự kiện tương tự nối tiếp nhau), を手始めに nhấn mạnh đây là bước đầu khiêm tốn của một quá trình lớn. Lỗi: dùng を手始めに cho việc chỉ làm đúng một lần rồi thôi — mẫu này bắt buộc phải có các bước tiếp theo trong ngữ cảnh.",
+    "extra_examples": [
+     {
+      "ja": "彼は地元の商店街を手始めに、支援の輪を全国へ広げていった。",
+      "reading": "かれは じもとの しょうてんがいを てはじめに、しえんの わを ぜんこくへ ひろげていった。",
+      "vi": "Lấy khu phố mua sắm quê nhà làm bước khởi đầu, anh ấy đã lan tỏa vòng tay hỗ trợ ra khắp cả nước."
+     },
+     {
+      "ja": "まずは身の回りの整理を手始めに、乱れた生活を立て直していった。",
+      "reading": "まずは みのまわりの せいりを てはじめに、みだれた せいかつを たてなおしていった。",
+      "vi": "Trước hết, tôi bắt đầu vực lại cuộc sống bừa bộn từ việc dọn dẹp những thứ quanh mình."
      }
     ]
    },
@@ -6503,6 +7218,19 @@
       "reading": "50さいを ふしめに、あたらしい しゅみに ちょうせんした。",
       "vi": "Lấy tuổi 50 làm mốc, tôi đã thử sức với sở thích mới."
      }
+    ],
+    "grammar_detail": "〜を節目に là lấy... làm cột mốc, bước ngoặt — dùng cho những dấu mốc lớn của đời người: tốt nghiệp, kết hôn, nghỉ hưu, thảm họa... với sắc thái hoài niệm, trang trọng. Khác với 〜を機に (nhân cơ hội để tiến lên, hướng tương lai), を節目に thường nhìn lại chặng đường đã qua. Lỗi về ngữ cảnh: dùng を節目に cho chuyện nhỏ nhặt hàng ngày — trừ khi đùa, còn không thì rất lố.",
+    "extra_examples": [
+     {
+      "ja": "定年を節目に、彼は四十年勤めた会社を後にした。",
+      "reading": "ていねんを ふしめに、かれは よんじゅうねん つとめた かいしゃを あとにした。",
+      "vi": "Lấy tuổi nghỉ hưu làm cột mốc, ông đã rời xa công ty mình gắn bó suốt bốn mươi năm."
+     },
+     {
+      "ja": "震災を節目に、家族の絆の大切さを見つめ直すようになった。",
+      "reading": "しんさいを ふしめに、かぞくの きずなの たいせつさを みつめなおすように なった。",
+      "vi": "Lấy trận động đất làm bước ngoặt, tôi bắt đầu nhìn nhận lại sự quý giá của tình thân gia đình."
+     }
     ]
    },
    "kanji": [
@@ -6618,6 +7346,19 @@
       "ja": "値段はともかく、品質には満足している。",
       "reading": "ねだんは ともかく、ひんしつには まんぞくしている。",
       "vi": "Giá cả thì chưa nói đến, chứ chất lượng thì tôi rất hài lòng."
+     }
+    ],
+    "grammar_detail": "〜はともかく nghĩa là tạm gác A sang một bên — thừa nhận khía cạnh A nhưng muốn chuyển trọng tâm sang khía cạnh B quan trọng hơn. Mẫu này dùng thoải mái cả trong hội thoại lẫn văn viết, rất thực dụng. Cấu trúc luôn là Aはともかく、B — vế B mới là điều người nói thực sự muốn nhấn mạnh. Lỗi: dùng はともかく rồi quên mất vế B, khiến câu lửng lơ không có điểm nhấn.",
+    "extra_examples": [
+     {
+      "ja": "結果はともかく、君の努力はちゃんと認めているよ。",
+      "reading": "けっかは ともかく、きみの どりょくは ちゃんと みとめているよ。",
+      "vi": "Kết quả thì gác sang một bên đã, nhưng nỗ lực của cậu thì tôi ghi nhận đàng hoàng."
+     },
+     {
+      "ja": "冗談はともかく、そろそろ本題に入ろう。",
+      "reading": "じょうだんは ともかく、そろそろ ほんだいに はいろう。",
+      "vi": "Chuyện đùa gác lại đã, giờ vào vấn đề chính thôi."
      }
     ]
    },
@@ -6737,6 +7478,19 @@
       "reading": "ほんにんのしょうだくがないことには、はなしはすすまない。",
       "vi": "Nếu không có sự đồng ý của chính chủ thì chuyện không tiến triển được."
      }
+    ],
+    "grammar_detail": "〜ないことには diễn tả điều kiện tiên quyết với sắc thái mạnh: không có A thì đừng hòng có B. So với 〜なければ (điều kiện thông thường), ないことには mang tính tối hậu thư — nhấn mạnh không thể thiếu. Mẫu này hơi hướng văn viết. Lỗi: dùng ないことには với kết quả hiển nhiên không cần điều kiện, hoặc với vế sau là ý chí đơn thuần không liên quan logic với điều kiện.",
+    "extra_examples": [
+     {
+      "ja": "自分で汗を流さないことには、人の苦労は分からないものだ。",
+      "reading": "じぶんで あせを ながさないことには、ひとの くろうは わからないものだ。",
+      "vi": "Không tự mình đổ mồ hôi thì chẳng bao giờ hiểu được nỗi vất vả của người khác."
+     },
+     {
+      "ja": "現場に足を運ばないことには、本当の問題は見えてこない。",
+      "reading": "げんばに あしを はこばないことには、ほんとうの もんだいは みえてこない。",
+      "vi": "Không đích thân đến tận hiện trường thì không thể nhìn ra vấn đề thực sự."
+     }
     ]
    },
    "kanji": [
@@ -6852,6 +7606,19 @@
       "ja": "ドアが開くが早いか、犬が飛びついてきた。",
       "reading": "どあがひらくがはやいか、いぬがとびついてきた。",
       "vi": "Cửa vừa mở, con chó đã nhảy chồm tới."
+     }
+    ],
+    "grammar_detail": "〜が早いか miêu tả tốc độ cực nhanh đầy kịch tính: vừa... thì ngay lập tức... — là ngôn ngữ kể chuyện sinh động của văn viết. Đồng nghĩa với 〜や否や nhưng が早いか giàu hình ảnh hơn, như đang xem phim quay chậm. Lỗi: dùng が早いか với hành động chậm rãi, từ tốn — mâu thuẫn hoàn toàn, vì mẫu này mặc định mọi thứ diễn ra trong chớp mắt.",
+    "extra_examples": [
+     {
+      "ja": "彼はスタートの合図を聞くが早いか、矢のように飛び出した。",
+      "reading": "かれは スタートの あいずを きくが はやいか、やの ように とびだした。",
+      "vi": "Vừa nghe hiệu lệnh xuất phát, cậu ấy đã lao đi như tên bắn."
+     },
+     {
+      "ja": "母の声を聞くが早いか、子供たちは一斉に玄関へ駆けつけた。",
+      "reading": "ははの こえを きくが はやいか、こどもたちは いっせいに げんかんへ かけつけた。",
+      "vi": "Vừa nghe thấy tiếng mẹ, lũ trẻ đã đồng loạt chạy ùa ra cửa."
      }
     ]
    },
@@ -6971,6 +7738,19 @@
       "reading": "こんなんをおして、ぜんしんあるのみだ。",
       "vi": "Bất chấp khó khăn, chỉ còn đường tiến lên."
      }
+    ],
+    "grammar_detail": "〜を押して nghĩa đen là đè xuống, gạt qua — diễn tả việc dùng ý chí vượt qua trở ngại (bệnh tật, phản đối, thiên tai) để tiến lên. Khác với 〜にもかかわらず (bất chấp — trung tính, khách quan), を押して nhấn mạnh sự chủ động chinh phục trở ngại của chủ thể, nên giàu cảm xúc hơn. Lỗi: dùng を押して với trở ngại đã được giải quyết xong từ trước — mẫu này yêu cầu trở ngại vẫn đang hiện hữu lúc hành động diễn ra.",
+    "extra_examples": [
+     {
+      "ja": "彼は持病を押して、最後の舞台に立った。",
+      "reading": "かれは じびょうを おして、さいごの ぶたいに たった。",
+      "vi": "Gạt căn bệnh mãn tính sang một bên, anh đã đứng trên sân khấu cuối cùng của đời mình."
+     },
+     {
+      "ja": "猛吹雪を押して、救助隊は遭難者のもとへ向かった。",
+      "reading": "もうふぶきを おして、きゅうじょたいは そうなんしゃの もとへ むかった。",
+      "vi": "Bất chấp trận bão tuyết dữ dội, đội cứu hộ vẫn tiến về phía những người gặp nạn."
+     }
     ]
    },
    "kanji": [
@@ -7088,6 +7868,19 @@
       "ja": "想像していた田舎暮らしとは打って変わって、現実は意外と便利で快適だ。",
       "reading": "そうぞうしていた いなかぐらしとは うってかわって、げんじつは いがいと べんりで かいてきだ。",
       "vi": "Hoàn toàn khác hẳn với cuộc sống nông thôn như tôi tưởng tượng, thực tế lại tiện lợi và thoải mái đến bất ngờ."
+     }
+    ],
+    "grammar_detail": "Mẫu này diễn đạt sự THAY ĐỔI ĐỘT NGỘT gây ngỡ ngàng khi so sánh trạng thái TRƯỚC ĐÂY (điều người nghe đã biết) với HIỆN TẠI: cấu trúc là N(đã biết) + とは打って変わって. Khác với 一方で (so sánh hai sự vật khác nhau), mẫu này so sánh CÙNG một chủ thể ở hai thời điểm. Cũng đừng nhầm với 〜に反して (trái với dự đoán): 打って変わって nhấn mạnh sự tương phản RÕ RỆT đến mức cảm thán, thường mang sắc thái bất ngờ thú vị. Lỗi hay mắc: dùng N là điều giả định trong tương lai (×来年とは打って変わって) — N phải là quá khứ/hiện tại đã xác định.",
+    "extra_examples": [
+     {
+      "ja": "泣いていた赤ちゃんとは打って変わって、今はにこにこ笑っている。",
+      "reading": "ないていた あかちゃんとは うってかわって、いまは にこにこ わらっている。",
+      "vi": "Trái ngược hẳn với lúc còn khóc nhè, em bé giờ đang cười toe toét."
+     },
+     {
+      "ja": "入社当初のおどおどした彼とは打って変わって、今では堂々とプレゼンする。",
+      "reading": "にゅうしゃ とうしょの おどおどした かれとは うってかわって、いまでは どうどうと プレゼンする。",
+      "vi": "Khác hẳn với cậu tân binh rụt rè ngày mới vào công ty, giờ đây anh ấy thuyết trình đầy tự tin."
      }
     ]
    },
@@ -7208,6 +8001,19 @@
       "reading": "この もんだいの こたえは かんがえる までもないほど かんたんだ。",
       "vi": "Đáp án của bài này dễ đến mức khỏi cần nghĩ cũng biết."
      }
+    ],
+    "grammar_detail": "Nghĩa gốc: 'đến mức phải... cũng không cần' — tức sự việc QUÁ HIỂN NHIÊN nên hành động đó trở nên thừa thãi. Cụm cố định 言うまでもなく (khỏi phải nói) là 'câu cửa miệng' của N1, nhất định phải thuộc. Khác với 〜に越したことはない (ngày 84: 'làm thì tốt hơn' — KHUYẾN KHÍCH hành động), までもない PHỦ ĐỊNH sự cần thiết của hành động. Lỗi kinh điển: nhầm với 〜までだ ('chỉ đến mức đó thôi') — ngược nghĩa hoàn toàn! Sau までもない thường là động từ tri giác/suy nghĩ: 言う・疑う・想像する・考える・見る.",
+    "extra_examples": [
+     {
+      "ja": "彼の実力は疑うまでもない。誰もが認めるトッププレイヤーだ。",
+      "reading": "かれの じつりょくは うたがうまでもない。だれもが みとめる トッププレイヤーだ。",
+      "vi": "Thực lực của anh ấy thì khỏi cần nghi ngờ. Ai cũng công nhận là tuyển thủ hàng đầu."
+     },
+     {
+      "ja": "試験の結果は見るまでもなかった。手応えは十分だったからだ。",
+      "reading": "しけんの けっかは みるまでもなかった。てごたえは じゅうぶんだったからだ。",
+      "vi": "Kết quả kỳ thi thì khỏi cần xem. Vì tôi đã làm bài rất chắc tay rồi."
+     }
     ]
    },
    "kanji": [
@@ -7324,6 +8130,19 @@
       "ja": "彼の優しい言葉に、思わず涙が出てたまらなかった。",
       "reading": "かれの やさしい ことばに、おもわず なみだが でて たまらなかった。",
       "vi": "Trước những lời dịu dàng của anh ấy, nước mắt cứ trào ra không sao kìm được."
+     }
+    ],
+    "grammar_detail": "Diễn tả cảm xúc/cảm giác DÂNG TRÀO đến mức không kìm được — chủ ngữ thường là NGÔI THỨ NHẤT (hoặc câu hỏi về người nghe). Chỉ dùng với tính từ cảm xúc/cảm giác: 嬉しい・悲しい・恥ずかしい・眠い・暑い・心配だ...; TUYỆT ĐỐI không dùng với động từ ý chí (×日本に行ってたまらない). So với 〜て仕方がない (cách nói thông dụng trong hội thoại), たまらない trang trọng và mãnh liệt hơn, hay gặp trong văn viết. Lỗi hay mắc: dùng cho ngôi thứ ba (×彼は嬉しくてたまらない → phải nói 嬉しがっている vì cảm xúc người khác không thể khẳng định).",
+    "extra_examples": [
+     {
+      "ja": "3年ぶりの再会に、会話が弾んで帰りたくてたまらなかった。",
+      "reading": "さんねんぶりの さいかいに、かいわが はずんで かえりたくて たまらなかった。",
+      "vi": "Cuộc hội ngộ sau 3 năm xa cách khiến câu chuyện rôm rả đến mức tôi chẳng muốn về."
+     },
+     {
+      "ja": "真夏のマラソンは、喉が渇いてたまらなかった。",
+      "reading": "まなつの マラソンは、のどが かわいて たまらなかった。",
+      "vi": "Chạy marathon giữa mùa hè, tôi khát khô cả cổ đến không chịu nổi."
      }
     ]
    },
@@ -7443,6 +8262,19 @@
       "ja": "地方のみならず、都市部でも人口減少が進んでいる。",
       "reading": "ちほうのみならず、としぶでも じんこうげんしょうが すすんでいる。",
       "vi": "Không chỉ ở địa phương mà ngay cả khu vực đô thị, tình trạng giảm dân số cũng đang gia tăng."
+     }
+    ],
+    "grammar_detail": "Văn viết trang trọng: 'không chỉ A mà B cũng...' — vế B thường đi kèm も để nhấn mạnh sự cộng hưởng. Khác với だけでなく (trung tính, dùng được trong hội thoại hàng ngày), のみならず mang giọng văn nghị luận, báo chí, luận văn. So với 〜ばかりか (cũng N1): ばかりか nhấn mạnh B là điều BẤT NGỜ hoặc tiêu cực ('đã thế lại còn...'), còn のみならず chỉ liệt kê thêm một cách khách quan, bình thản. Lỗi hay mắc: dùng trong hội thoại thân mật sẽ nghe rất cứng và xa cách.",
+    "extra_examples": [
+     {
+      "ja": "新制度は社員のみならず、その家族にも大きな影響を与えた。",
+      "reading": "しんせいどは しゃいんのみならず、その かぞくにも おおきな えいきょうを あたえた。",
+      "vi": "Chế độ mới không chỉ ảnh hưởng đến nhân viên mà còn tác động lớn tới cả gia đình họ."
+     },
+     {
+      "ja": "彼の小説は国内のみならず、海外でも高く評価されている。",
+      "reading": "かれの しょうせつは こくないのみならず、かいがいでも たかく ひょうかされている。",
+      "vi": "Tiểu thuyết của ông không chỉ được đánh giá cao trong nước mà cả ở nước ngoài."
      }
     ]
    },
@@ -7564,6 +8396,19 @@
       "reading": "けっかは さておき、さいごまで あきらめなかった じぶんを ほめたい。",
       "vi": "Chưa bàn đến kết quả, tôi muốn tự khen mình vì đã không bỏ cuộc đến phút cuối cùng."
      }
+    ],
+    "grammar_detail": "Nghĩa đen: 'gác N sang một bên đã' — tạm thời KHÔNG BÀN đến chuyện N để chuyển sang việc quan trọng hơn. N thường là: 冗談・噂・結果・細かいこと・好き嫌い... Khác với 〜はともかく (cũng 'khoan bàn', nhưng ともかく thiên về 'dù sao thì'), さておき có hành động CHUYỂN CHỦ ĐỀ rõ rệt: 'chuyện đó để sau, giờ thì...'. Mẹo nhớ: さておき nghe như 'sa-te, oki!' (rồi, để đó!) — rất hợp nghĩa. Lỗi hay mắc: dùng với động từ (×行くはさておき) — mẫu này CHỈ đi với danh từ.",
+    "extra_examples": [
+     {
+      "ja": "好き嫌いはさておき、栄養バランスを考えて食べなさい。",
+      "reading": "すききらいは さておき、えいよう バランスを かんがえて たべなさい。",
+      "vi": "Chuyện thích hay không thích gác sang một bên đã, hãy ăn uống cân bằng dinh dưỡng."
+     },
+     {
+      "ja": "費用はさておき、まずは本当にやりたいことから考えよう。",
+      "reading": "ひようは さておき、まずは ほんとうに やりたいことから かんがえよう。",
+      "vi": "Chuyện chi phí để sau đã, trước hết hãy nghĩ xem mình thật sự muốn làm gì."
+     }
     ]
    },
    "kanji": [
@@ -7682,6 +8527,19 @@
       "ja": "信頼に足る人物だと確信している。",
       "reading": "しんらいにたるじんぶつだとかくしんしている。",
       "vi": "Tôi tin chắc anh ấy là người đáng tin cậy."
+     }
+    ],
+    "grammar_detail": "Hán tự 足 = 'đủ' — mẫu này nghĩa là 'ĐỦ TƯ CÁCH / xứng đáng để...' làm gì. Văn phong trang trọng, hay gặp trong đánh giá, phê bình: 信頼に足る人物 (người đáng tin cậy), 一読に足る (đáng đọc một lần). So với 〜に値する (cũng 'xứng đáng', nhưng 値する nhấn mạnh GIÁ TRỊ tương xứng với công sức — 努力に値する), に足る nhấn mạnh ĐỦ TIÊU CHUẨN, đạt ngưỡng. Lỗi hay mắc: đọc 足る thành あたる — phải đọc たる! Ngoài ra dạng に足りる phổ biến hơn trong văn hiện đại, nghĩa tương đương.",
+    "extra_examples": [
+     {
+      "ja": "彼女の演技は主演に足る実力だと、監督が太鼓判を押した。",
+      "reading": "かのじょの えんぎは しゅえんに たる じつりょくだと、かんとくが たいこばんを おした。",
+      "vi": "Đạo diễn đã khẳng định chắc nịch rằng diễn xuất của cô ấy đủ tầm đóng vai chính."
+     },
+     {
+      "ja": "この景色は写真に収めるに足りないほど美しい。",
+      "reading": "この けしきは しゃしんに おさめるに たらないほど うつくしい。",
+      "vi": "Cảnh đẹp đến mức chụp ảnh cũng không lột tả hết được."
      }
     ]
    },
@@ -7803,6 +8661,19 @@
       "reading": "あせまみれのシャツをきがえた。",
       "vi": "Tôi thay chiếc áo ướt đẫm mồ hôi."
      }
+    ],
+    "grammar_detail": "まみれ (塗れ) = 'bê bết, lấm lem KHẮP NGƯỜI' — N thường là thứ bẩn thỉu, khó chịu: 泥・血・汗・埃・油まみれ. Khác với 〜だらけ (cũng 'đầy', nhưng phạm vi rộng hơn: 間違いだらけ, 借金だらけ — nhấn mạnh SỐ LƯỢNG NHIỀU), まみれ nhấn mạnh TRẠNG THÁI BỊ DÍNH ĐẦY khắp cơ thể/quần áo. So với 〜ずくめ (ngày 68: toàn một màu/loại — CÓ CHỦ Ý sắp xếp, như 黒ずくめ), まみれ là BỊ ĐỘNG, ngoài ý muốn, thường thảm hại. Lỗi hay mắc: dùng với thứ đẹp đẽ (×花まみれ nghe rất kỳ, trừ khi cố ý gây cười).",
+    "extra_examples": [
+     {
+      "ja": "台風の中を走ってきた彼は、ずぶ濡れというより雨まみれだった。",
+      "reading": "たいふうの なかを はしってきた かれは、ずぶぬれというより あめまみれだった。",
+      "vi": "Anh ấy chạy trong bão tới, nói ướt sũng còn nhẹ — phải nói là bê bết nước mưa."
+     },
+     {
+      "ja": "パン工場で働く母は、毎日小麦粉まみれで帰ってくる。",
+      "reading": "パンこうじょうで はたらく ははは、まいにち こむぎこまみれで かえってくる。",
+      "vi": "Mẹ tôi làm ở xưởng bánh mì, ngày nào về người cũng lấm lem đầy bột mì."
+     }
     ]
    },
    "kanji": [
@@ -7922,6 +8793,19 @@
       "ja": "週末は読書尽くしの一日を過ごしたい。",
       "reading": "しゅうまつは どくしょづくしの いちにちを すごしたい。",
       "vi": "Cuối tuần tôi muốn dành trọn một ngày chỉ để đọc sách."
+     }
+    ],
+    "grammar_detail": "Đọc là づくし (rendaku — nối âm đục!) — nghĩa 'TOÀN LÀ N, một mâm đầy N': hay dùng cho thực đơn (海の幸尽くし), màu sắc (黒尽くし), hoạt động (読書尽くし). Sắc thái SANG TRỌNG, đầy ắp, được sắp xếp có chủ ý — khác hẳn 〜だらけ (tiêu cực: 欠点だらけ) và 〜ばかり (trung tính: 魚ばかり食べる). Lỗi kinh điển: quên rendaku đọc thành つくし; và dùng 尽くし cho thứ tiêu cực (×失敗尽くし — nghe như đang khoe khoang thất bại!).",
+    "extra_examples": [
+     {
+      "ja": "旅館の夕食は山の幸尽くしで、どれも絶品だった。",
+      "reading": "りょかんの ゆうしょくは やまの さちづくしで、どれも ぜっぴんだった。",
+      "vi": "Bữa tối ở ryokan toàn là đặc sản núi rừng, món nào cũng tuyệt hảo."
+     },
+     {
+      "ja": "彼女の部屋はピンク尽くしで、まるでおとぎの国のようだ。",
+      "reading": "かのじょの へやは ピンクづくしで、まるで おとぎの くにのようだ。",
+      "vi": "Phòng cô ấy toàn màu hồng, cứ như xứ sở thần tiên vậy."
      }
     ]
    },
@@ -8043,6 +8927,19 @@
       "reading": "この いっきゅうを うてなければ それまでだ、と かれは かくごを きめた。",
       "vi": "\"Nếu không đánh trúng quả bóng này thì coi như hết\", anh ấy đã hạ quyết tâm như vậy."
      }
+    ],
+    "grammar_detail": "Cấu trúc cảnh báo: 'chỉ cần V(điều kiện) xảy ra LÀ COI NHƯ XONG' — nhấn mạnh TÍNH QUYẾT ĐỊNH của một khoảnh khắc: チャンスを逃せばそれまでだ. Sắc thái nghiêm trọng, dứt khoát, lạnh lùng — hay dùng trong thể thao, kinh doanh, tình huống sinh tử. Khác với 〜たらおしまいだ (cách nói suồng sã, trẻ con hơn), ばそれまでだ trang trọng và 'người lớn' hơn. Lỗi hay mắc: dùng cho việc nhỏ nhặt hàng ngày (×宿題を忘れればそれまでだ — quá nghiêm trọng, nghe buồn cười).",
+    "extra_examples": [
+     {
+      "ja": "決勝のPKを外せばそれまでだ。彼は深呼吸してボールを蹴った。",
+      "reading": "けっしょうの ピーケーを はずせば それまでだ。かれは しんこきゅうして ボールを けった。",
+      "vi": "Sút hỏng quả penalty chung kết này là coi như xong. Anh hít một hơi thật sâu rồi sút bóng."
+     },
+     {
+      "ja": "パスワードを3回間違えればそれまでだ。慎重に入力しろ。",
+      "reading": "パスワードを さんかい まちがえれば それまでだ。しんちょうに にゅうりょくしろ。",
+      "vi": "Nhập sai mật khẩu 3 lần là coi như xong. Nhập cho cẩn thận vào."
+     }
     ]
    },
    "kanji": [
@@ -8160,6 +9057,19 @@
       "ja": "目の前で転んだお年寄りを見過ごすわけにはいかなかった。",
       "reading": "めのまえで ころんだ おとしよりを みすごす わけにはいかなかった。",
       "vi": "Thấy cụ già ngã ngay trước mắt, tôi không thể làm ngơ được."
+     }
+    ],
+    "grammar_detail": "Phủ định kép: 'không thể KHÔNG làm' — bị hoàn cảnh, lương tâm, đạo lý BẮT BUỘC phải làm dù không muốn. Nhẹ nhàng và 'tình người' hơn 〜なければならない (nghĩa vụ khô khan): 友達が困っていたら助けないわけにはいかない. So với 〜ざるを得ない (ngày 1: không còn lựa chọn khách quan nào), わけにはいかない nhấn mạnh RÀO CẢN ĐẠO ĐỨC/XÃ HỘI — làm khác đi thì áy náy. Khác 〜ないではいられない (thôi thúc cảm xúc tự phát, không kìm được). Lỗi hay mắc: dùng cho nghĩa vụ pháp lý khô khan (×税金を払わないわけにはいかない → nên dùng なければならない).",
+    "extra_examples": [
+     {
+      "ja": "後輩に泣きつかれたら、先輩として相談に乗らないわけにはいかない。",
+      "reading": "こうはいに なきつかれたら、せんぱいとして そうだんに のらないわけには いかない。",
+      "vi": "Đàn em đã khóc lóc nhờ vả thì với tư cách đàn anh, tôi không thể không lắng nghe tâm sự của nó."
+     },
+     {
+      "ja": "恩人の葬式だ。どんなに忙しくても参列しないわけにはいかない。",
+      "reading": "おんじんの そうしきだ。どんなに いそがしくても さんれつしないわけには いかない。",
+      "vi": "Đám tang của ân nhân đấy. Dù bận đến mấy cũng không thể không đến viếng."
      }
     ]
    },
@@ -8280,6 +9190,19 @@
       "reading": "ちほうに すんだら すんだで、とかいにはない よさがある。",
       "vi": "Đã sống ở quê thì quê cũng có những nét hay mà thành phố không có."
      }
+    ],
+    "grammar_detail": "Cùng một động từ lặp lại hai lần: 'NẾU đã V thì V cũng có cái hay RIÊNG của nó' — cách nhìn TÍCH CỰC, tái định giá tình huống: 雨が降ったら降ったで家で本が読める. Khác với 〜ても ('dù...cũng' — nhượng bộ, chấp nhận điều không muốn), たら〜たで CHỦ ĐỘNG tìm ra mặt tốt, hay dùng để an ủi người khác hoặc tự trấn an bản thân. Có thể dùng với tính từ: 高かったら高かったで (đắt thì có cái đáng của đắt). Lỗi hay mắc: dùng hai động từ khác nhau (×雨が降ったら晴れたで) hoặc dùng cho bi kịch nghiêm trọng (nghe vô duyên).",
+    "extra_examples": [
+     {
+      "ja": "試験に落ちたら落ちたで、次のチャンスに向けて頑張ればいい。",
+      "reading": "しけんに おちたら おちたで、つぎの チャンスに むけて がんばればいい。",
+      "vi": "Trượt kỳ thi thì trượt, mình lại cố gắng cho cơ hội tiếp theo."
+     },
+     {
+      "ja": "田舎に引っ越したら引っ越したで、新しい楽しみが見つかるはずだ。",
+      "reading": "いなかに ひっこしたら ひっこしたで、あたらしい たのしみが みつかるはずだ。",
+      "vi": "Chuyển về quê thì cũng sẽ tìm được niềm vui mới ở đó thôi."
+     }
     ]
    },
    "kanji": [
@@ -8399,6 +9322,19 @@
       "reading": "へいわであればこそ、わたしたちは あんしんして まなびつづけられる。",
       "vi": "Chính vì có hòa bình nên chúng ta mới được yên tâm học tập."
      }
+    ],
+    "grammar_detail": "Văn phong TRANG TRỌNG (diễn văn, lời cảm ơn, điếu văn): 'CHÍNH VÌ... nên mới...' — nhấn mạnh điều kiện tiên quyết với lòng biết ơn sâu sắc: 皆様のご支援があればこそ. Khác với 〜からこそ (cũng nhấn mạnh nguyên nhân, nhưng ばこそ cổ điển, trang trọng hơn), và khác おかげで (trung tính, dùng được trong hội thoại). Cấu trúc: Vば + こそ, vế sau thường là kết quả tốt đẹp. Lỗi hay mắc: dùng trong hội thoại thường ngày (nghe như đang đọc diễn văn) hoặc vế sau là kết quả tiêu cực (×事故があればこそ怪我した — sai sắc thái biết ơn).",
+    "extra_examples": [
+     {
+      "ja": "先輩の厳しい指導があればこそ、今の私があります。",
+      "reading": "せんぱいの きびしい しどうが あればこそ、いまの わたしが あります。",
+      "vi": "Chính nhờ sự chỉ bảo nghiêm khắc của đàn anh mà mới có tôi của ngày hôm nay."
+     },
+     {
+      "ja": "家族の支えがあればこそ、長い闘病生活を乗り越えられた。",
+      "reading": "かぞくの ささえが あればこそ、ながい とうびょうせいかつを のりこえられた。",
+      "vi": "Chính vì có gia đình chống lưng mà tôi mới vượt qua được những tháng ngày dài chữa bệnh."
+     }
     ]
    },
    "kanji": [
@@ -8515,6 +9451,19 @@
       "ja": "チームワーク抜きでは勝利は考えられない。",
       "reading": "チームワークぬきではしょうりはかんがえられない。",
       "vi": "Không có tinh thần đồng đội thì không thể nghĩ đến chiến thắng."
+     }
+    ],
+    "grammar_detail": "ぬき (抜き) = 'gạt ra, thiếu đi' — 'NẾU THIẾU N thì không thể...' : N là yếu tố KHÔNG THỂ THIẾU. Vế sau thường là: 語れない・考えられない・ありえない・成功しない — những động từ phủ định mang tính tuyệt đối. Khác với 〜なしでは (cũng 'không có', nhưng ぬきでは trang trọng và nhấn mạnh hơn), và 〜なくして (văn chương cổ kính). Mẹo nhớ: 抜く là 'rút ra' — rút N ra khỏi bức tranh là bức tranh sụp đổ. Lỗi hay mắc: trong văn viết trang trọng nên viết kanji 抜きでは thay vì hiragana ぬきでは.",
+    "extra_examples": [
+     {
+      "ja": "監督の采配抜きでは、あの逆転優勝は語れない。",
+      "reading": "かんとくの さいはいぬきでは、あの ぎゃくてん ゆうしょうは かたれない。",
+      "vi": "Không nhắc đến tài cầm quân của huấn luyện viên thì không thể kể hết câu chuyện vô địch ngược dòng ấy."
+     },
+     {
+      "ja": "睡眠抜きでは、どんなに優秀な頭脳も本来の力を発揮できない。",
+      "reading": "すいみんぬきでは、どんなに ゆうしゅうな ずのうも ほんらいの ちからを はっきできない。",
+      "vi": "Thiếu ngủ thì dù bộ não xuất sắc đến đâu cũng không phát huy được thực lực."
      }
     ]
    },
@@ -8637,6 +9586,19 @@
       "reading": "りょこうに じょうじて、かくちの めいぶつを たべあるいた。",
       "vi": "Nhân chuyến du lịch, tôi đã đi thưởng thức đặc sản khắp các vùng."
      }
+    ],
+    "grammar_detail": "N là CƠ HỘI/DỊP (出張・旅行・帰省・ブーム) — 'nhân dịp N mà...' làm thêm việc gì đó. ĐIỂM N1 QUAN TRỌNG: sắc thái ĐỔI CHIỀU theo N! Với N tích cực thì trung tính, vô tội: 出張に乗じて旧友を訪ねた. Nhưng với N tiêu cực (混乱・どさくさ・火事場) thì mang nghĩa XẤU: lợi dụng lúc rối ren để trục lợi! Khác với 〜を機に (bước ngoặt trang trọng, luôn tích cực) và ついでに (thân mật: 'tiện thể'). Lỗi hay mắc: không nhận ra sắc thái xấu — 混乱に乗じて値上げした là hành vi đáng lên án, không phải 'nhân cơ hội' ngây thơ.",
+    "extra_examples": [
+     {
+      "ja": "福岡出張に乗じて、本場の豚骨ラーメンを堪能してきた。",
+      "reading": "ふくおか しゅっちょうに じょうじて、ほんばの とんこつラーメンを たんのうしてきた。",
+      "vi": "Nhân chuyến công tác Fukuoka, tôi đã thưởng thức mì tonkotsu chính hiệu."
+     },
+     {
+      "ja": "停電のどさくさに乗じて、店の商品が盗まれる事件が相次いだ。",
+      "reading": "ていでんの どさくさに じょうじて、みせの しょうひんが ぬすまれる じけんが あいついだ。",
+      "vi": "Lợi dụng lúc mất điện rối ren, các vụ trộm hàng trong cửa hàng xảy ra liên tiếp."
+     }
     ]
    },
    "kanji": [
@@ -8751,6 +9713,19 @@
       "ja": "春が来たかと思えば、急に寒くなった。",
       "reading": "はるがきたかとおもえば、きゅうにさむくなった。",
       "vi": "Tưởng xuân đã về thì đột nhiên lạnh trở lại."
+     }
+    ],
+    "grammar_detail": "Vừa TƯỞNG là A (Vた) thì ngay lập tức B XẢY RA — B thường TRÁI NGƯỢC hoặc trớ trêu: 治ったかと思えばまた熱が出た. Sắc thái: ngỡ ngàng, đôi khi mỉa mai số phận, rất hợp để kể chuyện đời. Khác với 〜や否や ('ngay khi... thì' — trung tính, chỉ sự nhanh chóng), かと思えば nhấn mạnh KỲ VỌNG BỊ ĐÁNH SẬP. Gần nghĩa với 〜かと思うと, có thể thay thế cho nhau. Lỗi hay mắc: vế B là kết quả đương nhiên, không có yếu tố bất ngờ (×合格したかと思えば嬉しかった).",
+    "extra_examples": [
+     {
+      "ja": "やっと寝かしつけたかと思えば、夜泣きでまた起きた。",
+      "reading": "やっと ねかしつけたかと おもえば、よなきで また おきた。",
+      "vi": "Vừa mới dỗ con ngủ được thì nó lại khóc đêm khiến tôi phải dậy."
+     },
+     {
+      "ja": "貯金が貯まったかと思えば、車の修理代で一気に消えた。",
+      "reading": "ちょきんが たまったかと おもえば、くるまの しゅうりだいで いっきに きえた。",
+      "vi": "Vừa tích cóp được ít tiền thì tiền sửa xe đã ngốn sạch trong một nốt nhạc."
      }
     ]
    },
@@ -8871,6 +9846,19 @@
       "reading": "たぼうをおしてしゅっせきしてくれた。",
       "vi": "Dù bận rộn, anh ấy vẫn cố đến dự."
      }
+    ],
+    "grammar_detail": "を押して = 'gạt N sang một bên, BẤT CHẤP N mà làm': N là trở ngại (反対・病気・多忙・疲労・吹雪). Sắc thái NỖ LỰC, hy sinh đáng khâm phục: 病気をおして舞台に立った — người nghe tự khắc nể phục. Khác với 〜にもかかわらず ('dù...' — chỉ nêu sự tương phản khách quan), をおして nhấn mạnh CHỦ THỂ CHỦ ĐỘNG VƯỢT QUA trở ngại. Khác 〜をものともせず (coi như không có, mạnh và kiêu hãnh hơn). Lỗi hay mắc: N là thứ tích cực (×応援をおして — sai hoàn toàn).",
+    "extra_examples": [
+     {
+      "ja": "猛吹雪をおして、救助隊は遭難者のもとへ向かった。",
+      "reading": "もうふぶきを おして、きゅうじょたいは そうなんしゃの もとへ むかった。",
+      "vi": "Bất chấp bão tuyết dữ dội, đội cứu hộ vẫn tiến về phía người gặp nạn."
+     },
+     {
+      "ja": "家族の反対をおして、彼女は単身海外へ留学した。",
+      "reading": "かぞくの はんたいを おして、かのじょは たんしん かいがいへ りゅうがくした。",
+      "vi": "Gạt sang một bên sự phản đối của gia đình, cô ấy một mình ra nước ngoài du học."
+     }
     ]
    },
    "kanji": [
@@ -8987,6 +9975,19 @@
       "ja": "愛にほかならない気持ちだった。",
       "reading": "あいにほかならないきもちだった。",
       "vi": "Đó là tình cảm chẳng gì khác ngoài tình yêu."
+     }
+    ],
+    "grammar_detail": "Khẳng định BẢN CHẤT sự việc: 'chẳng qua CHÍNH LÀ...' — vạch trần hoặc vinh danh sự thật cốt lõi: これは努力の賜物にほかならない. Văn viết trang trọng, giọng quả quyết. Khác với 〜にすぎない ('chỉ là...' — HẠ THẤP giá trị: 子供の戯れにすぎない), にほかならない NÂNG sự thật lên thành chân lý, không hề hạ thấp mà còn tôn vinh. Lỗi N1 kinh điển: nhầm với 〜ほかならない/〜ほかない ('không còn cách nào khác' — nghĩa khác hẳn!) và nhầm với 〜ざるを得ない.",
+    "extra_examples": [
+     {
+      "ja": "彼の涙は、長年の苦労が報われた喜びにほかならなかった。",
+      "reading": "かれの なみだは、ながねんの くろうが むくわれた よろこびに ほかならなかった。",
+      "vi": "Những giọt nước mắt của anh ấy chẳng qua chính là niềm vui khi bao năm vất vả được đền đáp."
+     },
+     {
+      "ja": "あの時の一言は、私に対する最大の励ましにほかならない。",
+      "reading": "あのときの ひとことは、わたしに たいする さいだいの はげましに ほかならない。",
+      "vi": "Câu nói hôm ấy chẳng qua chính là lời động viên lớn nhất dành cho tôi."
      }
     ]
    },
@@ -9107,6 +10108,19 @@
       "ja": "時代に即した教育が必要だ。",
       "reading": "じだいにそくしたきょういくがひつようだ。",
       "vi": "Cần nền giáo dục phù hợp với thời đại."
+     }
+    ],
+    "grammar_detail": "即して đọc là そくして (nhiều người đọc nhầm!) — nghĩa 'dựa trên, PHÙ HỢP VỚI N mà hành động': 事実に即して判断する. Văn viết hành chính, học thuật, báo chí. Khác với 〜に基づいて ('lấy N làm căn cứ' — căn cứ khách quan, cứng nhắc), に即して nhấn mạnh SỰ PHÙ HỢP, tương thích linh hoạt với tình hình thực tế. Khác 〜に沿って ('men theo' — tuân theo kế hoạch/lộ trình đã định). N thường là: 事実・現実・現場の声・時代・実情. Lỗi hay mắc: đọc sai thành すなわちして.",
+    "extra_examples": [
+     {
+      "ja": "被災地の実情に即した支援が、今もっとも求められている。",
+      "reading": "ひさいちの じつじょうに そくした しえんが、いま もっとも もとめられている。",
+      "vi": "Sự hỗ trợ phù hợp với thực trạng vùng thiên tai mới là điều cần nhất lúc này."
+     },
+     {
+      "ja": "理想論ではなく、現場に即して物事を考えるべきだ。",
+      "reading": "りそうろんではなく、げんばに そくして ものごとを かんがえるべきだ。",
+      "vi": "Đừng lý thuyết suông, hãy suy nghĩ mọi việc dựa trên thực tế hiện trường."
      }
     ]
    },
@@ -9229,6 +10243,19 @@
       "reading": "いかりをきんじえないできごとだった。",
       "vi": "Đó là sự việc khiến tôi không kìm được giận dữ."
      }
+    ],
+    "grammar_detail": "禁じ得ない = 'không kìm được' — N là CẢM XÚC (涙・怒り・感動・笑い・驚き) trào ra ngoài ý muốn. Văn chương trang trọng. Liên hệ hay với ngày 63 〜てたまらない: たまらない là cảm xúc DÂNG TRÀO TRONG LÒNG, còn 禁じ得ない là KHÔNG KÌM ĐƯỢC BIỂU HIỆN RA NGOÀI (bật khóc, bật cười...). Cả hai đều 'không kiểm soát được' nhưng ở hai tầng khác nhau — đề N1 rất thích hỏi phân biệt cặp này! Lỗi hay mắc: dùng với N không phải cảm xúc (×食事を禁じ得ない). Chú ý: viết 禁じ得ない hay 禁じえない đều đúng.",
+    "extra_examples": [
+     {
+      "ja": "恩師の訃報に接し、涙を禁じ得なかった。",
+      "reading": "おんしの ふほうに せっし、なみだを きんじえなかった。",
+      "vi": "Nghe tin thầy ân nhân qua đời, tôi không kìm được nước mắt."
+     },
+     {
+      "ja": "満員の観客の拍手に、選手たちは感激を禁じ得ない様子だった。",
+      "reading": "まんいんの かんきゃくの はくしゅに、せんしゅたちは かんげきを きんじえない ようすだった。",
+      "vi": "Trước tràng pháo tay của khán giả chật kín, các vận động viên không giấu nổi vẻ xúc động."
+     }
     ]
    },
    "kanji": [
@@ -9346,6 +10373,19 @@
       "reading": "いしゃの きょかが でてからでないと、たいいんできない。",
       "vi": "Nếu bác sĩ chưa cho phép thì không được xuất viện."
      }
+    ],
+    "grammar_detail": "Điều kiện TIÊN QUYẾT: 'phải Vて RỒI MỚI...' — vế sau BẮT BUỘC là câu phủ định (分からない・できない・始められない): やってみてからでないと分からない. Khác với 〜てはじめて ('chỉ SAU KHI làm mới nhận ra' — vế sau KHẲNG ĐỊNH, nhấn mạnh giây phút ngộ ra đầy cảm xúc), てからでないと nhấn mạnh ĐIỀU KIỆN BẮT BUỘC mang tính thủ tục. Mẹo nhớ đề thi: thấy でないと thì vế sau 100% phủ định. Lỗi hay mắc: vế sau khẳng định (×食べてからでないと分かる — sai ngữ pháp).",
+    "extra_examples": [
+     {
+      "ja": "現地に行ってみてからでないと、本当の魅力は伝わらない。",
+      "reading": "げんちに いってみてからでないと、ほんとうの みりょくは つたわらない。",
+      "vi": "Phải đến tận nơi rồi mới cảm nhận được sức hút thật sự, nói suông không truyền tải nổi."
+     },
+     {
+      "ja": "上司の承認を得てからでないと、この企画は動かせない。",
+      "reading": "じょうしの しょうにんを えてからでないと、この きかくは うごかせない。",
+      "vi": "Phải có phê duyệt của sếp rồi thì dự án này mới triển khai được."
+     }
     ]
    },
    "kanji": [
@@ -9462,6 +10502,19 @@
       "ja": "この映画、面白くないでもない。",
       "reading": "この えいが、おもしろくないでもない。",
       "vi": "Bộ phim này, nói thật thì cũng hơi hay."
+     }
+    ],
+    "grammar_detail": "Phủ định kép → khẳng định MỘT PHẦN, dè dặt: 'cũng không hẳn là không...' = thực ra CÓ một chút: 不安がないでもない (thú thật là cũng hơi lo). Sắc thái: thừa nhận miễn cưỡng, nói giảm nói tránh — rất 'Nhật Bản'. Khác với 〜ないことはない ('không phải là không thể' — nói về KHẢ NĂNG), ないでもない nói về MỨC ĐỘ/SỰ THẬT một phần. Khác 〜わけではない (phủ định cách hiểu cực đoan của người nghe). Lỗi hay mắc: dịch thành phủ định hoàn toàn ('không...') — mất hẳn sắc thái dè dặt, và bỏ qua vế が/けど thường đi sau để 'chữa cháy'.",
+    "extra_examples": [
+     {
+      "ja": "彼の提案に賛成しないでもないが、もう少し検討が必要だ。",
+      "reading": "かれの ていあんに さんせいしないでもないが、もうすこし けんとうが ひつようだ。",
+      "vi": "Đề xuất của anh ấy cũng không phải là tôi không tán thành, nhưng cần xem xét thêm chút nữa."
+     },
+     {
+      "ja": "新しい上司は厳しいと聞いていたが、優しくないでもない。",
+      "reading": "あたらしい じょうしは きびしいと きいていたが、やさしくないでもない。",
+      "vi": "Nghe nói sếp mới nghiêm khắc lắm, nhưng thực ra cũng không phải là không tốt bụng."
      }
     ]
    },
@@ -9583,6 +10636,19 @@
       "reading": "どりょく しだいでは、N1にも ごうかくできる。",
       "vi": "Tùy vào nỗ lực mà cũng có thể đỗ N1."
      }
+    ],
+    "grammar_detail": "次第 (しだい) = 'tùy thuộc' — 'TÙY VÀO N mà...' : vế sau là KHẢ NĂNG/hậu quả có thể thay đổi: 結果次第では計画を見直す. Trang trọng hơn 〜によっては. Khác với 〜次第だ (dạng danh từ đứng cuối câu: 君の努力次第だ — 'là tùy ở...'), 次第では LUÔN kéo theo mệnh đề HỆ QUẢ ở vế sau. Lỗi KINH ĐIỂN của N1: nhầm với 次第に (しだいに = 'dần dần') — khác nghĩa hoàn toàn, đề thi rất hay bẫy cặp này!",
+    "extra_examples": [
+     {
+      "ja": "査定の結果次第では、ボーナスが大幅に変わってくる。",
+      "reading": "さていの けっかしだいでは、ボーナスが おおはばに かわってくる。",
+      "vi": "Tùy vào kết quả đánh giá mà tiền thưởng có thể thay đổi đáng kể."
+     },
+     {
+      "ja": "明日の天気次第では、運動会は屋内開催になる。",
+      "reading": "あしたの てんきしだいでは、うんどうかいは おくないかいさいに なる。",
+      "vi": "Tùy tình hình thời tiết ngày mai mà hội thao có thể chuyển vào trong nhà."
+     }
     ]
    },
    "kanji": [
@@ -9702,6 +10768,19 @@
       "reading": "せんそうを へて、ひとびとは へいわの とうとさを しった。",
       "vi": "Trải qua chiến tranh, con người hiểu được giá trị của hòa bình."
      }
+    ],
+    "grammar_detail": "経て (へて) = 'trải qua' — N là QUÁ TRÌNH/giai đoạn dài đằng đẵng (年月・苦労・戦争・留学生活): 長い年月を経て完成した. Văn viết trang trọng, nhấn mạnh THỜI GIAN và SỰ TÍCH LŨY, tôi luyện. Khác với 〜を通じて ('thông qua' — chỉ PHƯƠNG TIỆN: 友人を通じて知った), を経て là ĐI XUYÊN QUA cả một chặng đường gian nan. Mẹo nhớ: 経験 (kinh nghiệm) cũng chữ 経 này — phải 'kinh qua' mới có kinh nghiệm! Lỗi hay mắc: dùng với N ngắn ngủi (×一瞬を経て — sai sắc thái 'dài đằng đẵng').",
+    "extra_examples": [
+     {
+      "ja": "3年の浪人生活を経て、彼はようやく夢の大学に合格した。",
+      "reading": "さんねんの ろうにんせいかつを へて、かれは ようやく ゆめの だいがくに ごうかくした。",
+      "vi": "Trải qua 3 năm ôn thi lại, cuối cùng cậu ấy cũng đỗ vào trường đại học mơ ước."
+     },
+     {
+      "ja": "幾多の議論を経て、新法案はついに成立した。",
+      "reading": "いくたの ぎろんを へて、しんほうあんは ついに せいりつした。",
+      "vi": "Sau biết bao cuộc tranh luận, dự luật mới cuối cùng cũng được thông qua."
+     }
     ]
    },
    "kanji": [
@@ -9818,6 +10897,19 @@
       "ja": "旅行は天気がいいに越したことはない。",
       "reading": "りょこうはてんきがいいにこしたことはない。",
       "vi": "Đi du lịch thì trời đẹp là tốt nhất."
+     }
+    ],
+    "grammar_detail": "越した (こした) = 'vượt qua' — 'KHÔNG GÌ BẰNG...' : đưa ra lời khuyên chân thành ở mức TUYỆT ĐỐI: 健康に越したことはない. Mạnh hơn 〜たほうがいい ('nên...' — khuyên nhẹ) và 〜に限る (cũng 'là nhất', nhưng に越したことはない mang tính chân lý phổ quát, không bàn cãi). Cấu trúc: Vる/Aい + のに越したことはない. So với ngày 62 〜までもない ('khỏi cần làm' — phủ định sự cần thiết), mẫu này KHUYẾN KHÍCH làm — hai mẫu đối lập thú vị, đề N1 hay đặt cạnh nhau. Lỗi hay mắc: đọc 越した thành えった/こえた — phải đọc こした!",
+    "extra_examples": [
+     {
+      "ja": "傘は持っていくに越したことはない。山の天気は変わりやすいから。",
+      "reading": "かさは もっていくに こしたことはない。やまの てんきは かわりやすいから。",
+      "vi": "Mang theo ô vẫn hơn. Thời tiết trên núi thay đổi thất thường lắm."
+     },
+     {
+      "ja": "大事な試験の前日は、早く寝るに越したことはない。",
+      "reading": "だいじな しけんの ぜんじつは、はやく ねるに こしたことはない。",
+      "vi": "Đêm trước kỳ thi quan trọng thì đi ngủ sớm vẫn là tốt nhất."
      }
     ]
    },
@@ -9938,6 +11030,19 @@
       "reading": "そのしらせはひとびとをおどろかせずにはおかないだろう。",
       "vi": "Tin đó chắc chắn sẽ khiến mọi người kinh ngạc."
      }
+    ],
+    "grammar_detail": "ず (phủ định cổ) + にはおかない = 'NHẤT ĐỊNH sẽ gây ra...' — chủ ngữ (tác phẩm, lời nói, sự kiện) TÁC ĐỘNG mạnh đến người khác khiến họ KHÔNG THỂ KHÔNG phản ứng: この映画は観る者を泣かせずにはおかない. Điểm N1 then chốt: khác với 〜ざるを得ない (ngày 1: CHÍNH CHỦ THỂ bị hoàn cảnh bắt buộc), ずにはおかない là chủ thể GÂY RA phản ứng ở NGƯỜI KHÁC — hướng tác động ngược nhau! Văn viết trang trọng, hay trong phê bình nghệ thuật. Lỗi hay mắc: nhầm chủ ngữ — 'tôi' không thể ずにはおかない chính mình (×私は行かずにはおかない).",
+    "extra_examples": [
+     {
+      "ja": "彼女の歌声は、聴く者の心を震わせずにはおかない。",
+      "reading": "かのじょの うたごえは、きくものの こころを ふるわせずには おかない。",
+      "vi": "Giọng hát của cô ấy nhất định sẽ làm rung động trái tim bất kỳ ai nghe."
+     },
+     {
+      "ja": "あの衝撃的な結末は、読者を呆然とさせずにはおかなかった。",
+      "reading": "あの しょうげきてきな けつまつは、どくしゃを ぼうぜんと させずには おかなかった。",
+      "vi": "Cái kết gây sốc ấy đã khiến độc giả không khỏi sững sờ."
+     }
     ]
    },
    "kanji": [
@@ -10056,6 +11161,19 @@
       "ja": "毎日の残業では体がもってはかなわない。",
       "reading": "まいにちのざんぎょうではからだがもってはかなわない。",
       "vi": "Làm thêm mỗi ngày thế này thì cơ thể không chịu nổi."
+     }
+    ],
+    "grammar_detail": "かなわない (敵わない) = 'không địch nổi' — 'KHÔNG CHỊU NỔI / không kham nổi...' khi đối mặt tình huống bên ngoài: この暑さではやってはかなわない. Phân biệt N1 quan trọng với ngày 63 〜てたまらない: たまらない là CẢM XÚC TRONG LÒNG dâng trào (vui/buồn/khát...), còn てはかなわない là ĐẦU HÀNG trước hoàn cảnh khách quan (thời tiết, công việc, tính khí ai đó). Khác 〜には耐えられない (không chịu đựng nổi — gần nghĩa nhưng かなわない suồng sã, đời thường hơn). Lỗi hay mắc: dùng cho cảm xúc tích cực (×嬉しくてはかなわない — sai, phải dùng たまらない).",
+    "extra_examples": [
+     {
+      "ja": "隣の工事の騒音には、さすがに我慢してはかなわない。",
+      "reading": "となりの こうじの そうおんには、さすがに がまんしては かなわない。",
+      "vi": "Tiếng ồn công trình bên cạnh thì đúng là không thể chịu đựng nổi."
+     },
+     {
+      "ja": "彼の気まぐれには、もう付き合ってはかなわないよ。",
+      "reading": "かれの きまぐれには、もう つきあっては かなわないよ。",
+      "vi": "Cái tính thất thường của anh ta thì tôi chịu, không theo nổi nữa rồi."
      }
     ]
    },
@@ -10177,6 +11295,19 @@
       "reading": "プロたるもの、どんな ときも ぜんりょくを つくさねばならない。",
       "vi": "Đã là dân chuyên nghiệp thì lúc nào cũng phải dốc hết sức."
      }
+    ],
+    "grammar_detail": "たる (phán đoán cổ) + もの = 'ĐÃ LÀ N thì phải...' — N là ĐỊA VỊ/vai trò (社長・親・プロ・日本人・武士): vế sau là lời RĂN DẠY đạo đức với べきだ・ねばならない・てはならない. Giọng văn CỔ ĐIỂN, nghiêm khắc như lời cha ông răn dạy. Khác với 〜として ('với tư cách là' — trung tính, chỉ mô tả vai trò), たるもの mang tính PHÁN XÉT và KỲ VỌNG đạo đức. Dạng thuộc tính: N + たる者 (社長たる者). Lỗi hay mắc: vế sau dùng thể suồng sã (×社長たるもの早く帰ろう — lệch giọng văn nghiêm trang) hoặc dùng cho sự vật (×机たるもの).",
+    "extra_examples": [
+     {
+      "ja": "武士たるもの、命よりも名誉を重んじるべきだ。",
+      "reading": "ぶしたるもの、いのちよりも めいよを おもんじるべきだ。",
+      "vi": "Đã là samurai thì phải coi trọng danh dự hơn cả mạng sống."
+     },
+     {
+      "ja": "先輩たるもの、後輩の模範とならねばならない。",
+      "reading": "せんぱいたるもの、こうはいの もはんと ならねばならない。",
+      "vi": "Đã là đàn anh thì phải làm gương cho đàn em noi theo."
+     }
     ]
    },
    "kanji": [
@@ -10293,6 +11424,19 @@
       "ja": "新学期にあたって、目標を立てた。",
       "reading": "しんがっきにあたって、もくひょうをたてた。",
       "vi": "Nhân dịp năm học mới, tôi đã đặt mục tiêu."
+     }
+    ],
+    "grammar_detail": "あたって (当たって) = 'nhân dịp, đứng trước N' — N là SỰ KIỆN trọng đại ĐÃ LÊN KẾ HOẠCH (開業・新年・卒業・引っ越し): 開業にあたって挨拶する. Trang trọng, hay mở đầu diễn văn, thư từ. Phân biệt N1 với 〜に際して (cũng 'nhân dịp', nhưng 際して dùng cho THỜI KHẮC — kể cả đột ngột: 震災に際して; còn あたって thiên về dịp ĐÃ ĐỊNH TRƯỚC, có chuẩn bị). Dạng liên thể: 〜にあたっての + N (lời chào nhân dịp...). Lỗi hay mắc: dùng cho việc vặt hàng ngày (×昼ごはんにあたって — gây cười).",
+    "extra_examples": [
+     {
+      "ja": "創立50周年にあたって、記念式典を開催いたします。",
+      "reading": "そうりつ ごじっしゅうねんに あたって、きねんしきてんを かいさいいたします。",
+      "vi": "Nhân dịp kỷ niệm 50 năm thành lập, chúng tôi tổ chức lễ kỷ niệm."
+     },
+     {
+      "ja": "海外赴任にあたって、家族とよく話し合った。",
+      "reading": "かいがいふにんに あたって、かぞくと よく はなしあった。",
+      "vi": "Trước khi nhận nhiệm vụ ở nước ngoài, tôi đã bàn bạc kỹ với gia đình."
      }
     ]
    },
@@ -10413,6 +11557,19 @@
       "reading": "こうけいしゃをめぐってたいりつがふかまった。",
       "vi": "Xung quanh người kế nhiệm, mâu thuẫn ngày càng sâu sắc."
      }
+    ],
+    "grammar_detail": "めぐって (巡って) = 'xoay quanh' — N là VẤN ĐỀ GÂY TRANH CÃI (法案・後継者・環境問題・遺産): vế sau thường là 議論・対立・裁判・混乱... Sắc thái: TÂM ĐIỂM TRANH LUẬN, có phe phái đối đầu — đọc lên là thấy 'drama'. Khác với 〜について (trung tính: 'về...' — thuyết trình bình thường), をめぐって báo hiệu XUNG ĐỘT. Dạng định ngữ: をめぐる + N (後継者をめぐる争い). Lỗi hay mắc: dùng cho chủ đề yên bình (×趣味をめぐって話した — nghe như sắp cãi nhau to).",
+    "extra_examples": [
+     {
+      "ja": "新空港の建設計画をめぐって、住民と行政が対立している。",
+      "reading": "しんくうこうの けんせつけいかくを めぐって、じゅうみんと ぎょうせいが たいりつしている。",
+      "vi": "Xung quanh kế hoạch xây sân bay mới, người dân và chính quyền đang đối đầu gay gắt."
+     },
+     {
+      "ja": "遺産をめぐる兄弟の争いは、法廷にまで持ち込まれた。",
+      "reading": "いさんを めぐる きょうだいの あらそいは、ほうていにまで もちこまれた。",
+      "vi": "Cuộc tranh chấp thừa kế giữa các anh em đã bị đưa ra tận tòa án."
+     }
     ]
    },
    "kanji": [
@@ -10532,6 +11689,19 @@
       "reading": "うそを ついてまで けいやくを とるつもりは ない。",
       "vi": "Tôi không định lấy hợp đồng đến mức phải nói dối."
      }
+    ],
+    "grammar_detail": "て + まで = 'đến mức phải V...' — hành động CỰC ĐOAN, đánh đổi lớn, thường bị ĐÁNH GIÁ TIÊU CỰC: 嘘をついてまで契約を取る (bất chấp cả nói dối). Khác với 〜くらい/ぐらい ('đến mức...' — trung tính, thậm chí tích cực: 泣きたいくらい嬉しい), てまで nhấn mạnh SỰ QUÁ ĐÀ, vượt giới hạn đạo lý/thể chất. Hay đi với phủ định khuyên can: 〜てまでする必要はない. Lỗi hay mắc: dùng cho nỗ lực đáng khen một cách vô tư (×一生懸命勉強してまで合格した — nghe như đang chê người ta học quá đà!).",
+    "extra_examples": [
+     {
+      "ja": "彼は出世のために、友人を裏切ってまで上司に取り入った。",
+      "reading": "かれは しゅっせの ために、ゆうじんを うらぎってまで じょうしに とりいった。",
+      "vi": "Vì thăng tiến, anh ta đã phản bội bạn bè để nịnh bợ cấp trên."
+     },
+     {
+      "ja": "健康を害してまで残業する必要なんてないよ。",
+      "reading": "けんこうを がいしてまで ざんぎょうする ひつようなんて ないよ。",
+      "vi": "Đâu cần thiết phải làm thêm đến mức hại cả sức khỏe."
+     }
     ]
    },
    "kanji": [
@@ -10647,6 +11817,19 @@
       "ja": "冬ともなると、この辺りは雪が積もる。",
       "reading": "ふゆともなると、このあたりはゆきがつもる。",
       "vi": "Cứ đến mùa đông là khu này tuyết phủ dày."
+     }
+    ],
+    "grammar_detail": "Mẫu này diễn tả bước ngoặt: một khi ai đó đạt tới một địa vị hay vai trò mới, hoặc thời gian bước sang một giai đoạn mới, thì tình hình hoàn toàn khác trước — thường kèm theo trách nhiệm, áp lực hoặc đặc trưng mới. 「ともなると」 nhấn mạnh kết quả tất yếu ở hiện tại ('một khi đã là… thì đương nhiên…'), còn 「ともなれば」 mang sắc thái giả định nhẹ hơn ('nếu đã đến mức…'). Dễ nhầm với 「〜たら」 thông thường: 「社長になったら」 chỉ là điều kiện đơn thuần, còn 「社長ともなると」 nhấn mạnh sức nặng của cương vị giám đốc. Lưu ý quan trọng: mẫu này chỉ đi với DANH TỪ (chức vụ, mùa, tuổi tác…), không dùng với động từ.",
+    "extra_examples": [
+     {
+      "ja": "二十歳ともなると、自分の行動に責任を持たなければならない。",
+      "reading": "はたちともなると、じぶんのこうどうにせきにんをもたなければならない。",
+      "vi": "Một khi đã hai mươi tuổi thì phải chịu trách nhiệm với hành động của mình."
+     },
+     {
+      "ja": "梅雨ともなれば、洗濯物が乾かず毎日が憂鬱だ。",
+      "reading": "つゆともなれば、せんたくものがかわかずまいにちがゆううつだ。",
+      "vi": "Cứ đến mùa mưa là quần áo không khô, ngày nào cũng ảm đạm."
      }
     ]
    },
@@ -10765,6 +11948,19 @@
       "reading": "しごととあれば、きゅうじつでもしゅっしゃする。",
       "vi": "Đã là vì công việc thì ngày nghỉ cũng đến công ty."
      }
+    ],
+    "grammar_detail": "「〜とあれば」 thể hiện quyết tâm sắt đá: chỉ cần là vì N thì dù khó khăn mấy cũng sẵn sàng làm. Sắc thái mạnh hơn hẳn 「〜のために」 trung tính — 「子どものため」 chỉ nêu mục đích, còn 「子どものためとあれば」 khẳng định 'vì con thì việc gì tôi cũng làm'. Gần nghĩa với 「〜となれば」 nhưng 「とあれば」 cổ điển, văn viết hơn. Lỗi hay gặp: nhầm với trợ từ điều kiện 「と」 thông thường rồi chia động từ sau nó — nhớ rằng mẫu này là DANH TỪ + とあれば, và vế sau luôn là hành động thể hiện quyết tâm, không phải kết quả ngẫu nhiên.",
+    "extra_examples": [
+     {
+      "ja": "友との約束とあれば、台風でも駆けつける。",
+      "reading": "ともとのやくそくとあれば、たいふうでもかけつける。",
+      "vi": "Đã là lời hứa với bạn thì dù bão cũng phải đến."
+     },
+     {
+      "ja": "娘の夢とあれば、親として全力で応援するしかない。",
+      "reading": "むすめのゆめとあれば、おやとしてぜんりょくでおうえんするしかない。",
+      "vi": "Đã là ước mơ của con gái thì bậc làm cha mẹ chỉ còn cách ủng hộ hết mình."
+     }
     ]
    },
    "kanji": [
@@ -10882,6 +12078,19 @@
       "reading": "かれのじょげんなしには、このききをのりこえられなかった。",
       "vi": "Không có lời khuyên của anh ấy thì đã không vượt qua được khủng hoảng này."
      }
+    ],
+    "grammar_detail": "Mẫu văn viết trang trọng, nhấn mạnh 'thiếu N thì tuyệt đối không thể' — N là điều kiện không thể thiếu. Cấu trúc bắt buộc: DANH TỪ + なしには + VẾ PHỦ ĐỊNH (〜ない/〜なかった). So với 「〜なくしては」 cũng trang trọng tương đương, còn 「〜がなければ」 là cách nói thông thường hàng ngày. Lỗi phổ biến nhất: quên vế phủ định — nói 「努力なしには成功する」 là sai, phải là 「努力なしには成功しない」. Ngoài ra cần phân biệt: 「なしに」 đứng một mình (không có は) nghĩa hơi khác, chỉ cách thức 'mà không có', ví dụ 「相談なしに決めた』.",
+    "extra_examples": [
+     {
+      "ja": "鋭い味覚なしには、一流の料理人は務まらない。",
+      "reading": "するどいみかくなしには、いちりゅうのりょうりにんはつとまらない。",
+      "vi": "Không có vị giác tinh nhạy thì không thể làm đầu bếp hàng đầu."
+     },
+     {
+      "ja": "羅針盤なしには、大海原を渡ることなどできはしない。",
+      "reading": "らしんばんなしには、おおうなばらをわたることなどできはしない。",
+      "vi": "Không có la bàn thì đừng hòng vượt qua đại dương mênh mông."
+     }
     ]
    },
    "kanji": [
@@ -10998,6 +12207,19 @@
       "ja": "使い方いかんだ。",
       "reading": "つかいかたいかんだ。",
       "vi": "Còn tùy cách dùng."
+     }
+    ],
+    "grammar_detail": "Diễn tả sự phụ thuộc: kết quả thay đổi tùy theo N. Thường đi với 「によっては」 thành 「N + いかんによっては」 trong văn viết trang trọng. So với 「〜次第だ」 phổ biến hơn trong hội thoại (「君次第だ」), thì 「いかん」 mang sắc thái văn viết, khách quan hơn. Dễ nhầm: 「いかん」 ở đây là danh từ (如何 = thế nào), không phải tính từ-na 「いかん」 (không được, tồi). Ví dụ 「使い方いかんだ」 = còn tùy cách dùng — ngắn gọn nhưng rất N1. Lưu ý không dùng trực tiếp với tính từ.",
+    "extra_examples": [
+     {
+      "ja": "面接の出来いかんでは、内定がもらえるかどうか決まる。",
+      "reading": "めんせつのできいかんでは、ないていがもらえるかどうかきまる。",
+      "vi": "Tùy vào màn thể hiện ở phỏng vấn mà quyết định có được nhận hay không."
+     },
+     {
+      "ja": "明日の遠足は天候いかんによっては中止だ。",
+      "reading": "あしたのえんそくはてんこういかんによってはちゅうしだ。",
+      "vi": "Chuyến dã ngoại ngày mai tùy thời tiết mà có thể bị hủy."
      }
     ]
    },
@@ -11117,6 +12339,19 @@
       "reading": "これまでのぎろんをふまえてけつろんをだす。",
       "vi": "Đưa ra kết luận dựa trên những thảo luận từ trước đến nay."
      }
+    ],
+    "grammar_detail": "「踏まえる」 nghĩa đen là 'đặt chân lên' → dựa trên kinh nghiệm, dữ liệu, ý kiến đã có để hành động. Rất hay dùng trong công việc: 「お客様の声を踏まえて」 (dựa trên phản hồi khách hàng). So với 「〜をもとに」 (dựa trên, trung tính) và 「〜に基づいて」 (căn cứ vào, pháp lý/học thuật hơn), thì 「を踏まえて」 nhấn mạnh quá trình đúc rút từ thực tế. Lỗi hay gặp: dùng với chuyện tương lai chưa xảy ra — 「明日の予定を踏まえて」 nghe kỳ cục, vì chỉ 'đạp lên' được cái đã có mà thôi.",
+    "extra_examples": [
+     {
+      "ja": "テストの結果を踏まえて、来週の授業計画を練り直した。",
+      "reading": "テストのけっかをふまえて、らいしゅうのじゅぎょうけいかくをねりなおした。",
+      "vi": "Dựa vào kết quả bài kiểm tra, tôi đã soạn lại kế hoạch giảng dạy tuần sau."
+     },
+     {
+      "ja": "被災者の声を踏まえて、支援物資の内容を見直す。",
+      "reading": "ひさいしゃのこえをふまえて、しえんぶっしの内容をみなおす。",
+      "vi": "Dựa trên tiếng nói của người bị nạn để xem xét lại nội dung hàng cứu trợ."
+     }
     ]
    },
    "kanji": [
@@ -11234,6 +12469,19 @@
       "ja": "取材にかこつけて、有名人に会いに行った。",
       "reading": "しゅざいにかこつけて、ゆうめいじんにあいにいった。",
       "vi": "Lấy cớ phỏng vấn để đi gặp người nổi tiếng."
+     }
+    ],
+    "grammar_detail": "Mang sắc thái hơi tiêu cực: lấy N làm cái cớ để làm việc mình thực sự muốn (thường là việc riêng, hưởng thụ). Khác với 「〜を口実に」 chỉ đơn thuần nêu lý do giả, 「にかこつけて」 nhấn mạnh sự 'mượn gió bẻ măng' — cái cớ nghe có vẻ chính đáng nhưng động cơ thì riêng tư. Vì thế KHÔNG dùng cho lý do chính đáng thật sự. Cấu trúc: DANH TỪ + にかこつけて. Trong đề thi N1, đáp án đúng thường gắn với tình huống 'mượn cớ' kiểu này, còn nếu lý do là thật thì phải chọn mẫu khác.",
+    "extra_examples": [
+     {
+      "ja": "出張にかこつけて、現地の名物を食べ歩いた。",
+      "reading": "しゅっちょうにかこつけて、げんちのめいぶつをたべあるいた。",
+      "vi": "Mượn cớ đi công tác để la cà ăn hết đặc sản địa phương."
+     },
+     {
+      "ja": "勉強にかこつけて、最新ゲームを買い込んだ息子。",
+      "reading": "べんきょうにかこつけて、さいしんゲームをかいこんだむすこ。",
+      "vi": "Thằng con lấy cớ học hành để khuân về cả đống game mới nhất."
      }
     ]
    },
@@ -11353,6 +12601,19 @@
       "reading": "えらぶったたいどがはなにつく。",
       "vi": "Thái độ ra vẻ ta đây thật khó chịu."
      }
+    ],
+    "grammar_detail": "Hậu tố gắn sau danh từ hoặc thân tính từ-na, nghĩa là 'ra vẻ, làm bộ' — và gần như luôn mang sắc thái chê bai, mỉa mai. Điểm phân biệt vàng với 「〜がる」 (chỉ dấu hiệu cảm xúc, trung tính: 「行きたがる」 = tỏ ra muốn đi): 「ぶる」 là GIẢ VỜ, còn 「がる」 là biểu hiện thật. Ví dụ 「忙しがる」 = trông có vẻ bận (thật), 「忙しいぶる」 = ra vẻ bận (giả). Lỗi hay gặp: gắn trực tiếp vào tính từ-i nguyên dạng — phải dùng thân tính từ: 「偉い」 → 「偉ぶる」, chứ không phải 「偉いぶる』.",
+    "extra_examples": [
+     {
+      "ja": "善人ぶる上司ほど、裏で部下の悪口を言うものだ。",
+      "reading": "ぜんにんぶるじょうしほど、うらでぶかのわるぐちをいうものだ。",
+      "vi": "Càng những sếp ra vẻ người tốt thì sau lưng càng nói xấu nhân viên."
+     },
+     {
+      "ja": "学者ぶって難しい言葉を並べるが、中身は空っぽだ。",
+      "reading": "がくしゃぶってむずかしいことばをならべるが、なかみはからっぽだ。",
+      "vi": "Ra vẻ học giả, xổ ra toàn từ khó nhưng bên trong rỗng tuếch."
+     }
     ]
    },
    "kanji": [
@@ -11470,6 +12731,19 @@
       "ja": "謎めいた微笑みを浮かべた。",
       "reading": "なぞめいたほほえみをうかべた。",
       "vi": "Nở nụ cười đầy bí ẩn."
+     }
+    ],
+    "grammar_detail": "Hậu tố văn viết, diễn tả 'dấu hiệu, sắc thái' của N đang hiện ra — như mùa xuân đang đến trong 「春めく」. Khác với 「〜じみた」 (giống như, thường tiêu cực: 「子どもじみた」) thì 「めく」 trung tính, thiên về cảm nhận tinh tế. Cũng đừng nhầm với 「〜っぽい」 (khẩu ngữ, suồng sã). 「めく」 chỉ dùng trong văn viết trang trọng hoặc văn chương; nói chuyện hàng ngày mà dùng sẽ nghe rất 'diễn'. Hay gặp ở dạng quá khứ hoặc tiếp diễn: 「〜めいてきた」「〜めいた』.",
+    "extra_examples": [
+     {
+      "ja": "夕方になると、空が秋めいてきて少し寂しくなる。",
+      "reading": "ゆうがたになると、そらがあきめいてきてすこしさびしくなる。",
+      "vi": "Chiều xuống, bầu trời nhuốm sắc thu khiến lòng se lại."
+     },
+     {
+      "ja": "彼の言い方には、どこか皮肉めいた響きがあった。",
+      "reading": "かれのいいかたには、どこかひにくめいたひびきがあった。",
+      "vi": "Trong cách nói của anh ta phảng phất đâu đó âm hưởng mỉa mai."
      }
     ]
    },
@@ -11589,6 +12863,19 @@
       "reading": "こどもじみたいいわけはやめなさい。",
       "vi": "Đừng viện cớ kiểu trẻ con nữa."
      }
+    ],
+    "grammar_detail": "Nghĩa là 'mang dáng dấp, hơi hướng giống N' — nhưng khác 「〜らしい」 (đúng chất, thường tích cực: 「男らしい」) ở chỗ 「じみた」 hàm ý 'chỉ giống bề ngoài' và thường mang sắc thái chê bai. So với 「〜っぽい」 (khẩu ngữ) thì 「じみた」 trang trọng, văn viết hơn. Lỗi kinh điển: dùng 「じみた」 để khen ai đó — 'anh ấy rất ra dáng đàn ông' phải nói 「男らしい」, không nói 「男じみた」 (nghe như mỉa mai). Mẹo nhớ: khen ngợi → らしい, chê bai hoặc 'giống bề ngoài' → じみた.",
+    "extra_examples": [
+     {
+      "ja": "皮肉じみた笑みを浮かべて、彼は部屋を出た。",
+      "reading": "ひにくじみたえみをうかべて、かれはへやをでた。",
+      "vi": "Nở nụ cười nửa miệng đầy mỉa mai, anh ta bước ra khỏi phòng."
+     },
+     {
+      "ja": "言い訳じみた説明はいいから、まず謝りなさい。",
+      "reading": "いいわけじみたせつめいはいいから、まずあやまりなさい。",
+      "vi": "Khỏi cần giải thích kiểu chống chế, xin lỗi trước đi đã."
+     }
     ]
    },
    "kanji": [
@@ -11706,6 +12993,19 @@
       "ja": "彼ならやり得る。",
       "reading": "かれならやりうる。",
       "vi": "Nếu là anh ấy thì có thể làm được."
+     }
+    ],
+    "grammar_detail": "Gắn sau thân masu của động từ, nghĩa 'có thể / không thể' — nhưng là văn viết trang trọng, gần như không dùng trong hội thoại thường ngày. Dạng phủ định 「〜得ない」 cực kỳ hay gặp: 「あり得ない」 (không thể nào), 「考え得ない」 (không thể tưởng tượng). Khác với 「〜ことができる」 (trung tính, dùng mọi lúc) và 「〜られる」 (khả năng chung), 「得る」 mang sắc thái học thuật, pháp lý. Lỗi hay gặp: dùng trong văn nói thân mật — 'tôi có thể làm' nói 「できる」 chứ đừng nói 「し得る」, nghe như đang đọc diễn văn.",
+    "extra_examples": [
+     {
+      "ja": "予測し得ない事態に備えて、予備の計画を用意した。",
+      "reading": "よそくしえないじたいにそなえて、よびのけいかくをよういした。",
+      "vi": "Để phòng những tình huống không thể lường trước, tôi đã chuẩn bị kế hoạch dự phòng."
+     },
+     {
+      "ja": "彼にしか成し得ない偉業だと、誰もが認めた。",
+      "reading": "かれにしかなしえないいぎょうだと、だれもがみとめた。",
+      "vi": "Ai cũng thừa nhận đó là kỳ tích chỉ mình anh ấy mới làm nổi."
      }
     ]
    },
@@ -11825,6 +13125,19 @@
       "reading": "あきらめずに さいごまで たたかってみせる。",
       "vi": "Tôi quyết không bỏ cuộc, chiến đấu đến cùng cho mà xem."
      }
+    ],
+    "grammar_detail": "Thể hiện ý chí quyết tâm cực mạnh: 'nhất định sẽ làm cho mà xem' — nói với người khác (hoặc tự nhủ) rằng mình sẽ chứng minh bằng hành động. Khác với 「〜てやる」 (làm CHO ai đó, hướng tới người nhận) thì 「てみせる」 hướng tới việc CHỨNG TỎ bản thân. Cũng đừng nhầm với 「〜てみる」 (thử làm xem sao). Mẫu này gần như luôn đi với chủ ngữ ngôi thứ nhất và vế sau mang tính thách thức, thề thốt. Trong đề N1 hay xuất hiện trong ngữ cảnh 'quyết không thua, quyết chứng minh'.",
+    "extra_examples": [
+     {
+      "ja": "フルマラソンを完走してみせる。",
+      "reading": "フルマラソンをかんそうしてみせる。",
+      "vi": "Nhất định tôi sẽ chạy hết marathon cho mà xem."
+     },
+     {
+      "ja": "親を安心させてみせる、それが今の俺の目標だ。",
+      "reading": "おやをあんしんさせてみせる、それがいますのおれのもくひょうだ。",
+      "vi": "Nhất định sẽ làm cho bố mẹ yên lòng — đó là mục tiêu hiện tại của tôi."
+     }
     ]
    },
    "kanji": [
@@ -11940,6 +13253,19 @@
       "ja": "約束を破るとは、なんと恥ずべきことか。",
       "reading": "やくそくを やぶるとは、なんと はずべきことか。",
       "vi": "Bội ước, thật đáng xấu hổ biết bao!"
+     }
+    ],
+    "grammar_detail": "Đặt cuối câu để cảm thán: '…biết bao! …làm sao!' — bộc lộ cảm xúc mãnh liệt như ngạc nhiên, khinh bỉ hay xúc động. Cấu trúc: thể thường (Vる/Vた/Aい/Naな) + ことか, thường đi kèm 「なんて」「なんと」. Khác với 「〜ことだろう」 (dự đoán nhẹ nhàng) và 「〜とは」 (cũng cảm thán nhưng thiên về bất ngờ: 「立派とは」), thì 「ことか」 thuần túy cảm xúc, có thể tích cực lẫn tiêu cực. Lưu ý: đây là câu CẢM THÁN, không phải câu hỏi — đừng thêm dấu hỏi vào cuối.",
+    "extra_examples": [
+     {
+      "ja": "合格発表を見た瞬間の、嬉しかったことか！",
+      "reading": "ごうかくはっぴょうをみたしゅんかんの、うれしかったことか！",
+      "vi": "Khoảnh khắc nhìn thấy bảng đỗ mới vui sướng làm sao!"
+     },
+     {
+      "ja": "十年ぶりに故郷に帰ったときの、懐かしかったことか。",
+      "reading": "じゅうねんぶりにこきょうにかえったときの、なつかしかったことか。",
+      "vi": "Khi trở về quê sau mười năm mới bồi hồi biết bao."
      }
     ]
    },
@@ -12059,6 +13385,19 @@
       "reading": "いおういおうとおもって、いわずじまいだった。",
       "vi": "Định nói mãi mà cuối cùng chẳng nói."
      }
+    ],
+    "grammar_detail": "Diễn tả sự tiếc nuối: 'cuối cùng đã không…' — việc định làm mà rốt cuộc chẳng làm được. Cấu trúc: thân ない + ずじまいだ. Khác với 「〜ずに終わる」 (trung tính, chỉ sự kết thúc) thì 「ずじまい」 nhấn mạnh TIẾC NUỐI vì đã bỏ lỡ. Gần nghĩa 「〜ないまま終わる」 nhưng 「ずじまい」 văn viết, trang trọng hơn. Lỗi hay gặp: dùng cho kết quả tốt ('cuối cùng đã đỗ' không dùng ずじまい) — mẫu này chỉ dùng khi điều mong muốn KHÔNG xảy ra, để lại dư vị tiếc nuối.",
+    "extra_examples": [
+     {
+      "ja": "母に「ありがとう」と言わずじまいだったことが、今でも心残りだ。",
+      "reading": "ははに「ありがとう」といわずじまいだったことが、いまでもこころのこりだ。",
+      "vi": "Chuyện chưa kịp nói 'cảm ơn' với mẹ đến giờ vẫn khiến tôi day dứt."
+     },
+     {
+      "ja": "謝らずじまいで別れたきり、彼とはもう十年会っていない。",
+      "reading": "あやまらずじまいでわかれたきり、かれとはもうじゅうねんあっていない。",
+      "vi": "Chia tay mà chưa kịp xin lỗi, từ đó đến nay đã mười năm không gặp anh ấy."
+     }
     ]
    },
    "kanji": [
@@ -12176,6 +13515,19 @@
       "ja": "読むに堪えない文章だ。",
       "reading": "よむにたえないぶんしょうだ。",
       "vi": "Bài văn không đáng đọc."
+     }
+    ],
+    "grammar_detail": "Mẫu này có HAI nghĩa dễ gây nhầm lẫn: (1) 'không nỡ / không chịu nổi khi…' — quá đau lòng hoặc kinh khủng để chứng kiến (見るに堪えない = không nỡ nhìn); (2) 'không đáng để…' — chất lượng quá kém (読むに堪えない = không đáng đọc). Ngữ cảnh quyết định nghĩa! Cấu trúc: thân masu hoặc danh từ + に堪えない. Đồng nghĩa có 「〜に耐えない」 (cùng chữ Hán, cách đọc khác). Trong đề N1, bẫy thường nằm ở việc phải chọn đúng nghĩa theo ngữ cảnh — mẹo: chủ ngữ là cảnh tượng bi thảm → nghĩa (1); là bài văn/bài hát dở → nghĩa (2).",
+    "extra_examples": [
+     {
+      "ja": "彼の歌は音痴すぎて、聞くに堪えない。",
+      "reading": "かれのうたはおんちすぎて、きくにたえない。",
+      "vi": "Anh ta hát phô quá, không thể nghe nổi."
+     },
+     {
+      "ja": "その惨状は目を覆うばかりで、見るに堪えなかった。",
+      "reading": "そのさんじょうはめをおおうばかりで、みるにたえなかった。",
+      "vi": "Cảnh tượng thảm khốc đến mức phải che mắt, không nỡ nhìn."
      }
     ]
    },
@@ -12295,6 +13647,19 @@
       "reading": "しゅっぱつにあたって、ちゅういてんをせつめいする。",
       "vi": "Trước khi khởi hành, tôi giải thích các điểm lưu ý."
      }
+    ],
+    "grammar_detail": "Nghĩa 'nhân dịp, trước khi bắt đầu việc trọng đại' — dùng trong văn viết trang trọng như diễn văn, thông báo chính thức. Khác với 「〜に際して」 (vào dịp, thời điểm diễn ra sự việc — phạm vi rộng hơn) thì 「にあたって」 nhấn mạnh THỜI ĐIỂM TRƯỚC KHI BẮT ĐẦU. Cấu trúc: V thể từ điển hoặc danh từ + にあたって. Lỗi hay gặp: dùng cho việc vặt hàng ngày — 'nhân dịp đi siêu thị' nghe rất kệch cỡm; mẫu này dành cho khai trương, nhậm chức, khởi hành chuyến đi quan trọng.",
+    "extra_examples": [
+     {
+      "ja": "プロジェクト開始にあたって、抱負を述べさせていただきます。",
+      "reading": "プロジェクトかいしにあたって、ほうふをのべさせていただきます。",
+      "vi": "Nhân dịp khởi động dự án, cho phép tôi trình bày quyết tâm."
+     },
+     {
+      "ja": "新社長就任にあたり、一言ご挨拶申し上げます。",
+      "reading": "しんしゃちょうしゅうにんにあたり、ひとことごあいさつもうしあげます。",
+      "vi": "Nhân dịp nhậm chức giám đốc mới, xin có đôi lời chào."
+     }
     ]
    },
    "kanji": [
@@ -12412,6 +13777,19 @@
       "ja": "失敗をばねに、彼は大きく成長した。",
       "reading": "しっぱいを ばねに、かれは おおきく せいちょうした。",
       "vi": "Lấy thất bại làm bàn đạp, anh ấy đã trưởng thành vượt bậc."
+     }
+    ],
+    "grammar_detail": "「ばね」 nghĩa là lò xo → lấy N làm bàn đạp để bật xa hơn. Điểm đặc biệt: N có thể là điều TỐT (hợp tác, kinh nghiệm) lẫn điều XẤU (thất bại, vấp ngã) — quan trọng là biến nó thành động lực tích cực. Khác với 「〜をきっかけに」 (chỉ 'nhân cơ hội', trung tính, không nhấn mạnh nỗ lực) thì 「をばねに」 nhấn mạnh sự CHỦ ĐỘNG tận dụng hoàn cảnh. Vì thế không dùng cho kết quả tiêu cực — 'lấy thất bại làm bàn đạp để bỏ cuộc' là sai logic hoàn toàn.",
+    "extra_examples": [
+     {
+      "ja": "敗北をばねに、彼はさらに厳しい練習に励んだ。",
+      "reading": "はいぼくをばねに、かれはさらにきびしいれんしゅうにはげんだ。",
+      "vi": "Lấy thất bại làm bàn đạp, anh ấy càng miệt mài luyện tập khắc nghiệt hơn."
+     },
+     {
+      "ja": "留学経験をばねに、世界を舞台に活躍している。",
+      "reading": "りゅうがくけいけんをばねに、せかいをぶたいにかつやくしている。",
+      "vi": "Lấy kinh nghiệm du học làm bàn đạp, cô ấy đang tỏa sáng trên trường quốc tế."
      }
     ]
    },
@@ -12531,6 +13909,19 @@
       "reading": "まんしんが たたって、しあいに まけた。",
       "vi": "Tại tự mãn mà thua trận."
      }
+    ],
+    "grammar_detail": "Chỉ NGUYÊN NHÂN dẫn đến kết quả XẤU — 'tại N mà hỏng việc'. N thường là thói xấu hoặc thái độ: 油断 (chủ quan), 無理 (quá sức), 慢心 (tự mãn). Khác với 「〜が原因で」 (trung tính, nguyên nhân khách quan) và 「〜のせいで」 (đổ lỗi, khẩu ngữ) thì 「がたたって」 trang trọng, văn viết, hàm ý 'giá mà không có N thì đã khác'. Lỗi hay gặp: dùng cho kết quả tốt — 'nhờ nỗ lực mà đỗ đạt' không dùng がたたって; mẫu này CHỈ dùng khi kết quả tiêu cực.",
+    "extra_examples": [
+     {
+      "ja": "準備不足がたたって、大事な商談を逃してしまった。",
+      "reading": "じゅんびぶそくがたたって、だいじなしょうだんをのがしてしまった。",
+      "vi": "Tại chuẩn bị sơ sài mà để tuột mất thương vụ quan trọng."
+     },
+     {
+      "ja": "運動不足がたたって、階段を上るだけで息が切れる。",
+      "reading": "うんどうぶそくがたたって、かいだんをのぼるだけでいきがきれる。",
+      "vi": "Tại lười vận động mà leo cầu thang thôi cũng thở không ra hơi."
+     }
     ]
    },
    "kanji": [
@@ -12648,6 +14039,19 @@
       "ja": "彼をおいて適任者はいない。",
       "reading": "かれをおいててきにんしゃはいない。",
       "vi": "Ngoài anh ấy ra không có người nào phù hợp hơn."
+     }
+    ],
+    "grammar_detail": "Khẳng định đanh thép: 'ngoài N ra không còn ai/cái nào khác' — N là duy nhất, không thể thay thế. Sắc thái mạnh và trang trọng hơn hẳn 「〜以外に〜ない」 thông thường. Cấu trúc đầy đủ: N + をおいてほかに（は）いない; trong văn viết có thể lược thành 「〜をおいて〜ない」. Hay dùng để ca ngợi ai đó không thể thay thế, hoặc nhấn mạnh tính độc nhất vô nhị. Lưu ý: N phải là người hoặc vật cụ thể xứng đáng — đừng dùng cho thứ tầm thường, sẽ thành lố.",
+    "extra_examples": [
+     {
+      "ja": "この難曲を弾きこなせるのは、彼女をおいてほかにいない。",
+      "reading": "このなんきょくをひきこなせるのは、かのじょをおいてほかにいない。",
+      "vi": "Ngoài cô ấy ra không ai chơi nổi bản nhạc khó này."
+     },
+     {
+      "ja": "危機を救えるのは、彼をおいてほかにあるまい。",
+      "reading": "ききをすくえるのは、かれをおいてほかにあるまい。",
+      "vi": "Ngoài anh ấy ra chắc không còn ai cứu vãn được tình thế."
      }
     ]
    },
@@ -12767,6 +14171,19 @@
       "reading": "はげしい ぎろんの すえに、りょうしゃは わかいした。",
       "vi": "Sau cuộc tranh luận gay gắt, hai bên đã hòa giải."
      }
+    ],
+    "grammar_detail": "Diễn tả KẾT QUẢ sau một quá trình dài, nhiều gian nan: 'sau bao… cuối cùng…'. Cấu trúc: Vた hoặc Nの + 末に. Khác với 「〜あげく」 (thường mang kết quả thất vọng, ngoài dự tính) thì 「末に」 trung tính — kết quả có thể tốt (đỗ đạt sau bao nỗ lực) hay xấu tùy ngữ cảnh, trọng tâm là QUÁ TRÌNH DÀI. Lỗi hay gặp: nhầm với 「〜あげく」 trong đề thi — mẹo làm bài: thấy quá trình nỗ lực nghiêm túc → 末に; thấy kết quả chưng hửng, trớ trêu → あげく.",
+    "extra_examples": [
+     {
+      "ja": "半年間の猛勉強の末に、ついにN1に合格した。",
+      "reading": "はんねんかんのもうべんきょうのすえに、ついにN1にごうかくした。",
+      "vi": "Sau nửa năm học như điên, cuối cùng tôi cũng đỗ N1."
+     },
+     {
+      "ja": "長い沈黙の末に、彼はようやく口を開いた。",
+      "reading": "ながいちんもくのすえに、かれはようやくくちをひらいた。",
+      "vi": "Sau khoảng lặng dài, anh ấy cuối cùng cũng mở lời."
+     }
     ]
    },
    "kanji": [
@@ -12884,6 +14301,19 @@
       "ja": "激しい議論のあげく、新しい計画が動き出した。",
       "reading": "はげしい ぎろんのあげく、あたらしい けいかくが うごきだした。",
       "vi": "Sau cuộc tranh luận gay gắt, kế hoạch mới bắt đầu khởi động."
+     }
+    ],
+    "grammar_detail": "Cũng là 'sau nhiều… cuối cùng…' nhưng sắc thái ĐẶC BIỆT: kết quả thường gây thất vọng, trớ trêu hoặc ngoài dự tính — như đi xem đủ trường rồi 'rốt cuộc' lại chọn ngay trường gần nhà nhất. Cấu trúc: Vた hoặc Nの + あげく（に）. So với 「〜末に」 (trung tính, tôn vinh quá trình) thì 「あげく」 nhấn mạnh sự CHƯNG HỬNG. Trong đề N1 đây là bẫy kinh điển: quá trình nghiêm túc + kết quả tốt → 末に; quá trình lòng vòng + kết quả 'cười ra nước mắt' → あげく. Tuyệt đối không dùng あげく cho thành quả đáng tự hào.",
+    "extra_examples": [
+     {
+      "ja": "さんざん迷ったあげく、結局最初の案に戻った。",
+      "reading": "さんざんまよったあげく、けっきょくさいしょのあんにもどった。",
+      "vi": "Đắn đo mãi rốt cuộc lại quay về phương án đầu tiên."
+     },
+     {
+      "ja": "大げんかのあげくに、絶交してしまった。",
+      "reading": "おおげんかのあげくに、ぜっこうしてしまった。",
+      "vi": "Sau trận cãi nhau to, cuối cùng hai người từ mặt nhau luôn."
      }
     ]
    },
@@ -13003,6 +14433,19 @@
       "reading": "じょうしだからといって、なんでもゆるされるわけではない。",
       "vi": "Là cấp trên không có nghĩa là được tha thứ mọi thứ."
      }
+    ],
+    "grammar_detail": "Dùng để BÁC BỎ một suy luận đơn giản: 'chỉ vì… không có nghĩa là…'. Vế sau luôn phủ định hoặc giới hạn (わけではない / とは限らない). Khác với 「〜からには」 (một khi đã… thì phải — khẳng định trách nhiệm) thì 「からといって」 chuyên để PHẢN BIỆN. Dạng khẩu ngữ là 「〜からって」. Lỗi hay gặp: dùng để khẳng định ('vì trẻ nên khỏe' không dùng からといって) — mẫu này sinh ra để nói 'ĐỪNG vội kết luận', luôn đi kèm sự phủ định ở vế sau.",
+    "extra_examples": [
+     {
+      "ja": "有名だからといって、人格者とは限らない。",
+      "reading": "ゆうめいだからといって、じんかくしゃとはかぎらない。",
+      "vi": "Nổi tiếng không có nghĩa là người có nhân cách."
+     },
+     {
+      "ja": "お金があるからといって、幸せとは限らない。",
+      "reading": "おかねがあるからといって、しあわせとはかぎらない。",
+      "vi": "Có tiền không có nghĩa là hạnh phúc."
+     }
     ]
    },
    "kanji": [
@@ -13120,6 +14563,19 @@
       "ja": "忘れるものか、この恩は。",
       "reading": "わすれるものか、このおんは。",
       "vi": "Ơn này đời nào tôi quên."
+     }
+    ],
+    "grammar_detail": "Phủ định cảm xúc cực mạnh: 'đời nào…! làm gì có chuyện…!'. Cấu trúc: thể thường + ものか (văn viết, hơi trang trọng), もんか (khẩu ngữ). Khác với 「〜わけがない」 (phủ định bằng lý trí: 'không thể nào vì…') thì 「ものか」 là phủ định bằng CẢM XÚC — tức giận, khinh bỉ, thề thốt. Hay đi với thì quá khứ hoặc hiện tại. Trong hội thoại, もんか rất tự nhiên: 「行くもんか」 (đời nào tôi đi). Đừng dùng trong văn bản trang trọng — hãy dùng ものか.",
+    "extra_examples": [
+     {
+      "ja": "あんな奴に頭を下げるものか。",
+      "reading": "あんなやつにあたまをさげるものか。",
+      "vi": "Đời nào tôi cúi đầu trước loại người đó."
+     },
+     {
+      "ja": "負けるものか、最後まで戦い抜く。",
+      "reading": "まけるものか、さいごまでたたかいぬく。",
+      "vi": "Đời nào chịu thua, tôi sẽ chiến đấu đến cùng."
      }
     ]
    },
@@ -13239,6 +14695,19 @@
       "reading": "こんなんを いとわず いどむ すがたこそ、ほんとうの ゆうきだ。",
       "vi": "Dáng vẻ dám đương đầu không nề khó khăn mới là dũng khí thật sự."
      }
+    ],
+    "grammar_detail": "「厭う」(いとう) nghĩa là 'ngại, e dè' → 「〜を厭わず」 = 'không nề hà, bất chấp N (nguy hiểm, khó khăn, chỉ trích)'. Văn viết trang trọng, thường dùng để ca ngợi dũng khí hoặc quyết tâm. Gần nghĩa 「〜を顧みず」 (không ngoảnh lại, bất chấp) nhưng 「厭わず」 nhấn mạnh KHÔNG NGẠI KHÓ. Lỗi hay gặp: đọc sai thành 「きらわず」 — chữ 厭 trong mẫu này đọc là イトウ. N thường là 危険・困難・非難. Đừng dùng cho việc vặt ('không ngại rửa bát' nghe quá trang trọng, lố).",
+    "extra_examples": [
+     {
+      "ja": "彼は非難を厭わず、改革を断行した。",
+      "reading": "かれはひなんをいとわず、かいかくをだんこうした。",
+      "vi": "Bất chấp chỉ trích, ông ấy đã quyết đoán thực hiện cải cách."
+     },
+     {
+      "ja": "消防士は危険を厭わず、火の中に飛び込んだ。",
+      "reading": "しょうぼうしはきけんをいとわず、ひのなかにとびこんだ。",
+      "vi": "Người lính cứu hỏa bất chấp hiểm nguy, lao vào biển lửa."
+     }
     ]
    },
    "kanji": [
@@ -13356,6 +14825,19 @@
       "ja": "真実を究めんがために研究を続ける。",
       "reading": "しんじつをきわめんがためにけんきゅうをつづける。",
       "vi": "Tiếp tục nghiên cứu để tìm ra chân lý."
+     }
+    ],
+    "grammar_detail": "Chỉ MỤC ĐÍCH cao đẹp trong văn viết cổ điển: 'để…'. Cấu trúc: thân ない + んがため(に) — như 「養わんがため」 (để nuôi nấng). Sắc thái trang trọng, thường xuất hiện trong diễn văn, văn bia, tiểu thuyết lịch sử. Khác với 「〜ために」 (trung tính, dùng mọi lúc) thì 「んがため」 gần như không bao giờ xuất hiện trong hội thoại thường ngày. Mẹo nhớ: thấy 「んがため」 là thấy không khí 'thời xưa oanh liệt'. Đừng dùng để nói mục đích vặt vãnh ('để mua rau' tuyệt đối không).",
+    "extra_examples": [
+     {
+      "ja": "国を守らんがために戦った先人たちに感謝する。",
+      "reading": "くにをまもらんがためにたたかったせんじんたちにかんしゃする。",
+      "vi": "Biết ơn các bậc tiền nhân đã chiến đấu để bảo vệ đất nước."
+     },
+     {
+      "ja": "技術を磨かんがため、毎日修行を続けている。",
+      "reading": "ぎじゅつをみがかんがため、まいにちしゅぎょうをつづけている。",
+      "vi": "Ngày ngày khổ luyện để mài giũa tay nghề."
      }
     ]
    },
@@ -13475,6 +14957,19 @@
       "reading": "さいげつを かさねるごとに、しょくにんの わざは みがかれていく。",
       "vi": "Năm tháng càng chồng chất, tay nghề người thợ càng được mài giũa."
      }
+    ],
+    "grammar_detail": "「重ねる」 (chồng lên) → tích lũy dần theo thời gian: nỗ lực, kinh nghiệm, năm tháng. Nhấn mạnh SỰ KIÊN TRÌ lặp đi lặp lại. Gần nghĩa 「〜を積み重ねる」 (chất chồng, nhấn mạnh khối lượng) — hai mẫu gần như thay thế được cho nhau, nhưng 「積み重ねる」 mạnh hơn về hình ảnh 'xây thành đống'. Lỗi hay gặp: dùng với sự việc đơn lẻ một lần ('trải qua một kỳ thi' không dùng 重ねる) — mẫu này đòi hỏi tính LẶP LẠI và TÍCH LŨY theo thời gian.",
+    "extra_examples": [
+     {
+      "ja": "失敗を重ねて得た教訓は、何よりの財産だ。",
+      "reading": "しっぱいをかさねてえたきょうくんは、なによりのざいさんだ。",
+      "vi": "Bài học rút ra sau bao thất bại chồng chất là tài sản quý giá nhất."
+     },
+     {
+      "ja": "対話を重ねて、両国の信頼を築いていった。",
+      "reading": "たいわをかさねて、りょうこくのしんらいをきずいていった。",
+      "vi": "Qua bao lần đối thoại, hai nước đã dần xây dựng lòng tin."
+     }
     ]
    },
    "kanji": [
@@ -13592,6 +15087,19 @@
       "ja": "断ることなしに引き受けた。",
       "reading": "ことわることなしにひきうけた。",
       "vi": "Nhận lời mà không từ chối."
+     }
+    ],
+    "grammar_detail": "Nghĩa 'mà không…' trong văn viết trang trọng. Cấu trúc: V thể từ điển + ことなしに. So với 「〜ずに」 (trung tính, văn viết vừa phải) và 「〜ないで」 (khẩu ngữ) thì 「ことなしに」 là trang trọng nhất, hay gặp trong văn bản, diễn văn. Sắc thái hơi cổ điển, dứt khoát. Trong đề N1 thường xuất hiện ở dạng hành động quyết đoán 'không chần chừ'. Đừng dùng trong tán gẫu hàng ngày — sẽ nghe như đang đọc chiếu chỉ.",
+    "extra_examples": [
+     {
+      "ja": "一言も発することなしに、彼は部屋を出た。",
+      "reading": "ひとこともはっすることなしに、かれはへやをでた。",
+      "vi": "Không thốt một lời, anh ta bước ra khỏi phòng."
+     },
+     {
+      "ja": "ためらうことなしに、冷たい川に飛び込んだ。",
+      "reading": "ためらうことなしに、つめたいかわにとびこんだ。",
+      "vi": "Không chút do dự, cậu ấy nhảy xuống dòng sông lạnh."
      }
     ]
    },
@@ -13711,6 +15219,19 @@
       "reading": "かみさまではあるまいし、かんぺきにはできない。",
       "vi": "Đâu phải thần thánh mà làm gì cũng hoàn hảo được."
      }
+    ],
+    "grammar_detail": "Câu phản bác nhẹ nhàng mà đanh thép: 'đâu phải là N đâu (mà phải…)'. Dùng để từ chối một đòi hỏi vô lý bằng cách nhắc nhở 'tôi đâu phải X'. Cấu trúc: DANH TỪ + ではあるまいし. Khác với 「〜わけではない」 (phủ định trung tính) thì 「ではあるまいし」 mang giọng điệu 'thôi nào, vô lý quá' — hơi suồng sã, dùng với người thân, bạn bè hoặc trong độc thoại nội tâm. Không dùng với cấp trên trong văn bản trang trọng.",
+    "extra_examples": [
+     {
+      "ja": "プロではあるまいし、ミスくらいするさ。",
+      "reading": "プロではあるまいし、ミスくらいするさ。",
+      "vi": "Đâu phải dân chuyên nghiệp đâu mà không được phép sai."
+     },
+     {
+      "ja": "機械ではあるまいし、たまには休みも必要だ。",
+      "reading": "きかいではあるまいし、たまにはやすみもひつようだ。",
+      "vi": "Đâu phải máy móc đâu, thỉnh thoảng cũng cần nghỉ chứ."
+     }
     ]
    },
    "kanji": [
@@ -13828,6 +15349,19 @@
       "ja": "正義の名のもとに戦うことを、彼は心に誓った。",
       "reading": "せいぎの なのもとに たたかうことを、かれは こころに ちかった。",
       "vi": "Anh thề trong lòng sẽ chiến đấu nhân danh chính nghĩa."
+     }
+    ],
+    "grammar_detail": "Nghĩa đen 'dưới danh nghĩa của N' → nhân danh một lý tưởng hoặc uy quyền để hành động: thần linh, tự do, chính nghĩa. Văn viết trang trọng, thường xuất hiện trong lịch sử, chính trị, tôn giáo. Khác với 「〜の名において」 (cũng 'nhân danh', dùng trong nghi lễ và tuyên bố chính thức) thì hai mẫu gần như tương đương, 「のもとに」 phổ biến hơn. Lưu ý sắc thái hai mặt: có thể cao đẹp (nhân danh hòa bình) hoặc bị lợi dụng (nhân danh thần linh để gây chiến) — đề N1 hay khai thác chính điểm này.",
+    "extra_examples": [
+     {
+      "ja": "愛の名のもとに相手を束縛するのは、愛ではない。",
+      "reading": "あいのなのもとにあいてをそくばくするのは、あいではない。",
+      "vi": "Nhân danh tình yêu mà trói buộc đối phương thì đó không phải tình yêu."
+     },
+     {
+      "ja": "平和の名のもとに行われる式典に参列した。",
+      "reading": "へいわのなのもとにおこなわれるしきてんにさんれつした。",
+      "vi": "Tôi đã tham dự buổi lễ được tổ chức nhân danh hòa bình."
      }
     ]
    },
@@ -13947,6 +15481,19 @@
       "reading": "これをもってかいぎをおわります。",
       "vi": "Xin kết thúc cuộc họp tại đây."
      }
+    ],
+    "grammar_detail": "Mẫu đa năng với HAI nghĩa dễ nhầm: (1) PHƯƠNG TIỆN — 'bằng N' (書面をもって = bằng văn bản), trang trọng hơn 「〜で」 thông thường; (2) THỜI ĐIỂM — 'kể từ N' (本日をもって = kể từ hôm nay), dùng khi kết thúc hoặc chốt một việc gì. Ngữ cảnh quyết định nghĩa: 「これをもって会議を終わります」 (kết thúc TẠI ĐÂY = nghĩa 2). Lỗi hay gặp: dùng nghĩa 2 cho sự việc tiếp diễn — 'từ hôm nay sẽ cố gắng' nên nói 「今日から」, không nói 「本日をもって頑張ります」 (nghe như sắp nghỉ việc).",
+    "extra_examples": [
+     {
+      "ja": "電話をもってご予約を承ります。",
+      "reading": "でんわをもってごよやくをうけたまわります。",
+      "vi": "Chúng tôi nhận đặt chỗ qua điện thoại."
+     },
+     {
+      "ja": "今月をもって退職いたします。長い間お世話になりました。",
+      "reading": "こんげつをもってたいしょくいたします。ながい間おせわになりました。",
+      "vi": "Tôi xin nghỉ việc kể từ tháng này. Cảm ơn mọi người đã giúp đỡ suốt thời gian qua."
+     }
     ]
    },
    "kanji": [
@@ -14065,6 +15612,19 @@
       "reading": "はっぴょうにさきだって、しりょうをはいふした。",
       "vi": "Trước buổi thuyết trình, tôi đã phát tài liệu."
      }
+    ],
+    "grammar_detail": "Nghĩa 'trước khi N diễn ra' — dùng trong văn viết trang trọng như lễ nghi, sự kiện chính thức. Cấu trúc: DANH TỪ + に先立って. Khác với 「〜の前に」 (trước khi, dùng mọi lúc mọi nơi) thì 「に先立って」 chỉ dành cho sự kiện quan trọng: khai mạc, bầu cử, khởi hành đoàn. Gần nghĩa 「〜に先立ち」 (dạng rút gọn, cũng trang trọng). Lỗi hay gặp: dùng cho việc cá nhân hàng ngày — 'trước khi ăn cơm' đừng nói 「食事に先立って」, trừ khi đang phát biểu tại quốc yến.",
+    "extra_examples": [
+     {
+      "ja": "式典に先立って、最終リハーサルが行われた。",
+      "reading": "しきてんにさきだって、さいしゅうリハーサルがおこなわれた。",
+      "vi": "Trước buổi lễ, buổi tổng duyệt cuối cùng đã được tiến hành."
+     },
+     {
+      "ja": "選挙に先立って、世論調査の結果が発表された。",
+      "reading": "せんきょにさきだって、よろんちょうさのけっかがはっぴょうされた。",
+      "vi": "Trước thềm bầu cử, kết quả thăm dò dư luận đã được công bố."
+     }
     ]
    },
    "kanji": [
@@ -14182,6 +15742,19 @@
       "reading": "じゅうじつした いちにちは あさの あいさつに はじまり、よるの ふりかえりに おわる。",
       "vi": "Một ngày trọn vẹn bắt đầu bằng lời chào buổi sáng và kết thúc bằng phút nhìn lại buổi tối."
      }
+    ],
+    "grammar_detail": "Mẫu này dùng để tóm tắt trọn vòng đời của một sự việc, nhấn mạnh điểm mở đầu và điểm kết thúc mang ý nghĩa tượng trưng. Sắc thái trang trọng, thường xuất hiện trong diễn văn, bài phát biểu và văn viết. Khác với 〜から〜まで (chỉ nêu khoảng thời gian đơn thuần), mẫu này gợi cảm xúc về một hành trình trọn vẹn. Lỗi người học hay mắc: dùng cho sự việc đời thường vụn vặt như bữa ăn, giấc ngủ — sẽ nghe rất kỳ, vì mẫu này chỉ dành cho những khởi đầu và kết thúc đáng được khắc ghi.",
+    "extra_examples": [
+     {
+      "ja": "私の留学はホームシックに始まり、かけがえのない友情に終わった。",
+      "reading": "わたしのりゅうがくは ホームシックにはじまり、かけがえのないゆうじょうにおわった。",
+      "vi": "Du học của tôi bắt đầu bằng nỗi nhớ nhà và khép lại bằng tình bạn không gì thay thế được."
+     },
+     {
+      "ja": "祭りは太鼓の音に始まり、花火の光に終わった。",
+      "reading": "まつりは たいこのおとにはじまり、はなびのひかりにおわった。",
+      "vi": "Lễ hội mở màn bằng tiếng trống và khép lại trong ánh pháo hoa rực rỡ."
+     }
     ]
    },
    "kanji": [
@@ -14297,6 +15870,19 @@
       "ja": "晴れの舞台を前にして、誰もが胸を高鳴らせた。",
       "reading": "はれの ぶたいを まえにして、だれもが むねを たかならせた。",
       "vi": "Đứng trước sân khấu trọng đại, ai cũng thấy tim đập rộn ràng."
+     }
+    ],
+    "grammar_detail": "Mẫu diễn tả tâm trạng và hành động của con người khi đứng trước một sự kiện quan trọng sắp diễn ra. Đi với danh từ chỉ sự kiện như 本番 (buổi diễn chính), 結婚式, 試験, nhấn mạnh thời điểm ngay trước đó. So với 〜を控えて (nhấn mạnh giai đoạn chuẩn bị tất bật), 〜を前にして nhấn mạnh cảm xúc và trạng thái tâm lý khi đối mặt hơn. Lỗi hay gặp: dùng cho sự việc đã xảy ra rồi — mẫu này chỉ dùng cho việc sắp tới, tuyệt đối không dùng cho quá khứ.",
+    "extra_examples": [
+     {
+      "ja": "運命の一戦を前にして、選手たちは黙々とウォーミングアップを続けた。",
+      "reading": "うんめいのいっせんをまえにして、せんしゅたちはもくもくとウォーミングアップをつづけた。",
+      "vi": "Đứng trước trận đấu định mệnh, các tuyển thủ lặng lẽ tiếp tục khởi động."
+     },
+     {
+      "ja": "新居への引っ越しを前にして、母は少し寂しそうに部屋を見回した。",
+      "reading": "しんきょへのひっこしをまえにして、はははすこしさびしそうにへやをみまわした。",
+      "vi": "Trước ngày chuyển đến nhà mới, mẹ thoáng buồn nhìn quanh căn phòng cũ."
      }
     ]
    },
@@ -14416,6 +16002,19 @@
       "reading": "だいじな しけんを ひかえて、かれは まいにち つくえに むかっている。",
       "vi": "Trước kỳ thi quan trọng, ngày nào cậu ấy cũng ngồi vào bàn học."
      }
+    ],
+    "grammar_detail": "Cũng nói về khoảng thời gian trước một sự kiện, nhưng 〜を控えて nhấn mạnh giai đoạn chuẩn bị, sự tất bật hướng tới sự kiện đã được định sẵn. Vế sau thường là động từ chỉ chuẩn bị, bận rộn. Khác 〜を前にして ở chỗ: 前にして nói về cảm xúc khi đối mặt, còn 控えて nói về hành động chuẩn bị. Lỗi hay gặp: nhầm với động từ 控える (kiềm chế) — đây là用法 hoàn toàn khác, nghĩa là sắp diễn ra một sự kiện.",
+    "extra_examples": [
+     {
+      "ja": "海外赴任を控えて、彼は英会話の猛特訓を始めた。",
+      "reading": "かいがいふにんをひかえて、かれはえいかいのもうとっくんをはじめた。",
+      "vi": "Trước thềm chuyến công tác nước ngoài, anh ấy bắt đầu luyện hội thoại tiếng Anh cường độ cao."
+     },
+     {
+      "ja": "デビュー戦を控えて、新人歌手はリハーサルに明け暮れている。",
+      "reading": "デビューせんをひかえて、しんじんかしゅはリハーサルにあけくれている。",
+      "vi": "Trước trận ra mắt, nữ ca sĩ tân binh vùi đầu vào tập dượt suốt ngày đêm."
+     }
     ]
    },
    "kanji": [
@@ -14534,6 +16133,19 @@
       "reading": "かるい かぜがもとで、かれは ながく ねこむことに なった。",
       "vi": "Từ cơn cảm nhẹ ban đầu mà anh ấy phải nằm liệt giường lâu ngày."
      }
+    ],
+    "grammar_detail": "Mẫu chỉ nguyên nhân sâu xa dẫn đến một kết quả, và kết quả đó hầu như luôn tiêu cực: rạn nứt, thất bại, bệnh tật, bi kịch. Sắc thái văn viết, hơi cổ điển. So với 〜が原因で (trung tính, dùng được cho cả kết quả tốt lẫn xấu), 〜がもとで mang màu sắc của nguồn cơn bi kịch. Lỗi người học hay mắc: dùng cho kết quả tốt đẹp, ví dụ 努力がもとで成功した — nghe rất sai, hãy nhớ mẫu này gần như độc quyền cho chuyện buồn.",
+    "extra_examples": [
+     {
+      "ja": "ちょっとした口げんかがもとで、長年のパートナーシップが解消された。",
+      "reading": "ちょっとしたくちげんかがもとで、ながねんのパートナーシップがかいしょうされた。",
+      "vi": "Chỉ vì một cuộc cãi vã nhỏ mà mối quan hệ đối tác nhiều năm tan vỡ."
+     },
+     {
+      "ja": "深夜の暴飲暴食がもとで、彼は入院するはめになった。",
+      "reading": "しんやのぼういんぼうしょくがもとで、かれはにゅういんするはめになった。",
+      "vi": "Vì ăn uống vô độ lúc nửa đêm mà anh ta phải nhập viện."
+     }
     ]
    },
    "kanji": [
@@ -14650,6 +16262,19 @@
       "ja": "交渉にかけては、右に出る者がいない。",
       "reading": "こうしょうにかけては、みぎにでるものはいない。",
       "vi": "Về đàm phán, không ai hơn được anh ấy."
+     }
+    ],
+    "grammar_detail": "Dùng để tuyên bố về khoản này thì mình là số một, sắc thái tự hào và tự tin tuyệt đối. Chủ ngữ thường là người nói hoặc người được khen ngợi. Khác 〜に関しては (trung tính, chỉ nêu chủ đề bàn luận), 〜にかけては luôn hàm ý giỏi giang, không ai bằng. Lỗi hay gặp: dùng cho điểm yếu một cách nghiêm túc, ví dụ 遅刻にかけては — trừ khi cố tình nói đùa tự trào, còn không sẽ nghe rất kỳ cục.",
+    "extra_examples": [
+     {
+      "ja": "早起きにかけては、家族の中で父の右に出る者はいない。",
+      "reading": "はやおきにかけては、かぞくのなかでちちのみぎにでるものはいない。",
+      "vi": "Về khoản dậy sớm thì trong nhà không ai qua được bố."
+     },
+     {
+      "ja": "方向音痴にかけては、彼女は天下一品だ。",
+      "reading": "ほうこうおんちにかけては、かのじょはてんかいちっぴんだ。",
+      "vi": "Về khoản mù đường thì cô ấy đúng là vô địch thiên hạ."
      }
     ]
    },
@@ -14769,6 +16394,19 @@
       "reading": "かのじょにかぎって、やくそくをやぶることはないだろう。",
       "vi": "Riêng cô ấy thì chắc không thất hứa đâu."
      }
+    ],
+    "grammar_detail": "Nhấn mạnh đúng cái đó, đúng người đó thì lại xảy ra chuyện trái khoáy, thường là chuyện xui xẻo: trời mưa đúng hôm đi chơi, người cẩn thận nhất lại quên đồ. Sắc thái than thở, bất mãn nhẹ với số phận. Khác 〜に限る (giới hạn phạm vi một cách trung tính), 〜に限って luôn có vị đắng của sự trớ trêu. Lỗi hay gặp: dùng cho chuyện tốt lành để khen ngợi, ví dụ 合格者に限って — sẽ bị hiểu lầm là mỉa mai.",
+    "extra_examples": [
+     {
+      "ja": "楽しみにしていた遠足の日に限って、台風が直撃した。",
+      "reading": "たのしみにしていたえんそくのひにかぎって、たいふうがちょくげきした。",
+      "vi": "Đúng hôm đi dã ngoại mong chờ bao lâu thì bão đổ bộ thẳng."
+     },
+     {
+      "ja": "時間に正確な彼に限って、今日に限って大遅刻した。",
+      "reading": "じかんにせいかくなかれにかぎって、きょうにかぎってだいちこくした。",
+      "vi": "Người đúng giờ như anh ấy mà hôm nay lại trễ trầm trọng."
+     }
     ]
    },
    "kanji": [
@@ -14885,6 +16523,19 @@
       "ja": "今年を限りに、現役を引退することにした。",
       "reading": "ことしをかぎりに、げんえきをいんたいすることにした。",
       "vi": "Tính đến hết năm nay, tôi quyết định giải nghệ."
+     }
+    ],
+    "grammar_detail": "Tuyên bố chấm dứt dứt khoát một việc đã kéo dài: nghỉ việc, giải nghệ, bỏ thuốc lá. Sắc thái quyết tâm, trang trọng, thường dùng trong thông báo chính thức. Khác 〜を最後に (có thể chỉ là lần cuối cùng một cách ngẫu nhiên), 〜を限りに nhấn mạnh ý chí từ nay không bao giờ lặp lại nữa. Lỗi người học hay mắc: dùng cho việc sẽ còn tiếp tục, ví dụ 明日からも続けるを限りに — mâu thuẫn logic hoàn toàn.",
+    "extra_examples": [
+     {
+      "ja": "本日を限りに、三十年続けたタバコときっぱり縁を切る。",
+      "reading": "ほんじつをかぎりに、さんじゅうねんつづけたタバコときっぱりえんをきる。",
+      "vi": "Kể từ hôm nay, tôi đoạn tuyệt hẳn với thuốc lá đã hút suốt 30 năm."
+     },
+     {
+      "ja": "今期を限りに、長年務めた会長の座を退くことにした。",
+      "reading": "こんきをかぎりに、ながねんつとめたかいちょうのざをしりぞくことにした。",
+      "vi": "Hết nhiệm kỳ này, tôi sẽ rời chiếc ghế chủ tịch đã đảm nhiệm nhiều năm."
      }
     ]
    },
@@ -15003,6 +16654,19 @@
       "reading": "こころから ねがってこそ、ほんとうの しあわせは おとずれる。",
       "vi": "Chỉ khi thành tâm cầu nguyện, hạnh phúc thật sự mới ghé thăm."
      }
+    ],
+    "grammar_detail": "Nhấn mạnh điều kiện tiên quyết không thể thiếu: chính vì có A nên mới có B. Sắc thái hùng hồn, triết lý, hay dùng trong diễn thuyết và châm ngôn sống. Khác 〜てはじめて (nhấn mạnh trình tự thời gian, phải sau khi làm A mới được B), 〜てこそ nhấn mạnh giá trị và ý nghĩa không thể thay thế của điều kiện đó. Lỗi hay gặp: dùng cho điều kiện tầm thường, ví dụ ご飯を食べてこそ元気 — nghe quá to tát cho chuyện ăn cơm.",
+    "extra_examples": [
+     {
+      "ja": "苦労してこそ、成功の喜びはひとしおだ。",
+      "reading": "くろうしてこそ、せいこうのよろこびはひとしおだ。",
+      "vi": "Chính vì đã nếm trải gian khổ, niềm vui thành công mới càng ngọt ngào."
+     },
+     {
+      "ja": "実際に現場に足を運んでこそ、本当の課題が見えてくる。",
+      "reading": "じっさいにげんばにあしをはこんでこそ、ほんとうのかだいがみえてくる。",
+      "vi": "Chỉ khi trực tiếp đến tận hiện trường, ta mới nhìn ra vấn đề thực sự."
+     }
     ]
    },
    "kanji": [
@@ -15119,6 +16783,19 @@
       "ja": "わざわざ説明するに及ばないほど、結果は明らかだ。",
       "reading": "わざわざ せつめいするに およばないほど、けっかは あきらかだ。",
       "vi": "Kết quả đã rõ ràng đến mức chẳng cần phải giải thích thêm."
+     }
+    ],
+    "grammar_detail": "Mẫu có hai nghĩa cần phân biệt rõ: một là Nに及ばない nghĩa là không sánh bằng, không với tới (彼の努力には及ばない); hai là Vるに及ばない nghĩa là không cần thiết phải làm đến mức đó (言うに及ばない tức khỏi cần nói). Nghĩa thứ hai mang sắc thái việc đó đã quá rõ ràng hoặc không đáng để làm. Lỗi hay gặp: nhầm với động từ 及ぶ (vươn tới) — 及ばない chính là dạng phủ định của nó, nghĩa đen là không với tới được.",
+    "extra_examples": [
+     {
+      "ja": "彼女の記憶力には、誰も及ばない。",
+      "reading": "かのじょのきおくりょくには、だれもおよばない。",
+      "vi": "Về trí nhớ thì không ai sánh bằng cô ấy."
+     },
+     {
+      "ja": "結果は見るに及ばない。努力した過程こそが財産だ。",
+      "reading": "けっかはみるにおよばない。どりょくしたかていこそがざいさんだ。",
+      "vi": "Khỏi cần xem kết quả. Chính quá trình đã nỗ lực mới là tài sản quý giá."
      }
     ]
    },
@@ -15238,6 +16915,19 @@
       "reading": "いくと決めたら、あとはじっこうするまでだ。",
       "vi": "Đã quyết đi thì chỉ còn thực hiện thôi."
      }
+    ],
+    "grammar_detail": "Diễn tả một quyết định đơn giản, không đắn đo thêm nữa: làm thế là xong, chấm hết. Thường đi với だけだ và động từ thể hiện ý chí. Sắc thái gọn gàng, dứt khoát, đôi khi hơi bất cần. Khác 〜だけだ (thuần túy giới hạn phạm vi), 〜までだ thêm vị chốt hạ, không bàn cãi thêm. Lỗi người học hay mắc: dùng trong văn cảnh cần lịch sự, trang trọng — mẫu này hơi suồng sã, chỉ hợp với lời thoại đời thường hoặc độc thoại nội tâm.",
+    "extra_examples": [
+     {
+      "ja": "迷っている暇はない。やるだけやって、だめなら諦めるまでだ。",
+      "reading": "まよっているひまはない。やるだけやって、だめならあきらめるまでだ。",
+      "vi": "Không có thời gian phân vân. Cứ làm hết sức, không được thì bỏ — chỉ thế thôi."
+     },
+     {
+      "ja": "謝るまでだ。プライドなんか捨ててしまえ。",
+      "reading": "あやまるまでだ。プライドなんかすててしまえ。",
+      "vi": "Thì xin lỗi là xong. Vứt quách cái tôi hão đi."
+     }
     ]
    },
    "kanji": [
@@ -15354,6 +17044,19 @@
       "ja": "優勝したときの喜びといったらなかった。",
       "reading": "ゆうしょうしたときの よろこびといったらなかった。",
       "vi": "Niềm vui lúc vô địch thì không thể diễn tả nổi."
+     }
+    ],
+    "grammar_detail": "Diễn tả mức độ tột cùng, thường là cảm xúc mãnh liệt như vui sướng, đau buồn, giận dữ hoặc vẻ đẹp choáng ngợp. Cấu trúc: danh từ hoặc tính từ な + といったらない. Sắc thái văn viết, cường điệu một cách đẹp đẽ và trang trọng. Gần nghĩa với 〜この上ない, nhưng といったらない nhấn mạnh không lời nào có thể diễn tả hết. Lỗi hay gặp: dùng cho mức độ bình thường, ví dụ ちょっとおいしいといったらない — quá lố và gây buồn cười.",
+    "extra_examples": [
+     {
+      "ja": "十年ぶりに再会した恩師の笑顔の懐かしいことといったらなかった。",
+      "reading": "じゅうねんぶりにさいかいしたおんしのえがおのなつかしいことといったらなかった。",
+      "vi": "Nụ cười của thầy giáo cũ sau mười năm gặp lại mới thân thương làm sao, không lời nào tả xiết."
+     },
+     {
+      "ja": "試験前日に参考書をなくした時の絶望感といったらなかった。",
+      "reading": "しけんぜんじつにさんこうしょをなくしたときのぜつぼうかんといったらなかった。",
+      "vi": "Cảm giác tuyệt vọng khi làm mất sách tham khảo ngay trước hôm thi thì không gì diễn tả nổi."
      }
     ]
    },
@@ -15472,6 +17175,19 @@
       "reading": "かいしゃ の けんしゅう に びんじょう して、とうきょう けんぶつ を たのしんだ。",
       "vi": "Lợi dụng dịp tập huấn của công ty, tôi tranh thủ đi tham quan Tokyo."
      }
+    ],
+    "grammar_detail": "Lợi dụng một dịp hoặc sự kiện sẵn có để làm việc riêng của mình, sắc thái hơi cơ hội, không trong sáng. Khác 〜を機に (trung tính và trang trọng, nghĩa là nhân dịp tốt), 〜に便乗して luôn phảng phất mùi đi ké, ăn theo. Khác 〜にかこつけて (lấy cớ, bịa ra lý do), 便乗 giống như thấy xe đang chạy thì nhảy lên đi nhờ. Lỗi người học hay mắc: dùng trong văn bản trang trọng để nói về kế hoạch chính đáng — sẽ bị hiểu lầm là đang lợi dụng tình thế.",
+    "extra_examples": [
+     {
+      "ja": "人気ドラマに便乗して、粗悪な関連グッズが次々と発売された。",
+      "reading": "にんきドラマにびんじょうして、そあくなかんれんグッズがつぎつぎとはつばいされた。",
+      "vi": "Ăn theo bộ phim đang hot, hàng loạt đồ ăn theo kém chất lượng ồ ạt ra mắt."
+     },
+     {
+      "ja": "選挙カーの騒ぎに便乗して、デモ隊が都心に繰り出した。",
+      "reading": "せんきょカーのさわぎにびんじょうして、デモたいがとしんにくりだした。",
+      "vi": "Nhân lúc ồn ào xe vận động tranh cử, đoàn biểu tình kéo ra trung tâm thành phố."
+     }
     ]
    },
    "kanji": [
@@ -15588,6 +17304,19 @@
       "reading": "びょうき を こうじつ に、いや な かいぎ を けっせき した。",
       "vi": "Lấy cớ bị bệnh, tôi đã nghỉ buổi họp khó chịu."
      }
+    ],
+    "grammar_detail": "Dùng một việc làm bình phong để thực hiện mục đích khác, thường là mục đích không muốn công khai, sắc thái phê phán rõ rệt. Khác 〜にかこつけて (cũng là lấy cớ nhưng nhấn mạnh việc viện ra lý do), 口実に nhấn mạnh cái cớ như một công cụ được tính toán kỹ lưỡng. Lỗi hay gặp: dùng cho lý do chính đáng có thật, ví dụ 健康を口実に休む khi đang ốm thật — nghe như đang nói dối, rất tai hại.",
+    "extra_examples": [
+     {
+      "ja": "仕事を口実に、彼は連日飲み歩いている。",
+      "reading": "しごとをこうじつに、かれはれんじつのみあるいている。",
+      "vi": "Lấy cớ công việc, anh ta tối nào cũng la cà nhậu nhẹt."
+     },
+     {
+      "ja": "子どもの教育を口実に、夫婦の口論はエスカレートするばかりだ。",
+      "reading": "こどものきょういくをこうじつに、ふうふのこうろんはエスカレートするばかりだ。",
+      "vi": "Lấy cớ chuyện học hành của con, vợ chồng cãi nhau ngày càng gay gắt."
+     }
     ]
    },
    "kanji": [
@@ -15703,6 +17432,19 @@
       "ja": "彼女の努力は並大抵のものといっても過言ではない。",
       "reading": "かのじょのどりょくはなみたいていのものといってもかごんではない。",
       "vi": "Nỗ lực của cô ấy thật phi thường, nói không ngoa."
+     }
+    ],
+    "grammar_detail": "Khẳng định mạnh mẽ một đánh giá cao: có nói như thế cũng chẳng quá lời chút nào. Đi sau danh từ hoặc tính từ な. Sắc thái trang trọng, thường dùng khi ca ngợi con người, tác phẩm hoặc thành tựu lớn. Khác 〜と言ってもいい (nhẹ nhàng, chỉ là có thể nói như vậy), 過言ではない chắc nịch và đầy tự tin hơn nhiều. Lỗi người học hay mắc: dùng cho chuyện tầm thường, ví dụ món ăn vặt mà bảo おいしいと言っても過言ではない — quá lố, người nghe sẽ phì cười.",
+    "extra_examples": [
+     {
+      "ja": "彼は現代日本を代表する小説家と言っても過言ではない。",
+      "reading": "かれはげんだいにほんをだいひょうするしょうせつかといってもかごんではない。",
+      "vi": "Nói ông là tiểu thuyết gia tiêu biểu của Nhật Bản hiện đại cũng không ngoa."
+     },
+     {
+      "ja": "この発見は医学史に残る快挙と言っても過言ではない。",
+      "reading": "このはっけんはいがくしにのこるかいきょといってもかごんではない。",
+      "vi": "Phát hiện này có thể nói là chiến công lưu danh sử y học cũng chẳng quá lời."
      }
     ]
    },
@@ -15822,6 +17564,19 @@
       "reading": "じこ で うしなった じかん は いかんともしがたい ので、まえ を むく しかない。",
       "vi": "Thời gian đã mất vì tai nạn thì không lấy lại được, chỉ còn cách hướng về phía trước."
      }
+    ],
+    "grammar_detail": "Diễn tả sự bất lực trước tình thế nằm ngoài khả năng kiểm soát: thiên tai, tuổi già, số phận, cảm xúc con người. いかんとも nghĩa là dù làm thế nào cũng. Sắc thái văn viết, bi quan một cách đẹp đẽ và triết lý. Gần nghĩa 〜どうしようもない nhưng trang trọng và tuyệt vọng hơn. Lỗi hay gặp: dùng cho việc mình lười không chịu làm, ví dụ 宿題はいかんともしがたい — nghe như đang đổ thừa số phận cho sự lười biếng của bản thân.",
+    "extra_examples": [
+     {
+      "ja": "老いによる記憶の衰えは、いかんともしがたい現実だ。",
+      "reading": "おいによるきおくのおとろえは、いかんともしがたいげんじつだ。",
+      "vi": "Trí nhớ suy giảm theo tuổi già là thực tế không thể cưỡng lại."
+     },
+     {
+      "ja": "天候ばかりは人の力ではいかんともしがたい。",
+      "reading": "てんこうばかりはひとのちからではいかんともしがたい。",
+      "vi": "Riêng thời tiết thì sức người không thể làm gì được."
+     }
     ]
    },
    "kanji": [
@@ -15938,6 +17693,19 @@
       "ja": "親ともあろうものが、子供の前で嘘をつくなんて。",
       "reading": "おや ともあろうものが、こども の まえ で うそ を つく なんて。",
       "vi": "Là cha mẹ mà lại nói dối trước mặt con cái."
+     }
+    ],
+    "grammar_detail": "Chỉ trích gay gắt người có địa vị, tuổi tác hay danh tiếng mà hành xử không xứng tầm. Cấu trúc: danh từ + ともあろうものが. Sắc thái phẫn nộ và thất vọng sâu sắc. Mạnh hơn 〜くせに rất nhiều, vì くせに chỉ mỉa mai thông thường còn mẫu này là lời kết tội. Lỗi người học hay mắc: dùng cho người ngang hàng hoặc thấp hơn mình — mẫu này đòi hỏi đối tượng phải là người đáng lẽ cao quý, đáng kính.",
+    "extra_examples": [
+     {
+      "ja": "教育者ともあろうものが、カンニングを見逃すとは言語道断だ。",
+      "reading": "きょういくしゃともあろうものが、カンニングをみのがすとはごんごどうだんだ。",
+      "vi": "Đường đường là nhà giáo mà lại làm ngơ cho gian lận thi cử thì không thể chấp nhận."
+     },
+     {
+      "ja": "一国のリーダーともあろうものが、責任を部下に押し付けるとは。",
+      "reading": "いっこくのリーダーともあろうものが、せきにんをぶかにおしつけるとは。",
+      "vi": "Đường đường là lãnh đạo một nước mà lại đùn đẩy trách nhiệm cho cấp dưới."
      }
     ]
    },
@@ -16057,6 +17825,19 @@
       "reading": "かこ の えいこう を あと に、かれ は ふたたび ちょうせん を はじめた。",
       "vi": "Gác lại vinh quang quá khứ, anh ấy lại bắt đầu thử thách mới."
      }
+    ],
+    "grammar_detail": "Rời bỏ quê hương, gia đình hoặc quá khứ để bước vào chặng đường mới, sắc thái văn chương, bi tráng và đẹp đẽ. Thường đi với 故郷 (quê hương), 家族, 未練 (lưu luyến). Khác 〜を離れて (trung tính, chỉ sự rời xa về mặt vật lý), 〜を後に thêm cảm giác quyết tâm tiến về phía trước. Lỗi hay gặp: dùng cho chuyến đi ngắn ngày rồi về, ví dụ 旅行を後に — nghe như đi không hẹn ngày về, rất kỳ.",
+    "extra_examples": [
+     {
+      "ja": "故郷を後に、彼は夢を抱いて上京した。",
+      "reading": "こきょうをあとに、かれはゆめをいだいてじょうきょうした。",
+      "vi": "Bỏ lại quê hương phía sau, anh ôm mộng lớn lên Tokyo lập nghiệp."
+     },
+     {
+      "ja": "辛い過去を後にして、彼女は新しい人生を歩み始めた。",
+      "reading": "つらいかこをあとにして、かのじょはあたらしいじんせいをあゆみはじめた。",
+      "vi": "Bỏ lại quá khứ đau buồn phía sau, cô bắt đầu bước đi trên cuộc đời mới."
+     }
     ]
    },
    "kanji": [
@@ -16171,6 +17952,19 @@
       "ja": "富士山をおいて、日本を象徴するものはない。",
       "reading": "ふじさんをおいて、にほんをしょうちょうするものはない。",
       "vi": "Ngoài núi Phú Sĩ, không có gì tượng trưng cho Nhật Bản hơn."
+     }
+    ],
+    "grammar_detail": "Khẳng định sự duy nhất tuyệt đối, không thể thay thế: danh từ + をおいてほかに + phủ định. Sắc thái trang trọng và chắc nịch. Mạnh hơn 〜しか〜ない (chỉ nêu giới hạn), mẫu này còn tôn vinh sự độc nhất vô nhị của đối tượng. Lỗi người học hay mắc: dùng cho lựa chọn tầm thường, ví dụ この店をおいてほかにない để nói về quán cà phê — quá lố, trừ khi đó thực sự là nơi duy nhất.",
+    "extra_examples": [
+     {
+      "ja": "彼をおいてほかに、この難局を乗り切れる者はいない。",
+      "reading": "かれをおいてほかに、このなんきょくをのりきれるものはいない。",
+      "vi": "Ngoài anh ấy ra, không ai có thể vượt qua tình thế khó khăn này."
+     },
+     {
+      "ja": "母の手料理をおいてほかに、私の疲れを癒やすものはない。",
+      "reading": "ははのてりょうりをおいてほかに、わたしのつかれをいやすものはない。",
+      "vi": "Ngoài món ăn mẹ nấu, không gì xoa dịu được mệt mỏi của tôi."
      }
     ]
    },
@@ -16287,6 +18081,19 @@
       "ja": "老舗ならではの味を守り続けている。",
       "reading": "しにせならではのあじをまもりつづけている。",
       "vi": "Họ giữ mãi hương vị chỉ cửa hàng lâu đời mới có."
+     }
+    ],
+    "grammar_detail": "Chỉ nét đặc trưng riêng không nơi nào có được: danh từ + ならでは (+ の N / だ). Sắc thái khen ngợi và trân trọng, tự hào. Khác 〜特有の (trung tính, chỉ mô tả đặc tính khách quan), ならでは thêm cảm xúc yêu mến, nâng niu. Lỗi hay gặp: dùng cho đặc điểm tiêu cực, ví dụ この町の渋滞ならでは — nghe như đang tự hào về nạn kẹt xe, rất lạc quẻ.",
+    "extra_examples": [
+     {
+      "ja": "京都ならではの風情が、路地裏に息づいている。",
+      "reading": "きょうとならではのふぜいが、ろじうらにいきづいている。",
+      "vi": "Nét phong tình chỉ Kyoto mới có vẫn đang khẽ thở trong những con hẻm nhỏ."
+     },
+     {
+      "ja": "ベテランならではの落ち着いた判断が、チームを救った。",
+      "reading": "ベテランならではのおちついたはんだんが、チームをすくった。",
+      "vi": "Phán đoán điềm tĩnh chỉ người dày dạn kinh nghiệm mới có đã cứu cả đội."
      }
     ]
    },
@@ -16406,6 +18213,19 @@
       "reading": "ふたり は なか が いい よう に みえた が、その じったい とは うらはら に、すでに べっきょ して いた。",
       "vi": "Hai người trông có vẻ hạnh phúc, nhưng trái với vẻ ngoài, họ đã ly thân từ lâu."
      }
+    ],
+    "grammar_detail": "Diễn tả sự đối lập giữa kỳ vọng hoặc vẻ bề ngoài với thực tế. Đi sau danh từ chỉ mong đợi, dự đoán, vẻ ngoài. Sắc thái hơi thất vọng hoặc bất ngờ. Khác 〜に反して (trung tính, chỉ sự đối lập khách quan), とは裏腹に nhấn mạnh cảm giác cứ tưởng thế mà hóa ra lại khác. Lỗi người học hay mắc: dùng khi hai việc không liên quan gì đến nhau, ví dụ 天気とは裏腹に試験に落ちた — thời tiết và thi cử chẳng ăn nhập, nghe rất vô duyên.",
+    "extra_examples": [
+     {
+      "ja": "華やかな経歴とは裏腹に、彼の私生活は質素そのものだ。",
+      "reading": "はなやかなけいれきとはうらはらに、かれのしせいかつはしっそそのものだ。",
+      "vi": "Trái với sự nghiệp rực rỡ, đời tư của ông lại giản dị đến lạ."
+     },
+     {
+      "ja": "期待とは裏腹に、新製品の売れ行きは伸び悩んでいる。",
+      "reading": "きたいとはうらはらに、しんせいひんのうれゆきはのびなやんでいる。",
+      "vi": "Trái với kỳ vọng ban đầu, doanh số sản phẩm mới ì ạch không tăng."
+     }
     ]
    },
    "kanji": [
@@ -16521,6 +18341,19 @@
       "ja": "趣味にかまけて、健康を害した。",
       "reading": "しゅみにかまけて、けんこうをがいした。",
       "vi": "Mải mê sở thích mà hại sức khỏe."
+     }
+    ],
+    "grammar_detail": "Mải mê việc gì đó mà sao nhãng bổn phận đáng lẽ phải làm. Cấu trúc: động từ thể ます (bỏ ます) + にかまけて. Sắc thái tự trách hoặc trách người khác, luôn hàm ý lẽ ra không nên như thế. Khác 〜に夢中で (trung tính, thậm chí tích cực — say mê), にかまけて luôn mang nghĩa tiêu cực. Lỗi hay gặp: dùng cho việc đáng khen, ví dụ 勉強にかまけて — nghe như đang chê người ta học nhiều quá, rất kỳ cục.",
+    "extra_examples": [
+     {
+      "ja": "仕事にかまけて、子どもの運動会をすっぽかしてしまった。",
+      "reading": "しごとにかまけて、こどものうんどうかいをすっぽかしてしまった。",
+      "vi": "Mải công việc mà bỏ lỡ cả hội thể thao của con."
+     },
+     {
+      "ja": "ゲームにかまけて、レポートの締め切りを忘れていた。",
+      "reading": "ゲームにかまけて、レポートのしめきりをわすれていた。",
+      "vi": "Mải chơi game mà quên béng hạn nộp báo cáo."
      }
     ]
    },
@@ -16638,6 +18471,19 @@
       "ja": "彼はお金を惜しまず、最新の設備を導入した。",
       "reading": "かれ は おかね を おしまず、さいしん の せつび を どうにゅう した。",
       "vi": "Anh ấy không tiếc tiền, đầu tư thiết bị mới nhất."
+     }
+    ],
+    "grammar_detail": "Không tiếc công sức, thời gian hay tiền bạc cho một mục đích cao đẹp. Cấu trúc: danh từ + を惜しまず. Sắc thái ca ngợi sự cống hiến hết mình. Khác 〜を惜しむ (trung tính, nghĩa là tiếc), dạng phủ định ず thêm khí phách chẳng tiếc gì, dốc hết ruột gan. Lỗi người học hay mắc: dùng cho việc xấu, ví dụ 賄賂を惜しまず (không tiếc tiền hối lộ) — nghe như đang khen ngợi tội phạm, cực kỳ tai hại.",
+    "extra_examples": [
+     {
+      "ja": "彼は時間も労力も惜しまず、被災地の復興に尽力した。",
+      "reading": "かれはじかんもろうりょくもおしまず、ひさいちのふっこうにじんりょくした。",
+      "vi": "Anh không tiếc thời gian công sức, dốc lòng cho công cuộc tái thiết vùng thiên tai."
+     },
+     {
+      "ja": "師匠は知識を惜しまず、弟子たちにすべてを伝えた。",
+      "reading": "ししょうはちしきをおしまず、でしちにすべてをつたえた。",
+      "vi": "Sư phụ chẳng giấu nghề, truyền hết kiến thức cho các đệ tử."
      }
     ]
    },
@@ -16757,6 +18603,19 @@
       "reading": "かのじょ と であって このかた、まいにち が たのしくて しかたない。",
       "vi": "Kể từ khi gặp cô ấy, mỗi ngày đều vui đến không chịu nổi."
      }
+    ],
+    "grammar_detail": "Nhấn mạnh một trạng thái kéo dài liên tục từ một thời điểm trong quá khứ cho đến hiện tại. Cấu trúc: động từ thể て + このかた. Sắc thái trang trọng, hơi hoài niệm. Khác 〜て以来 (trung tính, thông dụng), てこのかた văn vẻ hơn và nhấn mạnh chưa từng gián đoạn một khắc nào. Lỗi hay gặp: dùng cho việc đã kết thúc, ví dụ 去年まで住んでてこのかた — mâu thuẫn logic vì このかた đòi hỏi trạng thái còn tiếp diễn đến bây giờ.",
+    "extra_examples": [
+     {
+      "ja": "この町に越してきてこのかた、二十年が経った。",
+      "reading": "このまちにこしてきてこのかた、にじゅうねんがたった。",
+      "vi": "Kể từ khi chuyển đến thị trấn này đến nay đã hai mươi năm."
+     },
+     {
+      "ja": "母を亡くしてこのかた、父は口数がめっきり減った。",
+      "reading": "ははをなくしてこのかた、ちちはくちかずがめっきりへった。",
+      "vi": "Từ khi mẹ mất đến nay, bố trở nên ít nói hẳn đi."
+     }
     ]
    },
    "kanji": [
@@ -16872,6 +18731,19 @@
       "ja": "社長は報告を聞くとみるや、対策を指示した。",
       "reading": "しゃちょうはほうこくをきくとみるや、たいさくをしじした。",
       "vi": "Vừa nghe báo cáo, giám đốc đã chỉ đạo đối sách."
+     }
+    ],
+    "grammar_detail": "Diễn tả phản ứng gần như tức khắc ngay sau khi nhận biết điều gì đó. Cấu trúc: động từ thể từ điển + とみるや. Sắc thái sống động như cảnh phim hành động. Gần nghĩa với 〜や否や và 〜が早いか, nhưng とみるや nhấn mạnh vừa nhận ra bằng mắt thì cơ thể đã hành động. Lỗi người học hay mắc: dùng cho hành động chậm rãi, có suy nghĩ đắn đo, ví dụ 考えてとみるや決めた — đã suy nghĩ thì không còn là phản ứng tức thì nữa.",
+    "extra_examples": [
+     {
+      "ja": "獲物とみるや、鷹は一気に舞い降りた。",
+      "reading": "えものとみるや、たかは一気にまいおりた。",
+      "vi": "Vừa thấy con mồi, chim ưng lập tức lao xuống."
+     },
+     {
+      "ja": "合図とみるや、選手たちは一斉にスタートを切った。",
+      "reading": "あいずとみるや、せんしゅたちはいっせいにスタートをきった。",
+      "vi": "Vừa thấy hiệu lệnh, các vận động viên đồng loạt xuất phát."
      }
     ]
    },
@@ -16989,6 +18861,19 @@
       "reading": "かれ に そうだん した ところで、まとも な こたえ は かえって こない。",
       "vi": "Có hỏi ý kiến anh ta thì cũng chẳng nhận được câu trả lời tử tế."
      }
+    ],
+    "grammar_detail": "Đưa ra một giả định rồi phủ định kết quả của nó: dù có làm A thì cũng chẳng được B. Cấu trúc: động từ thể た + ところで. Sắc thái bi quan, buông xuôi, chấp nhận. Khác 〜ても (trung tính, chỉ nhượng bộ), たところで luôn dẫn đến kết luận tiêu cực hoặc vô ích. Lỗi hay gặp: dùng rồi đưa ra kết quả tích cực, ví dụ 行ったところで楽しかった — sai logic hoàn toàn, trường hợp đó phải dùng ても.",
+    "extra_examples": [
+     {
+      "ja": "今さら謝ったところで、失った信頼は戻らない。",
+      "reading": "いまさらあやまったところで、うしなったしんらいはもどらない。",
+      "vi": "Giờ có xin lỗi thì niềm tin đã mất cũng chẳng quay lại."
+     },
+     {
+      "ja": "慌てたところで、電車はもう行ってしまった。",
+      "reading": "あわてたところで、でんしゃはもういってしまった。",
+      "vi": "Có cuống cuồng lên thì tàu cũng đã chạy mất rồi."
+     }
     ]
    },
    "kanji": [
@@ -17104,6 +18989,19 @@
       "ja": "失敗してはじめて、自分の甘さに気づいた。",
       "reading": "しっぱいしてはじめて、じぶんのあまさにきづいた。",
       "vi": "Thất bại rồi tôi mới nhận ra sự non nớt của mình."
+     }
+    ],
+    "grammar_detail": "Nhấn mạnh điều kiện tiên quyết về mặt trình tự thời gian: phải trải qua A rồi mới có được B. Sắc thái trang trọng, sâu sắc. Khác 〜てこそ (nhấn mạnh giá trị và ý nghĩa không thể thay thế của điều kiện), てはじめて nhấn mạnh trước thời điểm đó thì chưa thể đạt được. Lỗi người học hay mắc: dùng cho điều hiển nhiên ai cũng biết, ví dụ 生まれてはじめて呼吸した — nghe ngớ ngẩn và buồn cười.",
+    "extra_examples": [
+     {
+      "ja": "社会人になってはじめて、学生時代の自由がどれほど貴重だったか悟った。",
+      "reading": "しゃかいじんになってはじめて、がくせいじだいのじゆうがどれほどきちょうだったかさとった。",
+      "vi": "Phải đến khi đi làm mới ngộ ra tự do thời sinh viên quý giá đến nhường nào."
+     },
+     {
+      "ja": "失敗してはじめて、準備の大切さが身にしみた。",
+      "reading": "しっぱいしてはじめて、じゅんびのたいせつさがみにしみた。",
+      "vi": "Phải nếm mùi thất bại mới thấm thía tầm quan trọng của sự chuẩn bị."
      }
     ]
    },
@@ -17221,6 +19119,19 @@
       "ja": "雨がひどく、外出のしようがない。",
       "reading": "あめがひどく、がいしゅつのしようがない。",
       "vi": "Mưa to quá nên chẳng ra ngoài được."
+     }
+    ],
+    "grammar_detail": "Diễn tả sự bế tắc hoàn toàn: muốn làm mà không có cách nào làm được. Cấu trúc: động từ thể ます (bỏ ます) + ようがない. Sắc thái bất lực. Khác 〜かねる (khó làm vì lý do tế nhị hoặc khách quan, mức độ nhẹ hơn), ようがない là bó tay toàn tập. Lỗi hay gặp: nhầm với dạng ý chí Vよう — ở đây よう là danh từ nghĩa là cách thức, phương cách, không phải thể ý chí.",
+    "extra_examples": [
+     {
+      "ja": "鍵をなくして、家に入りようがない。",
+      "reading": "かぎをなくして、いえにはいりようがない。",
+      "vi": "Làm mất chìa khóa rồi, không có cách nào vào nhà được."
+     },
+     {
+      "ja": "証拠がなければ、彼を問い詰めようがない。",
+      "reading": "しょうこがなければ、かれをといつめようがない。",
+      "vi": "Không có bằng chứng thì chẳng có cách nào chất vấn anh ta."
      }
     ]
    },
@@ -17340,6 +19251,19 @@
       "reading": "にど と しっぱい するまい と こころ に ちかった。",
       "vi": "Tôi đã thề trong lòng rằng sẽ không bao giờ thất bại lần nữa."
      }
+    ],
+    "grammar_detail": "Thể hiện ý chí phủ định mạnh mẽ: quyết không làm gì đó. Cấu trúc: động từ thể まい + とする. Sắc thái văn viết, cứng rắn như lời thề, hơi cổ điển. Khác 〜ないようにする (trung tính, chỉ là cố gắng tránh), まいとする mang khí phách thề thốt, quyết tâm sắt đá. Lỗi người học hay mắc: dùng cho việc ngoài tầm kiểm soát như hay quên, ví dụ 忘れまいとする — nghe hơi lố nhưng vẫn dùng được khi muốn nhấn mạnh quyết tâm.",
+    "extra_examples": [
+     {
+      "ja": "彼は誘惑に負けまいと、酒の席を避け続けている。",
+      "reading": "かれはゆうわくにまけまいと、さけのせきをさけつづけている。",
+      "vi": "Quyết không thua trước cám dỗ, anh ấy liên tục tránh các cuộc nhậu."
+     },
+     {
+      "ja": "涙を見せまいと、彼女は空を仰いだ。",
+      "reading": "なみだをみせまいと、かのじょはそらをあおいだ。",
+      "vi": "Cố không để lộ nước mắt, cô ngước nhìn lên bầu trời."
+     }
     ]
    },
    "kanji": [
@@ -17457,6 +19381,19 @@
       "ja": "台風は沖縄ばかりか、九州にまで被害をもたらした。",
       "reading": "たいふう は おきなわ ばかりか、きゅうしゅう に まで ひがい を もたらした。",
       "vi": "Bão không chỉ ở Okinawa mà còn gây thiệt hại đến tận Kyushu."
+     }
+    ],
+    "grammar_detail": "Mở rộng phạm vi liệt kê và nhấn mạnh hơn thế nữa, thậm chí còn hơn. Đi sau danh từ hoặc động từ thể thường. Sắc thái nhấn mạnh kèm chút ngạc nhiên, không ngờ tới mức đó. Khác 〜だけでなく (trung tính, chỉ thêm thông tin), ばかりか mang cảm xúc mạnh hơn. Lỗi hay gặp: dùng rồi liệt kê điều hiển nhiên, ví dụ 雨ばかりか風も cho một ngày thời tiết xấu — quá bình thường, trường hợp đó nên dùng だけでなく.",
+    "extra_examples": [
+     {
+      "ja": "彼は英語ばかりか、フランス語とドイツ語も堪能だ。",
+      "reading": "かれはえいごばかりか、フランスご とドイツごもたんのうだ。",
+      "vi": "Anh ấy không chỉ tiếng Anh mà cả tiếng Pháp, tiếng Đức đều thành thạo."
+     },
+     {
+      "ja": "台風は家屋ばかりか、田畑までも飲み込んだ。",
+      "reading": "たいふうはかおくばかりか、たはたまでものみこんだ。",
+      "vi": "Cơn bão không chỉ cuốn phăng nhà cửa mà còn nuốt chửng cả ruộng đồng."
      }
     ]
    },
@@ -17576,6 +19513,19 @@
       "reading": "いそがしいながら、まいにちどくしょをつづけている。",
       "vi": "Tuy bận mà ngày nào cũng đọc sách."
      }
+    ],
+    "grammar_detail": "Mẫu có hai用法 dễ nhầm: một là động từ thể ます (bỏ ます) + ながら nghĩa là vừa làm A vừa làm B (hai hành động song song); hai là ながらも nghĩa là tuy A nhưng B (nhượng bộ, hơi tiếc nuối). Usaga (1) trung tính, còn (2) mang sắc thái đối lập đáng suy ngẫm. Lỗi người học hay mắc nhất: nhầm lẫn hai用法 này — 歩きながら (vừa đi vừa làm gì) khác hẳn 歩きながらも (tuy đi bộ nhưng...), sai một ly đi một dặm về nghĩa.",
+    "extra_examples": [
+     {
+      "ja": "彼は笑いながらも、目には涙を浮かべていた。",
+      "reading": "かれはわらいながらも、めにはなみだをうかべていた。",
+      "vi": "Anh vừa cười mà trong mắt lại ngấn lệ."
+     },
+     {
+      "ja": "音楽を聴きながら、彼女は黙々と原稿を書き上げた。",
+      "reading": "おんがくをききながら、かのじょはもくもくとげんこうをかきあげた。",
+      "vi": "Vừa nghe nhạc, cô vừa lặng lẽ viết xong bản thảo."
+     }
     ]
    },
    "kanji": [
@@ -17689,6 +19639,19 @@
       "ja": "困難を恐れずに挑む姿は、言葉では言い表しがたい勇気だ。",
       "reading": "こんなんを おそれずに いどむ すがたは、ことばでは いいあらわしがたい ゆうきだ。",
       "vi": "Dáng vẻ dám đương đầu khó khăn là dũng khí khó diễn tả bằng lời."
+     }
+    ],
+    "grammar_detail": "〜がたい diễn tả sự khó khăn về mặt TÂM LÝ, cảm xúc — lòng không đành, không nỡ làm. Khác với 〜にくい (khó về mặt kỹ thuật, khách quan: この字は書きにくい) và 〜づらい (khó chịu đựng: 言いづらい), がたい luôn gắn với cảm xúc chủ quan như 信じがたい (khó tin), 許しがたい (khó tha thứ). Lỗi hay mắc: dùng がたい cho khó khăn vật lý — ví dụ この荷物は持ちがたい là sai, phải nói 持ちにくい. Trong đề N1, がたい thường đi với động từ cảm xúc: 想像・理解・容認・許容.",
+    "extra_examples": [
+     {
+      "ja": "恩人の裏切りは、到底許しがたい行為だった。",
+      "reading": "おんじんのうらぎりは、とうていゆるしがたいこういだった。",
+      "vi": "Sự phản bội của ân nhân là hành động khó lòng tha thứ."
+     },
+     {
+      "ja": "別れ際に交わした約束は、忘れがたい思い出となった。",
+      "reading": "わかれぎわにかわしたやくそくは、わすれがたいおもいでとなった。",
+      "vi": "Lời hứa lúc chia tay đã trở thành kỷ niệm khó quên."
      }
     ]
    },
@@ -17808,7 +19771,20 @@
     "formation": "N + すら (+ も)",
     "meaning_vi": "đến cả… còn/cũng (nhấn mạnh mức độ cực đoan, ngoài dự đoán)",
     "pattern": "〜すら",
-    "pattern_ja": "すら"
+    "pattern_ja": "すら",
+    "grammar_detail": "〜すら nhấn mạnh điểm CỰC ĐOAN ngoài dự đoán trên một thang đo — 'đến cả X mà còn…'. Khác với 〜さえ (cũng mang nghĩa 'thậm chí' nhưng nhấn mạnh điều kiện tối thiểu hoặc sự bổ sung: 子供さえできる) — すら thiên về sự NGẠC NHIÊN, thường đi với câu phủ định hoặc tình huống bất ngờ. So với 〜だに (văn viết cổ: 見るだに), すら dùng được cả văn nói. Lỗi hay mắc: dùng すら cho sự việc bình thường, không có yếu tố cực đoan — sẽ nghe rất gượng.",
+    "extra_examples": [
+     {
+      "ja": "彼は疲れ果てて、水すら喉を通らなかった。",
+      "reading": "かれはつかれはてて、みずすらのどをとおらなかった。",
+      "vi": "Anh ấy mệt lả đến mức đến cả nước cũng không nuốt nổi."
+     },
+     {
+      "ja": "一流の選手すら緊張する大舞台だった。",
+      "reading": "いちりゅうのせんしゅすらきんちょうするおおぶたいだった。",
+      "vi": "Đó là sân khấu lớn đến mức ngay cả vận động viên hàng đầu cũng hồi hộp."
+     }
+    ]
    },
    "kanji": [
     {
@@ -17923,7 +19899,20 @@
     "formation": "N + さえ + Vば形 / なければ",
     "meaning_vi": "chỉ cần… thì… (điều kiện tối thiểu là đủ)",
     "pattern": "〜さえ〜ば",
-    "pattern_ja": "さえ〜ば"
+    "pattern_ja": "さえ〜ば",
+    "grammar_detail": "〜さえ〜ば diễn tả ĐIỀU KIỆN TỐI THIỂU — 'chỉ cần X thì…'. Khác với 〜ば thường (điều kiện trung tính) và 〜たら, さえ〜ば nhấn mạnh 'chỉ nhiêu đó là đủ'. Dạng phủ định 〜さえ〜なければ cũng rất hay gặp: 努力さえしなければ受からない. So với 〜さえ〜すれば mang sắc thái giả định mạnh hơn. Lỗi hay mắc: nhầm さえ với すら — さえ〜ば nói về điều kiện đủ, còn すら nói về mức độ cực đoan.",
+    "extra_examples": [
+     {
+      "ja": "君さえそばにいてくれれば、どんな困難も乗り越えられる。",
+      "reading": "きみさえそばにいてくれれば、どんなこんなんものりこえられる。",
+      "vi": "Chỉ cần có em bên cạnh, khó khăn nào anh cũng vượt qua được."
+     },
+     {
+      "ja": "一言謝りさえすれば、こんな大騒ぎにはならなかったのに。",
+      "reading": "ひとことあやまりさえすれば、こんなおおさわぎにはならなかったのに。",
+      "vi": "Chỉ cần nói một lời xin lỗi thì đã không ầm ĩ đến thế này."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18040,7 +20029,20 @@
     "formation": "Vる + ことはあっても → 〜こそすれ、〜ない",
     "meaning_vi": "dù có… nhưng vẫn chưa đến mức… (khiêm tốn, giảm nhẹ)",
     "pattern": "〜こそすれ",
-    "pattern_ja": "こそすれ"
+    "pattern_ja": "こそすれ",
+    "grammar_detail": "〜こそすれ là cách nói KHIÊM TỐN, giảm nhẹ — 'dù có A nhưng tuyệt đối không B'. Công thức cố định: Vる＋こそすれ＋(phủ định). Khác với 〜はするが (đối lập trung tính), こそすれ mang thái độ tự hạ mình hoặc trấn an người nghe. Lỗi hay mắc nhất: quên vế phủ định phía sau — không có vế phủ định thì câu mất nghĩa khiêm tốn. Trong đề N1 hay ra dạng: 驚きこそすれ、（　）ことはない → đáp án là 恐れる.",
+    "extra_examples": [
+     {
+      "ja": "彼の成功に驚きこそすれ、妬む気持ちは微塵もなかった。",
+      "reading": "かれのせいこうにおどろきこそすれ、ねたむきもちはみじんもなかった。",
+      "vi": "Trước thành công của anh ấy, tôi có ngạc nhiên nhưng tuyệt không hề ghen tị chút nào."
+     },
+     {
+      "ja": "負けこそすれ、最後まで諦めないのが我がチームの流儀だ。",
+      "reading": "まけこそすれ、さいごまであきらめないのがわがチームのりゅうぎだ。",
+      "vi": "Có thể thua, nhưng không bao giờ bỏ cuộc đến phút cuối — đó là phong cách của đội ta."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18156,7 +20158,20 @@
     "formation": "N + あっての + N",
     "meaning_vi": "nhờ có… mới có… (nhấn mạnh sự tồn tại là tiền đề)",
     "pattern": "〜あっての",
-    "pattern_ja": "あっての"
+    "pattern_ja": "あっての",
+    "grammar_detail": "〜あっての nhấn mạnh SỰ TỒN TẠI là tiền đề — 'nhờ có X mới có Y', thường dùng bày tỏ lòng biết ơn. Khác với 〜のおかげで (cũng là 'nhờ có', dùng rộng rãi cả văn nói), あっての trang trọng hơn và chỉ dùng khi X là điều KIỆN TỒN TẠI không thể thiếu, không dùng cho nguyên nhân thông thường. So với 〜なくしては (phủ định: không có X thì không có Y), あっての là khẳng định biết ơn. Lỗi hay mắc: dùng あっての cho sự vật vô tri mang tính nhân quả đơn thuần.",
+    "extra_examples": [
+     {
+      "ja": "恩師のご指導あっての今日の私です。",
+      "reading": "おんしのごしどうあってのきょうのわたしです。",
+      "vi": "Có tôi ngày hôm nay là nhờ sự dìu dắt của thầy."
+     },
+     {
+      "ja": "皆様の温かいご支援あっての復興です。",
+      "reading": "みなさまのあたたかいごしえんあってのふっこうです。",
+      "vi": "Công cuộc phục hưng có được là nhờ sự ủng hộ ấm áp của mọi người."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18274,7 +20289,20 @@
     "formation": "N + なくしては + (không thể)…",
     "meaning_vi": "nếu không có… thì không… (điều kiện không thể thiếu)",
     "pattern": "〜なくしては",
-    "pattern_ja": "なくしては"
+    "pattern_ja": "なくしては",
+    "grammar_detail": "〜なくしては diễn tả ĐIỀU KIỆN KHÔNG THỂ THIẾU — 'nếu không có X thì Y không thành', văn phong trang trọng. Khác với 〜がなければ (điều kiện giả định thông thường) và 〜なしには (gần nghĩa nhất, cũng trang trọng), なくしては nhấn mạnh tính TẤT YẾU tuyệt đối. Công thức: N＋なくしては＋(không thể)…. Lỗi hay mắc: dùng vế sau khẳng định — sai, vế sau bắt buộc phủ định hoặc mang nghĩa 'không thể'.",
+    "extra_examples": [
+     {
+      "ja": "互いの信頼なくしては、この同盟は成り立たない。",
+      "reading": "たがいのしんらいなくしては、このどうめいはなりたたない。",
+      "vi": "Nếu không có lòng tin lẫn nhau thì liên minh này không thể tồn tại."
+     },
+     {
+      "ja": "涙なくしては語れない半生だった。",
+      "reading": "なみだなくしてはかたれないはんせいだった。",
+      "vi": "Đó là nửa đời người không thể kể lại mà không rơi nước mắt."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18391,7 +20419,20 @@
     "formation": "Vない → bỏ ない + んとする",
     "meaning_vi": "định làm, toan làm (ý định mạnh mẽ, văn viết)",
     "pattern": "〜んとする",
-    "pattern_ja": "んとする"
+    "pattern_ja": "んとする",
+    "grammar_detail": "〜んとする là dạng văn viết cổ của 〜ようとする — diễn tả Ý ĐỊNH MẠNH MẼ, 'định làm, toan làm'. Cách chia: Vない bỏ ない ＋ んとする (する→せんとする). Khác với 〜ようとする (dùng mọi văn cảnh), んとする chỉ xuất hiện trong văn viết, tiểu thuyết, lời thoại cổ trang — dùng trong hội thoại thường ngày sẽ nghe như samurai. Lỗi hay mắc: nhầm với 〜んばかり (sắp sửa, suýt nữa) — んとする là CHỦ Ý, んばかり là TRẠNG THÁI sắp xảy ra.",
+    "extra_examples": [
+     {
+      "ja": "席を立たんとする老人に、青年がそっと手を差し伸べた。",
+      "reading": "せきをたたんとするとろうじんに、せいねんがそっとてをさしのべた。",
+      "vi": "Khi cụ già định đứng dậy, chàng thanh niên khẽ đưa tay ra đỡ."
+     },
+     {
+      "ja": "反論せんとしたが、相手の真剣な目を見て思いとどまった。",
+      "reading": "はんろんせんとしたが、あいてのしんけんなめをみておもいとどまった。",
+      "vi": "Tôi định phản bác, nhưng nhìn ánh mắt nghiêm túc của đối phương nên đã thôi."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18512,7 +20553,20 @@
     "formation": "V意向形 + にも + ない / できない",
     "meaning_vi": "muốn… cũng không… được (bất lực dù có ý muốn)",
     "pattern": "〜うにも〜ない",
-    "pattern_ja": "うにも〜ない"
+    "pattern_ja": "うにも〜ない",
+    "grammar_detail": "〜うにも〜ない diễn tả sự BẤT LỰC — 'muốn làm mà không làm được'. Khác với 〜たくても〜できない (cũng là muốn mà không được, dùng phổ biến), うにも〜ない văn vẻ, bi tráng hơn, hay xuất hiện trong văn học. Công thức: V意向形＋にも＋(phủ định khả năng). Lỗi hay mắc: vế sau phải là phủ định khả năng (〜ない/〜できない) — nếu vế sau khẳng định thì sai hoàn toàn.",
+    "extra_examples": [
+     {
+      "ja": "叫ぼうにも声が出ず、ただ立ち尽くすしかなかった。",
+      "reading": "さけぼうにもこえがでず、ただたちつくすしかなかった。",
+      "vi": "Muốn hét mà không thốt nên lời, chỉ biết đứng chết trân."
+     },
+     {
+      "ja": "謝ろうにも、彼の連絡先すら分からなかった。",
+      "reading": "あやまろうにも、かれのれんらくさきすらわからなかった。",
+      "vi": "Muốn xin lỗi mà đến cả thông tin liên lạc của anh ấy tôi cũng không biết."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18629,7 +20683,20 @@
     "formation": "Vる + まじき + N",
     "meaning_vi": "không nên, không được phép (phán xét đạo đức mạnh)",
     "pattern": "〜まじき",
-    "pattern_ja": "まじき"
+    "pattern_ja": "まじき",
+    "grammar_detail": "〜まじき là lời PHÁN XÉT ĐẠO ĐỨC đanh thép — 'không được phép, không nên' về mặt đạo lý. Công thức: Vる＋まじき＋N (bổ nghĩa cho danh từ!). Khác với 〜べきではない (khuyên nhủ thông thường) và 〜てはならない (cấm đoán), まじき mang tính lên án, thường thấy trong văn viết nghiêm túc. Lỗi hay mắc: dùng まじき như động từ độc lập — sai, nó là dạng bổ nghĩa danh từ, luôn phải có N phía sau: 許すまじき罪.",
+    "extra_examples": [
+     {
+      "ja": "医師として見過ごすまじき重大なミスだった。",
+      "reading": "いしとしてみすごすまじきじゅうだいなミスだった。",
+      "vi": "Đó là sai sót nghiêm trọng mà một bác sĩ không được phép bỏ qua."
+     },
+     {
+      "ja": "友を裏切るまじき行為に、彼は一生苦しんだ。",
+      "reading": "ともをうらぎるまじきこういに、かれはいっしょうくるしんだ。",
+      "vi": "Anh ấy đã day dứt cả đời vì hành động phản bội bạn bè — điều không thể dung thứ."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18748,7 +20815,20 @@
     "formation": "Vる + べからず",
     "meaning_vi": "không được, cấm (lệnh cấm trang trọng, văn viết)",
     "pattern": "〜べからず",
-    "pattern_ja": "べからず"
+    "pattern_ja": "べからず",
+    "grammar_detail": "〜べからず là LỆNH CẤM trang trọng trong văn viết — 'cấm, không được', thường thấy trên biển báo, nội quy. Công thức: Vる＋べからず. Khác với 〜てはならない (cấm trong cả hội thoại và văn viết) và 〜禁止 (danh từ), べからず mang âm hưởng cổ điển, uy nghiêm — như 立ち入るべからず (cấm vào). Lỗi hay mắc: dùng べからず để ra lệnh trong hội thoại — sai văn cảnh, nghe như đang đóng phim cổ trang.",
+    "extra_examples": [
+     {
+      "ja": "館内では飲食するべからず、と厳しく定められている。",
+      "reading": "かんないではいんしょくするべからず、ときびしくさだめられている。",
+      "vi": "Nội quy quy định nghiêm ngặt: cấm ăn uống trong tòa nhà."
+     },
+     {
+      "ja": "試験中は私語するべからず。",
+      "reading": "しけんちゅうはしごするべからず。",
+      "vi": "Trong giờ thi cấm nói chuyện riêng."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18867,7 +20947,20 @@
     "formation": "Vない → bỏ ない + ざる (+ N)",
     "meaning_vi": "không… (phủ định văn viết cổ, trang trọng)",
     "pattern": "〜ざる",
-    "pattern_ja": "ざる"
+    "pattern_ja": "ざる",
+    "grammar_detail": "〜ざる là dạng PHỦ ĐỊNH CỔ ĐIỂN của ない trong văn viết — trang trọng, súc tích. Khác với 〜ない (thông thường) và 〜ず (cũng là phủ định văn viết, dùng trước động từ: 知らず), ざる thường đứng trước DANH TỪ hoặc trong cụm cố định ざるを得ない. Lỗi hay mắc: đọc nhầm ざる thành さる (con khỉ!) khi đọc nhanh. Trong đề N1, ざる hay xuất hiện ở dạng ざるを得ない và trong các cụm thành ngữ văn viết.",
+    "extra_examples": [
+     {
+      "ja": "誰も知らざる真実が、そこに眠っていた。",
+      "reading": "だれもしらざるしんじつが、そこにねむっていた。",
+      "vi": "Một sự thật không ai biết đang ngủ yên ở đó."
+     },
+     {
+      "ja": "避けざる運命なら、堂々と受けて立とう。",
+      "reading": "さけざるうんめいなら、どうどうとうけてたとう。",
+      "vi": "Nếu là số phận không thể tránh, ta sẽ hiên ngang đối mặt."
+     }
+    ]
    },
    "kanji": [
     {
@@ -18988,6 +21081,19 @@
       "reading": "ともが こんなんに たちむかう すがたに こころを うたれて、じっと していられなかった。",
       "vi": "Thấy bạn đương đầu khó khăn, lòng xúc động nên không thể ngồi yên."
      }
+    ],
+    "grammar_detail": "〜てはいられない diễn tả sự SỐT RUỘT — 'không thể cứ… mãi được, không thể ngồi yên'. Khác với 〜てはならない (cấm đoán) chỉ khác một chữ い nhưng nghĩa hoàn toàn khác — đây là bẫy kinh điển trong đề N1! Công thức: Vて＋はいられない. Hay dùng dạng rút gọn 〜ていられない: じっとしていられない. Lỗi hay mắc: nhầm はいられない với はならない — nhớ: いられない = 'không yên được', ならない = 'không được phép'.",
+    "extra_examples": [
+     {
+      "ja": "ぐずぐずしてはいられない。さあ、走り出そう！",
+      "reading": "ぐずぐずしてはいられない。さあ、はしりだそう！",
+      "vi": "Không thể chần chừ mãi được. Nào, chạy thôi!"
+     },
+     {
+      "ja": "困っている人を見て、黙ってはいられなかった。",
+      "reading": "こまっているひとをみて、だまってはいられなかった。",
+      "vi": "Thấy người gặp khó khăn, tôi không thể làm ngơ được."
+     }
     ]
    },
    "kanji": [
@@ -19105,6 +21211,19 @@
       "ja": "困っている人を見たら、手を差し伸べるべし。",
       "reading": "こまっている ひとを みたら、てを さしのべるべし。",
       "vi": "Thấy người gặp khó khăn, phải chìa tay giúp đỡ."
+     }
+    ],
+    "grammar_detail": "〜べし là mệnh lệnh cổ — 'phải…, nên…', giọng samurai, giáo huấn. Công thức: Vる＋べし. Khác với 〜べきだ (khuyên nhủ hiện đại) và 〜なければならない (bắt buộc), べし mang âm hưởng triết lý, châm ngôn — như trong 武士道. Ngày nay chỉ dùng để đùa, trích dẫn cổ văn, hoặc trong bài diễn văn trang trọng. Lỗi hay mắc: dùng べし trong văn nói nghiêm túc — người nghe sẽ tưởng bạn đang diễn kịch cổ trang.",
+    "extra_examples": [
+     {
+      "ja": "一度立てた志は、最後まで貫くべし。",
+      "reading": "いちどたてたこころざしは、さいごまでつらぬくべし。",
+      "vi": "Chí hướng đã đặt ra một lần thì phải theo đến cùng."
+     },
+     {
+      "ja": "恩を受けた者は、必ず報いるべしと祖父は言った。",
+      "reading": "おんをうけたものは、かならずむくいるべしとそふはいった。",
+      "vi": "Ông tôi bảo: kẻ đã chịu ơn thì nhất định phải báo đáp."
      }
     ]
    },
@@ -19225,6 +21344,19 @@
       "reading": "かれは どりょくかだ。いかんせん うんが わるく、ごうかく できなかった。",
       "vi": "Anh ấy rất chăm chỉ, nhưng vận xui nên đã trượt."
      }
+    ],
+    "grammar_detail": "いかんせん diễn tả sự TIẾC NUỐI BẤT LỰC — 'muốn lắm nhưng đành chịu vì lý do khách quan'. Cấu trúc: いかんせん＋(lý do)＋kết quả phủ định. Khác với 〜とはいえ (tuy… nhưng…, đối lập trung tính), いかんせん luôn mang tâm trạng 'giá mà…'. Lỗi hay mắc: dùng いかんせん với kết quả tích cực — sai, vế sau bắt buộc là thất bại/bỏ cuộc. Cụm hay gặp: いかんせん実力不足、〜ざるを得なかった.",
+    "extra_examples": [
+     {
+      "ja": "世界を目指したいのはやまやまだが、いかんせん年齢が…。",
+      "reading": "せかいをめざしたいのはやまやまだが、いかんせんねんれいが…。",
+      "vi": "Muốn vươn ra thế giới lắm chứ, nhưng đành chịu vì tuổi tác…."
+     },
+     {
+      "ja": "彼を信じたい。いかんせん、証拠がすべてを物語っている。",
+      "reading": "かれをしんじたい。いかんせん、しょうこがすべてをものがたっている。",
+      "vi": "Tôi muốn tin anh ấy. Nhưng đành chịu thôi, bằng chứng đã nói lên tất cả."
+     }
     ]
    },
    "kanji": [
@@ -19340,6 +21472,19 @@
       "reading": "かんがえる までもなく、こんなんに たちむかうと きめた。",
       "vi": "Chẳng cần suy nghĩ, tôi quyết định đối mặt với khó khăn."
      }
+    ],
+    "grammar_detail": "〜までもなく nghĩa là 'KHỎI PHẢI…, không cần đến mức…' — diễn tả điều HIỂN NHIÊN ai cũng biết. Công thức: Vる/Vない/N＋までもなく. Nổi tiếng nhất là 言うまでもなく (khỏi phải nói). Khác với 〜までもない (cũng là 'không cần', nhưng là phán đoán chủ quan: 心配するまでもない), までもなく nhấn mạnh tính hiển nhiên khách quan. Lỗi hay mắc: dùng cho việc chỉ mình biết — sẽ nghe kiêu căng.",
+    "extra_examples": [
+     {
+      "ja": "説明するまでもなく、彼の目は真実を語っていた。",
+      "reading": "せつめいするまでもなく、かれのめはしんじつをかたっていた。",
+      "vi": "Khỏi cần giải thích, ánh mắt anh ấy đã nói lên sự thật."
+     },
+     {
+      "ja": "疑うまでもなく、彼女こそが真犯人だった。",
+      "reading": "うたがうまでもなく、かのじょこそがしんはんにんだった。",
+      "vi": "Khỏi phải nghi ngờ, chính cô ta là thủ phạm thật sự."
+     }
     ]
    },
    "kanji": [
@@ -19454,6 +21599,19 @@
       "ja": "出かけるところを、雨に降られて引き返した。",
       "reading": "でかけるところを、あめに ふられて ひきかえした。",
       "vi": "Đang định ra ngoài thì gặp mưa nên đành quay về."
+     }
+    ],
+    "grammar_detail": "〜ところを diễn tả BỊ NGẮT QUÃNG ngoài ý muốn — 'đang lúc… thì…'. Công thức: Vる/Vている/Vた＋ところを. Ngoài ra còn có cách dùng lịch sự nổi tiếng: お忙しいところ (đang lúc bận) — mở đầu câu xin lỗi/xin phép. Khác với 〜ところに (đúng lúc, trung tính hoặc tích cực), ところを luôn hàm ý PHIỀN PHỨC, áy náy. Lỗi hay mắc: dùng ところを cho sự trùng hợp vui — sai sắc thái.",
+    "extra_examples": [
+     {
+      "ja": "熟睡しているところを、けたたましいサイレンに起こされた。",
+      "reading": "じゅくすいしているところを、けたたましいサイレンにおこされた。",
+      "vi": "Đang ngủ say thì bị tiếng còi inh ỏi đánh thức."
+     },
+     {
+      "ja": "お休みのところを恐れ入りますが、少々お時間をいただけますか。",
+      "reading": "おやすみのところをおそれいりますが、しょうしょうおじかんをいただけますか。",
+      "vi": "Xin lỗi đã làm phiền lúc nghỉ ngơi, cho tôi xin ít phút được không ạ."
      }
     ]
    },
@@ -19573,6 +21731,19 @@
       "reading": "さんせいであれ はんたいであれ、いけんを きかせてください。",
       "vi": "Dù đồng ý hay phản đối, xin hãy cho tôi biết ý kiến."
      }
+    ],
+    "grammar_detail": "〜であれ〜であれ nghĩa là 'DÙ LÀ A HAY B (cũng…)' — liệt kê lựa chọn với thái độ BẤT CHẤP, quả quyết. Công thức: N＋であれ〜N＋であれ (であれ là thể mệnh lệnh của だ). Khác với 〜にせよ (cũng là 'dù…', nhưng nhẹ nhàng hơn) và 〜であろうと, であれ〜であれ mang khí phách tuyên bố. Lỗi hay mắc: chỉ liệt kê MỘT vế — sai, phải có đủ cặp 〜であれ〜であれ.",
+    "extra_examples": [
+     {
+      "ja": "賛成であれ反対であれ、まずは全員の意見を聞こう。",
+      "reading": "さんせいであれはんたいであれ、まずはぜんいんのいけんをきこう。",
+      "vi": "Dù tán thành hay phản đối, trước hết hãy nghe ý kiến của tất cả mọi người."
+     },
+     {
+      "ja": "生であれ死であれ、武士の誇りを失うな。",
+      "reading": "せいであれしであれ、ぶしのほこりをうしなうな。",
+      "vi": "Dù sống hay chết, đừng đánh mất khí phách samurai."
+     }
     ]
    },
    "kanji": [
@@ -19690,7 +21861,20 @@
     "formation": "N + いかんだ / いかんでは / いかんによっては",
     "meaning_vi": "tùy thuộc vào… (kết quả phụ thuộc điều kiện)",
     "pattern": "〜いかんだ",
-    "pattern_ja": "いかんだ"
+    "pattern_ja": "いかんだ",
+    "grammar_detail": "〜いかんだ diễn tả SỰ PHỤ THUỘC — 'tùy thuộc vào…'. Công thức: N＋いかんだ/いかんでは/いかんによっては. Khác với 〜次第だ (cũng là 'tùy vào', nhưng thiên về giải thích lý do một cách lịch sự) và 〜による, いかん nhấn mạnh KẾT QUẢ sẽ thay đổi theo điều kiện. Lỗi hay mắc: dùng いかん với danh từ không mang tính biến số (ví dụ khi kết quả đã rõ ràng).",
+    "extra_examples": [
+     {
+      "ja": "合格するかどうかは、当日の体調いかんだ。",
+      "reading": "ごうかくするかどうかは、とうじつのたいちょういかんだ。",
+      "vi": "Đỗ hay trượt tùy thuộc vào thể trạng hôm thi."
+     },
+     {
+      "ja": "交渉いかんによっては、計画自体を見直す必要がある。",
+      "reading": "こうしょういかんによっては、けいかくじたいをみなおすひつようがある。",
+      "vi": "Tùy vào kết quả đàm phán mà có khi phải xem xét lại cả kế hoạch."
+     }
+    ]
    },
    "kanji": [
     {
@@ -19810,6 +21994,19 @@
       "reading": "みんなが いそがしいのを いいことに、かれは せきにんを おしつけた。",
       "vi": "Lợi dụng lúc mọi người bận rộn, anh ta đùn đẩy trách nhiệm."
      }
+    ],
+    "grammar_detail": "〜をいいことに nghĩa là 'NHÂN CƠ HỘI… mà…' — lợi dụng tình huống để làm điều KHÔNG HAY. Công thức: N＋をいいことに. Khác với 〜にかこつけて (lấy cớ, cũng tiêu cực) và 〜を機に (nhân cơ hội — TRUNG TÍNH, việc tốt cũng dùng được), をいいことに luôn mang nghĩa xấu: được thể làm càn. Lỗi hay mắc: dùng をいいことに cho việc tốt — sai sắc thái hoàn toàn.",
+    "extra_examples": [
+     {
+      "ja": "親の留守をいいことに、冷蔵庫のお菓子を全部平らげた。",
+      "reading": "おやのるすをいいことに、れいぞうこのおかしをぜんぶたいらげた。",
+      "vi": "Nhân lúc bố mẹ vắng nhà, tôi đã chén sạch bánh kẹo trong tủ lạnh."
+     },
+     {
+      "ja": "上司の出張をいいことに、毎日定時で帰っていた。",
+      "reading": "じょうしのしゅっちょうをいいことに、まいにちていじでかえっていた。",
+      "vi": "Nhân lúc sếp đi công tác, ngày nào tôi cũng về đúng giờ."
+     }
     ]
    },
    "kanji": [
@@ -19925,6 +22122,19 @@
       "ja": "子供に至るまで、村人全員が困難に立ち向かった。",
       "reading": "こどもに いたるまで、むらびと ぜんいんが こんなんに たちむかった。",
       "vi": "Ngay cả trẻ con, toàn dân làng đều đương đầu với khó khăn."
+     }
+    ],
+    "grammar_detail": "〜に至るまで nghĩa là 'CHO ĐẾN CẢ…' — nhấn mạnh phạm vi kéo dài đến tận điểm CỰC ĐOAN. Công thức: N＋に至るまで, thường xếp từ nhỏ đến lớn, chốt bằng ví dụ gây sốc nhất. Khác với 〜まで (đến, trung tính) và 〜さえ, に至るまで mang tính hùng biện, nhấn mạnh 'ngay cả đối tượng khó tin nhất cũng…'. Lỗi hay mắc: đặt ví dụ cực đoan ở đầu — mất hiệu ứng leo thang.",
+    "extra_examples": [
+     {
+      "ja": "末端の社員から社長に至るまで、全員が改革に賛成した。",
+      "reading": "まったんのしゃいんからしゃちょうにいたるまで、ぜんいんがかいかくにさんせいした。",
+      "vi": "Từ nhân viên cấp thấp nhất cho đến cả giám đốc, tất cả đều tán thành cải cách."
+     },
+     {
+      "ja": "指先からつま先に至るまで、全身が震えていた。",
+      "reading": "ゆびさきからつまさきにいたるまで、ぜんしんがふるえていた。",
+      "vi": "Từ đầu ngón tay đến ngón chân, toàn thân tôi run bần bật."
      }
     ]
    },
@@ -20043,7 +22253,20 @@
     "formation": "N + をものともせず(に)",
     "meaning_vi": "không coi… ra gì, bất chấp… (dũng cảm)",
     "pattern": "〜をものともせず",
-    "pattern_ja": "をものともせず"
+    "pattern_ja": "をものともせず",
+    "grammar_detail": "〜をものともせず nghĩa là 'BẤT CHẤP…, không coi… ra gì' — diễn tả LÒNG DŨNG CẢM đối mặt khó khăn. Công thức: N＋をものともせず(に). Khác với 〜を恐れず (không sợ — trung tính hơn) và 〜に負けず, ものともせず mang khí phách anh hùng ca, thường đi với hành động quả cảm. Lỗi hay mắc: dùng cho việc nhỏ nhặt hằng ngày — sẽ nghe phóng đại lố.",
+    "extra_examples": [
+     {
+      "ja": "彼は吹雪をものともせず、単独で頂上を目指した。",
+      "reading": "かれはふぶきをものともせず、たんどくでちょうじょうをめざした。",
+      "vi": "Anh ấy bất chấp bão tuyết, một mình hướng tới đỉnh núi."
+     },
+     {
+      "ja": "周囲の反対をものともせず、彼女は起業の道を選んだ。",
+      "reading": "しゅういのはんたいをものともせず、かのじょはきぎょうのみちをえらんだ。",
+      "vi": "Bất chấp sự phản đối xung quanh, cô ấy đã chọn con đường khởi nghiệp."
+     }
+    ]
    },
    "kanji": [
     {
@@ -20162,6 +22385,19 @@
       "reading": "せいこう できたのは、みんなの きょうりょくが あった しだいだ。",
       "vi": "Thành công được là nhờ có sự hợp tác của mọi người."
      }
+    ],
+    "grammar_detail": "〜次第だ là cách GIẢI THÍCH LÝ DO một cách lịch sự, mềm mỏng — 'thực ra là vì…'. Công thức: Nの/Vた＋次第だ. Khác với 〜わけだ (giải thích logic, thẳng thắn) và 〜からだ, 次第だ mang thái độ khiêm nhường, thường dùng khi xin lỗi hoặc trình bày hoàn cảnh. Hay gặp dạng 〜という次第でして (kết thư xin lỗi). Lỗi hay mắc: dùng 次第だ để đổ lỗi — sai tinh thần, nó dùng để NHẬN TRÁCH NHIỆM một cách lịch sự.",
+    "extra_examples": [
+     {
+      "ja": "納期に遅れたのは、職人の体調不良という次第でして…。",
+      "reading": "のうきにおくれたのは、しょくにんのたいちょうふりょうというしだいでして…。",
+      "vi": "Việc trễ hạn giao hàng, thực ra là vì người thợ bị ốm…."
+     },
+     {
+      "ja": "成功できたのは、偏に皆様のご支援があった次第です。",
+      "reading": "せいこうできたのは、ひとえにみなさまのごしえんがあったしだいです。",
+      "vi": "Thành công này có được, hoàn toàn là nhờ sự giúp đỡ của mọi người."
+     }
     ]
    },
    "kanji": [
@@ -20278,6 +22514,19 @@
       "ja": "仕事に加えて、勉強も続けている。",
       "reading": "しごとに くわえて、べんきょうも つづけている。",
       "vi": "Ngoài công việc, vẫn tiếp tục việc học — đúng kiểu một công đôi việc."
+     }
+    ],
+    "grammar_detail": "〜に加えて nghĩa là 'THÊM VÀO ĐÓ, ngoài… ra còn…' — bổ sung một yếu tố song song. Công thức: N＋に加えて. Khác với 〜の上 (cũng là 'thêm vào', nhưng nhấn mạnh tích lũy) và 〜ばかりか, に加えて trung tính, dùng linh hoạt cả tốt lẫn xấu. Lỗi hay mắc: dùng に加えて nối hai mệnh đề đầy đủ — sai, nó nối DANH TỪ hoặc danh từ hóa (〜ことに加えて).",
+    "extra_examples": [
+     {
+      "ja": "才能に加えて、並外れた努力も兼ね備えている。",
+      "reading": "さいのうにくわえて、なみはずれたどりょくもかねそなえている。",
+      "vi": "Ngoài tài năng ra, anh ấy còn có sự nỗ lực phi thường."
+     },
+     {
+      "ja": "物価高に加えて円安が進み、家計は火の車だ。",
+      "reading": "ぶっかだかにくわえてえんやすがすすみ、かけいはひのくるまだ。",
+      "vi": "Giá cả leo thang lại thêm yên mất giá, chi tiêu gia đình eo hẹp vô cùng."
      }
     ]
    },
@@ -20399,7 +22648,20 @@
     "formation": "Vる + ともなく / ともなしに",
     "meaning_vi": "một cách vô thức, không chủ ý",
     "pattern": "〜ともなく",
-    "pattern_ja": "ともなく"
+    "pattern_ja": "ともなく",
+    "grammar_detail": "〜ともなく diễn tả hành động VÔ THỨC — 'một cách không chủ ý'. Công thức: Vる＋ともなく/ともなしに. Hay đi với động từ tri giác, cảm xúc: 眺めるともなく、涙がこぼれるともなく、いつともなく. Khác với 無意識に (vô thức — từ Hán Việt, khô khan), ともなく mang chất thơ, thường thấy trong văn học. Lỗi hay mắc: dùng ともなく cho hành động có chủ ý rõ ràng — mâu thuẫn ngữ nghĩa.",
+    "extra_examples": [
+     {
+      "ja": "窓の外を眺めるともなく眺めていたら、いつしか夕暮れだった。",
+      "reading": "まどのそとをながめるともなくなめめていたら、いつしかゆうぐれだった。",
+      "vi": "Tôi cứ nhìn vu vơ ra ngoài cửa sổ, chẳng hay hoàng hôn đã buông từ lúc nào."
+     },
+     {
+      "ja": "懐かしい歌を口ずさむともなく口ずさんでいた。",
+      "reading": "なつかしいうたをくちずさむともなくくちずさんでいた。",
+      "vi": "Tôi khẽ ngân nga bài hát thân quen lúc nào không hay."
+     }
+    ]
    },
    "kanji": [
     {
@@ -20516,7 +22778,20 @@
     "formation": "Vた + かと思うと",
     "meaning_vi": "vừa… thì… (diễn biến bất ngờ ngay sau)",
     "pattern": "〜かと思うと",
-    "pattern_ja": "かと思うと"
+    "pattern_ja": "かと思うと",
+    "grammar_detail": "〜かと思うと diễn tả DIỄN BIẾN BẤT NGỜ ngay sau đó — 'vừa… thì…'. Công thức: Vた＋かと思うと. Khác với 〜やいなや/〜が早いか (cũng là 'vừa… thì ngay…', nhấn mạnh TỨC THÌ), かと思うと nhấn mạnh sự BẤT NGỜ, ngoài dự đoán của vế sau. Lỗi hay mắc: vế sau là việc đương nhiên, dễ đoán — mất đi linh hồn của mẫu câu.",
+    "extra_examples": [
+     {
+      "ja": "やっと助かったかと思うと、目の前に次の断崖が現れた。",
+      "reading": "やっとたすかったかとおもうと、めのまえにつぎのだんがいがあらわれた。",
+      "vi": "Vừa tưởng đã thoát nạn thì trước mắt lại hiện ra vực thẳm khác."
+     },
+     {
+      "ja": "泣き止んだかと思うと、今度は笑い出した。",
+      "reading": "なきやんだかとおもうと、こんどはわらいだした。",
+      "vi": "Vừa mới nín khóc thì giờ lại bật cười."
+     }
+    ]
    },
    "kanji": [
     {
@@ -20634,7 +22909,20 @@
     "formation": "Ôn lại công thức từng mẫu qua ví dụ",
     "meaning_vi": "Ôn tập các mẫu diễn đạt ý chí, quyết tâm: 〜ざるを得ない, 〜ずにはおかない, 〜んとする, 〜をものともせず, 〜だに",
     "pattern": "ÔN TẬP",
-    "pattern_ja": "意志表現の総復習"
+    "pattern_ja": "意志表現の総復習",
+    "grammar_detail": "Ngày ôn tập 1 — nhóm ngữ pháp Ý CHÍ, xếp theo 'thang quyết tâm': 〜ざるを得ない (bị ép buộc, thụ động) → 〜んとする (chủ động định làm) → 〜ずにはおかない (cảm xúc trào dâng không kìm nổi) → 〜うにも〜ない (muốn mà bất lực) → 〜がたい (lòng không đành). Mẹo phân biệt nhanh: thấy 覚悟・決意・誓い trong câu, nghĩ ngay đến nhóm này. Trong đề thi, bẫy thường ở: んとする (ý định) vs んばかり (trạng thái sắp xảy ra) — nhớ んとする luôn có CHỦ NGỮ hành động có ý thức.",
+    "extra_examples": [
+     {
+      "ja": "覚悟を決めた以上、どんな困難にもひるまんとするな。",
+      "reading": "かくごをきめたいじょう、どんなこんなんにもひるまんとするな。",
+      "vi": "Đã quyết tâm rồi thì đừng có định chùn bước trước bất kỳ khó khăn nào."
+     },
+     {
+      "ja": "彼の最期の言葉を聞いて、涙せずにはおかなかった。",
+      "reading": "かれのさいごのことばをきいて、なみだせずにはおかなかった。",
+      "vi": "Nghe lời trăn trối của anh ấy, tôi không cầm được nước mắt."
+     }
+    ]
    },
    "kanji": [
     {
@@ -20751,7 +23039,20 @@
     "formation": "Ôn lại công thức từng mẫu qua ví dụ",
     "meaning_vi": "Ôn tập ngữ pháp văn viết trang trọng: 〜べからず, 〜まじき, 〜たるもの, 〜ざる, 〜なり",
     "pattern": "ÔN TẬP",
-    "pattern_ja": "書き言葉表現の総復習"
+    "pattern_ja": "書き言葉表現の総復習",
+    "grammar_detail": "Ngày ôn tập 2 — nhóm ngữ pháp VĂN VIẾT, nhớ bằng 'giọng quan tòa': 〜べからず (CẤM — biển báo), 〜まじき (LÊN ÁN đạo đức — luôn có danh từ sau), 〜たるもの (ĐÃ LÀ… thì phải…), 〜ざる (phủ định cổ). Mẹo nhớ: べからず ngắn gọn như mệnh lệnh; まじき dài dòng như lời kết tội. Bẫy đề thi: まじき bắt buộc có N phía sau (まじき行為), còn べからず đứng cuối câu. Gặp từ Hán cổ 乃・之・且 trong đáp án → 99% là nhóm văn viết.",
+    "extra_examples": [
+     {
+      "ja": "学生たるもの、学問に励むべし。",
+      "reading": "がくせいたるもの、がくもんにはげむべし。",
+      "vi": "Đã là học trò thì phải chăm lo học hành."
+     },
+     {
+      "ja": "公の場で騒ぐまじきことだ。",
+      "reading": "おおやけのばでさわぐまじきことだ。",
+      "vi": "Đó là điều không được phép gây ồn ào nơi công cộng."
+     }
+    ]
    },
    "kanji": [
     {
@@ -20867,7 +23168,20 @@
     "formation": "Ôn tập cách đọc và nghĩa qua ví dụ",
     "meaning_vi": "Ôn tập Kanji khó nhớ, khó đọc: 鬱, 薔, 薇 và từ ghép liên quan",
     "pattern": "ÔN TẬP",
-    "pattern_ja": "難読漢字の総復習"
+    "pattern_ja": "難読漢字の総復習",
+    "grammar_detail": "Ngày ôn tập 3 — nhóm KANJI KHÓ, 'trùm cuối' N1: 鬱 (うつ: u uất — nhớ qua 憂鬱ゆううつ, tâm trạng ngày mưa), 薔薇 (ばら: hoa hồng — cặp đôi hoa, viết được là đỗ), 躊躇 (ちゅうちょ: do dự — chân 足 chần chừ không bước), 顰める (しかめる: cau mày — mặt nhăn như chữ). Mẹo chung: kanji nhiều nét → học qua TỪ GHÉP quen thuộc, đừng học chữ lẻ. Trong đề thi, phần đọc kanji khó thường cho điểm 'tặng' nếu bạn thuộc lòng 4-5 từ ghép này.",
+    "extra_examples": [
+     {
+      "ja": "鬱陶しい雨が続く中、彼は決断を躊躇っていた。",
+      "reading": "うっとうしいあめがつづくなか、かれはけつだんをちゅうちょっていた。",
+      "vi": "Giữa những ngày mưa dầm dề ảm đạm, anh ấy cứ do dự mãi không quyết định nổi."
+     },
+     {
+      "ja": "彼女は眉を顰めながらも、薔薇の花束を受け取った。",
+      "reading": "かのじょはまゆをしかめながらも、ばらのはなたばをうけとった。",
+      "vi": "Cô ấy cau mày nhưng vẫn nhận bó hoa hồng."
+     }
+    ]
    },
    "kanji": [
     {
@@ -20984,7 +23298,20 @@
     "formation": "Ôn tập phân biệt nghĩa qua ví dụ đối chiếu",
     "meaning_vi": "Ôn tập từ vựng dễ nhầm: おざなり/なおざり, 紛らわしい/惑わす…",
     "pattern": "ÔN TẬP",
-    "pattern_ja": "紛らわしい語彙の総復習"
+    "pattern_ja": "紛らわしい語彙の総復習",
+    "grammar_detail": "Ngày ôn tập 4 — nhóm TỪ DỄ NHẦM: 大雑把 (おおざっぱ: sơ sài, làm cho có) vs なおざり (bỏ bê, mặc kệ): một bên 'LÀM QUA cho xong', một bên 'BỎ LUÔN không thèm làm'. 紛らわしい (まぎらわしい: gây nhầm lẫn) vs 惑わす (まどわす: làm mê hoặc, dụ dỗ): một gây LẪN, một gây LẠC. 似たり寄ったり (にたりよったり: kẻ tám lạng người nửa cân). Mẹo thi: thấy đáp án có cặp từ gần giống nhau → đọc kỹ chữ Hán, đừng chọn theo cảm tính.",
+    "extra_examples": [
+     {
+      "ja": "大雑把な性格の彼も、仕事だけはなおざりにしない。",
+      "reading": "おおざっぱなせいかくのかれも、しごとだけはなおざりにしない。",
+      "vi": "Tính anh ấy xuề xòa là thế, nhưng riêng công việc thì không bao giờ bỏ bê."
+     },
+     {
+      "ja": "似たり寄ったりの案が並び、どれも決め手に欠けた。",
+      "reading": "にたりよったりのあんがならび、どれもきめてにかけた。",
+      "vi": "Các phương án na ná nhau xếp hàng loạt, cái nào cũng thiếu điểm quyết định."
+     }
+    ]
    },
    "kanji": [
     {
@@ -21102,7 +23429,20 @@
     "formation": "Vận dụng tổng hợp ngữ pháp, Kanji, từ vựng N1",
     "meaning_vi": "Đề thi thử mini: vận dụng tổng hợp kiến thức N1 đã học",
     "pattern": "ÔN TẬP",
-    "pattern_ja": "ミニ模擬試験"
+    "pattern_ja": "ミニ模擬試験",
+    "grammar_detail": "Ngày ôn tập cuối — ĐỀ THI THỬ, vận dụng tổng hợp. Chiến thuật N1: (1) Đọc lướt đáp án trước, gạch chân từ khóa; (2) Ngữ pháp: nhìn công thức phía SAU chỗ trống (べからず đứng cuối, まじき cần danh từ); (3) Kanji: đọc theo từ ghép, đừng đọc chữ lẻ; (4) Từ vựng: cặp dễ nhầm thì soi chữ Hán; (5) Bấm giờ như thi thật — 110 phút cho cả 3 phần. 180 ngày qua bạn đã nạp 175 mẫu ngữ pháp, 540 Kanji, 900 từ vựng — hôm nay là ngày gặt hái. Bình tĩnh, và đỗ N1 nhé!",
+    "extra_examples": [
+     {
+      "ja": "制限時間内に解き終えんとするも、いかんせん時間が足りなかった。",
+      "reading": "せいげんじかんないにとときおえんとするも、いかんせんじかんがたりなかった。",
+      "vi": "Định làm xong trong thời gian quy định, nhưng đành chịu vì không đủ giờ."
+     },
+     {
+      "ja": "見直しを怠るべからず。最後の一分まで諦めるな。",
+      "reading": "みなおしをおこたるべからず。さいごのいっぷんまであきらめるな。",
+      "vi": "Cấm lơ là khâu kiểm tra lại. Đến phút cuối cùng cũng đừng bỏ cuộc."
+     }
+    ]
    },
    "kanji": [
     {
