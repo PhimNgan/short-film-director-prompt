@@ -1,6 +1,6 @@
 # Bài 001 — Diễn đạt sự bắt buộc
 
-Ngày: Ngày 20/10/2026 • Thời lượng video: 271s
+Ngày: Ngày 21/10/2026 • Thời lượng video: 304s
 
 ## Kịch bản lời thoại
 
@@ -23,16 +23,35 @@ Ngày: Ngày 20/10/2026 • Thời lượng video: 271s
 - [JA] する
 - [VI] →
 - [JA] せざるを得ない
-- [VI] Mẹo nhớ:
-- [JA] 「ざる」
-- [VI] là dạng cổ của
-- [JA] 「ない」
-- [VI] (không),
-- [JA] 「得ない」
-- [VI] là không đạt được → KHÔNG đạt được việc KHÔNG làm = bắt buộc phải làm!
+- [VI] Mẹo nhớ: Mẹo:
+- [JA] ざる
+- [VI] = dạng cổ của
+- [JA] ず（
+- [VI] không
+- [JA] ）
+- [VI] +
+- [JA] ある
+- [VI] → 'không có được' = đành phải.
+- [VI] Giải thích kỹ hơn một chút nhé.
+- [JA] 〜ざるを得ない
+- [VI] diễn tả sự bắt buộc do hoàn cảnh dồn ép: người nói không hề muốn nhưng không còn lựa chọn nào khác, nên sắc thái luôn kèm theo sự miễn cưỡng, tiếc nuối. Đây là mẫu văn viết trang trọng, thường gặp trong báo cáo, luận văn, tin tức — trong hội thoại thường ngày người ta sẽ nói
+- [JA] 〜なければならない
+- [VI] hoặc
+- [JA] 〜ないといけない
+- [VI] thay thế. Khác với
+- [JA] 〜なければならない
+- [VI] (nghĩa vụ khách quan, có thể tự nguyện chấp nhận) và
+- [JA] 〜ないわけにはいかない
+- [VI] (bị ràng buộc bởi lẽ thường hay tình nghĩa, sắc thái nhẹ hơn),
+- [JA] 〜ざるを得ない
+- [VI] nhấn mạnh 'đường cùng'. Lỗi hay gặp: dùng mẫu này cho nghĩa vụ đơn thuần trong đời sống như
+- [JA] 歯を磨かざるを得ない
+- [VI] — nghe rất gượng gạo, phải dùng
+- [JA] 歯を磨かなければならない
+- [VI] .
 
 ### examples
-- [VI] Cùng nghe ba ví dụ nhé.
+- [VI] Cùng nghe các ví dụ nhé.
 - [VI] Ví dụ 1:
 - [JA] 病気で行けなくなったので、欠席せざるを得なかった。
 - [VI] Vì bị ốm nên không đi được, đành phải vắng mặt.
@@ -42,78 +61,76 @@ Ngày: Ngày 20/10/2026 • Thời lượng video: 271s
 - [VI] Ví dụ 3:
 - [JA] 締め切りが明日なので、今夜は徹夜せざるを得ない。
 - [VI] Hạn chót là ngày mai, nên tối nay đành phải thức trắng đêm.
+- [VI] Ví dụ 4:
+- [JA] 財布を忘れたので、今日のランチは同僚におごってもらわざるを得なかった。
+- [VI] Quên ví nên bữa trưa hôm nay đành phải để đồng nghiệp khao.
+- [VI] Ví dụ 5:
+- [JA] 上司の無茶な命令だが、逆らえばクビになるので従わざるを得ない。
+- [VI] Dù là mệnh lệnh vô lý của sếp, nhưng chống lại thì mất việc nên đành phải tuân theo.
 
 ### kanji
 - [VI] Chữ Kanji thứ 1:
 - [JA] 証、ショウ
-- [VI] Nghĩa là chứng cứ, chứng minh.
-- [VI] Bộ NGÔN
-- [JA] （言
-- [VI] : lời nói
-- [VI] ）
-- [VI] + CHÍNH
-- [JA] （正
-- [VI] : đúng đắn
-- [VI] ）
-- [VI] = lời nói đúng đắn chính là BẰNG CHỨNG!
+- [VI] Nghĩa là chứng cứ.
+- [JA] 言（
+- [VI] lời nói
+- [JA] ）
+- [VI] +
+- [JA] 正（
+- [VI] đúng đắn
+- [JA] ）
+- [VI] = lời nói đúng đắn chính là CHỨNG CỨ.
 - [VI] Chữ Kanji thứ 2:
 - [JA] 認、ニン
-- [VI] Nghĩa là thừa nhận, công nhận.
-- [VI] Có bằng chứng
-- [JA] （証拠）
-- [VI] rồi thì bạn phải THỪA NHẬN
-- [JA] （認める）
-- [VI] thôi!
+- [VI] Nghĩa là thừa nhận.
+- [JA] 言
+- [VI] +
+- [JA] 忍（
+- [VI] nhẫn nhịn
+- [JA] ）
+- [VI] = phải 'nhẫn' mà nói ra lời THỪA NHẬN.
 - [VI] Chữ Kanji thứ 3:
 - [JA] 欠、ケツ
 - [VI] Nghĩa là thiếu, vắng mặt.
-- [VI] Chữ NHÂN
-- [JA] （人
-- [VI] : người
-- [VI] ）
-- [VI] mà hất một nét lên trời = người THIẾU một nét, tức là thiếu vắng!
+- [VI] Người giơ hai tay lên trời vì THIẾU đồ —
+- [JA] 欠
+- [VI] là thiếu, vắng.
 
 ### vocab
 - [VI] 5 từ vựng N1 hôm nay. Nghe và lặp lại theo nhé.
 - [JA] 締め切り、しめきり
 - [VI] Nghĩa là hạn chót.
-- [JA] 締め切りは明日です。
-- [VI] Hạn chót là ngày mai.
+- [JA] レポートの締め切りは金曜日だ。
+- [VI] Hạn chót nộp báo cáo là thứ Sáu.
 - [JA] 徹夜、てつや
 - [VI] Nghĩa là thức trắng đêm.
-- [JA] 昨夜は徹夜で勉強した。
-- [VI] Tối qua tôi đã thức trắng đêm để học.
+- [JA] 試験前は徹夜で勉強した。
+- [VI] Trước kỳ thi tôi đã thức trắng đêm học bài.
 - [JA] 証拠、しょうこ
 - [VI] Nghĩa là bằng chứng.
-- [JA] 証拠を見せてください。
-- [VI] Hãy cho tôi xem bằng chứng.
+- [JA] 証拠がなければ逮捕できない。
+- [VI] Không có bằng chứng thì không thể bắt giữ.
 - [JA] 欠席、けっせき
 - [VI] Nghĩa là vắng mặt.
-- [JA] 彼は今日欠席です。
-- [VI] Hôm nay anh ấy vắng mặt.
+- [JA] 彼は病気で会議を欠席した。
+- [VI] Anh ấy vì ốm đã vắng mặt buổi họp.
 - [JA] 認める、みとめる
 - [VI] Nghĩa là thừa nhận.
-- [JA] 失敗を認めることが大切だ。
-- [VI] Dám thừa nhận thất bại là điều quan trọng.
+- [JA] 彼は自分のミスを認めた。
+- [VI] Anh ấy đã thừa nhận lỗi của mình.
 
 ### quiz
 - [VI] Mini quiz nè!
-- [VI] Câu 2. Điền vào chỗ trống.
-- [JA] 証拠がある以上、認め＿＿＿ない。
+- [VI] Câu 2. Vì bão nên tàu dừng, đành phải đi bằng taxi.
+- [JA] 台風で電車が止まったので、タクシーで行く＿＿＿なかった。
 - [VI] Đáp án là:
 - [JA] ざるを得
-- [JA] 証拠がある以上、認めざるを得ない。
-- [VI] (Đã có bằng chứng thì đành phải thừa nhận.)
-- [VI] Câu 3. Chọn dạng đúng của せざるを得ない.
-- [JA] 締め切りが明日なので、今夜は徹夜（　　）ならない。
+- [VI] đành phải
+- [VI] Câu 3. Cách diễn đạt nào gần nghĩa nhất với 〜ざるを得ない?
+- [JA] 「〜ざるを得ない」とほぼ同じ意味の表現は？
 - [VI] Đáp án là:
-- [JA] せざるを得
-- [JA] せざるを得ない
-- [VI] (động từ
-- [JA] する
-- [VI] →
-- [JA] せざるを得ない
-- [VI] ).
+- [JA] 〜するしかない
+- [VI] chỉ còn cách làm ~
 - [VI] Cùng ôn lại nhé. Hôm nay chúng ta đã học mẫu
 - [JA] ざるを得ない
 - [JA] 証、認、欠
